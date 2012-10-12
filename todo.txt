@@ -1,0 +1,20 @@
+to do: 
+
+add to about.php page to explain in more detail who we are and what we do.
+add a way to join the mailing list
+add an events calender
+
+maybe make a Misc. page for whatever we want to through online, scirpts, manuals, whatever.
+
+
+----------------------------------
+About this File:
+Add to this page if you have an idea, it doesn't even have to be a good.
+Think of this more as a suggestion box for what should be done with the site.
+That way if someone has the time them they can hack away and get something done without wondering what to do.
+If something needs to be done, just say so here.
+If it needs to be done now, then yell at someone who can do what needs to be done through email or something, but maybe also write it down here if you want to make sure they have the instructions. 
+
+Site reconstruction started October 9, 2012
+New to web developement? Go to http://www.w3schools.com/ to learn what you need
+
