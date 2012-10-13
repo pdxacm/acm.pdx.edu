@@ -4,7 +4,7 @@ add to about.php page to explain in more detail who we are and what we do.
 add a way to join the mailing list
 add an events calender
 
-maybe make a Misc. page for whatever we want to through online, scirpts, manuals, whatever.
+maybe make a Misc. page for whatever we want to through online, scripts, manuals, whatever.
 
 
 ----------------------------------
