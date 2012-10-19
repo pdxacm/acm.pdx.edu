@@ -5,22 +5,21 @@ body	{text-align: center;
 
 #header img	{border: 1mm solid #888;}
 
-#menu	{display: table;
-	margin: auto;
-	margin-top: 1mm;
-	margin-bottom: 2mm;}
+#menu	{margin-top: 1mm;
+	margin-bottom: 2mm;
+	text-align: center;}
 
-#menu ul {margin: 0px;
-	padding: 0px;
-	list-style-type: none;}
+#menu table {margin: auto;
+	border-collapse: separate;
+	border-spacing: 0.5mm;}
 
-#menu li {position: relative;
-	display: inline;
-	float: left;
-	width: 1.3in;
+#menu td {width: 3.2cm;
+	min-width: 3.2cm;
+	background: #fff;
 	border: 1mm solid #888;
-	border-radius: 3px;
-	margin: 1px;}
+	border-radius: 1mm;
+	text-align: center;
+	padding: 0px;}
 
 #menu a	{display: block;
 	padding: 3px 0px 3px 0px;
@@ -36,7 +35,7 @@ body	{text-align: center;
 #main	{text-align: left;
 	background: #FFF;
 	margin: auto;
-	width: 17cm;
+	width: 19cm;
 	padding: 4mm 1cm 6mm 1cm;
 	border: 1mm solid #888;}
 
@@ -46,3 +45,6 @@ th, td	{border: 1px solid black;
 th	{text-align: center;}
 td	{empty-cells: show;}
 table	{border-collapse: collapse;}
+
+.cr	{font-size: 10pt;
+	color: gray;}

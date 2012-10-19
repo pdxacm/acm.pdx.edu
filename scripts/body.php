@@ -26,19 +26,21 @@ if(function_exists(head_content()))
   </div>
 
   <div id="menu">
-    <ul>
-      <li>
+    <table><tr>
+      <td>
         <a href="/">Home</a>
-      </li><li>
+      </td><td>
         <a href="/about.php">About Us</a>
-      </li><li>
-        <a href="/tutors.php">Tutors</a>
-      </li><li>
-        <a href="/events.php">Events</a>
-      </li><li>
+      </td><td>
         <a href="/contact.php">Contact Us</a>
-      </li>
-    </ul>
+      </td><td>
+        <a href="/events.php">Events</a>
+      </td><td>
+        <a href="/tutors.php">Tutors</a>
+      </td><td>
+        <a href="/misc.php">Misc.</a>
+      </td>
+    </tr></table>
   </div>
 
   <div id="main">
@@ -49,5 +51,6 @@ if(function_exists(main_content()))
 }
 ?>
   </div>
+  <p class="cr">&copy; 2012 ACM @ PSU</p>
 </body>
 </html>

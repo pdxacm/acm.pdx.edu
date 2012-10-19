@@ -19,9 +19,15 @@ function main_content()
 ?>
     <h2>Events Schedule</h2>
 
-    <p>There is no guest speaker scheduled for this Friday (10/12/2012), so we'll be playing games again at the usual time and place.</p>
+    <p>There is no guest speaker scheduled for this Friday (10/19/2012), so we'll be playing games again at the usual time and place.</p>
 
     <p>There are future events planned, but we haven't added them to the site yet</p>
+
+    <p>
+      Sign up for the
+      <a href="https://mailhost.cecs.pdx.edu/cgi-bin/mailman/listinfo/acm-members">ACM Mailing List</a>
+      to get messages about upcoming events.
+    </p>
 <?php
 }
   include 'scripts/body.php';
