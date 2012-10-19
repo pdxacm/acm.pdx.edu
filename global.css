@@ -36,7 +36,7 @@ body	{text-align: center;
 #main	{text-align: left;
 	background: #FFF;
 	margin: auto;
-	width: 17cm;
+	width: 19cm;
 	padding: 4mm 1cm 6mm 1cm;
 	border: 1mm solid #888;}
 
@@ -46,3 +46,6 @@ th, td	{border: 1px solid black;
 th	{text-align: center;}
 td	{empty-cells: show;}
 table	{border-collapse: collapse;}
+
+.cr	{font-size: 10pt;
+	color: gray;}

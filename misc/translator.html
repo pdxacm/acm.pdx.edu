@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <title>Translator</title>
+  <meta charset="windows-1252">
+
+  <script type="text/javascript">
+function text_to_decimal(text)
+{
+  var decimal = "";
+  for(i=0;i<text.length;i++)
+    decimal += text.charCodeAt(i) + " ";
+
+  return decimal;
+}
+
+
+function binary_to_decimal(binary)
+{
+  //remove trailing space
+  if(binary[binary.length-1] == " ")
+    binary = binary.slice(0, binary.length-1);
+
+  var decimal = "";
+  bin_array = binary.split(" ");
+  for(i=0;i<bin_array.length;i++)
+    decimal += parseInt(bin_array[i], 2) + " ";
+
+  return decimal;
+}
+
+
+function hex_to_decimal(hex)
+{
+  //remove trailing space
+  if(hex[hex.length-1] == " ")
+    hex = hex.slice(0, hex.length-1);
+
+  var decimal = "";
+  hex_array = hex.split(" ");
+  for(i=0;i<hex_array.length;i++)
+    decimal += parseInt(hex_array[i], 16)+" ";
+
+  return decimal;
+}
+
+
+function decimal_to_text(decimal)
+{
+  //remove trailing space
+  if(decimal[decimal.length-1] == " ")
+    decimal = decimal.slice(0, decimal.length-1);
+
+  var text = "";
+  dec_array = decimal.split(" ");
+  for(i=0;i<dec_array.length;i++)
+    text += String.fromCharCode(dec_array[i]);
+
+  return text;
+}
+
+
+function decimal_to_binary(decimal)
+{
+  //remove trailing space
+  if(decimal[decimal.length-1] == " ")
+    decimal = decimal.slice(0, decimal.length-1);
+
+  var binary = "";
+  dec_array = decimal.split(" ");
+  for(i=0;i<dec_array.length;i++)
+  {
+    binary += dec_to_bin(dec_array[i]) + " ";
+  }
+
+  return binary;
+}
+
+
+//parce a decimal value into a 8-bit binary value
+function dec_to_bin(x)
+{
+  var dec = parseInt(x, 10);
+  var bin = "";
+  var bin_val = new Array("128", "64", "32", "16", "8", "4", "2", "1");
+
+  if(!isNaN(dec) && dec >= 0 && dec < 256)
+  {
+    for(j=0;j<bin_val.length;j++) // division method too slow
+    {
+      if(dec - bin_val[j] >= 0)
+      {
+        bin += "1";
+        dec -= bin_val[j];
+      }
+      else
+        bin += "0";
+    }
+  }
+  else
+  {
+    bin = "NaB"; // Not a Binary
+  }
+
+  return bin;
+}
+
+
+function binary_to_hex(binary)
+{
+  //remove trailing space
+  if(binary[binary.length-1] == " ")
+    binary = binary.slice(0, binary.length-1);
+
+  var hex = "";
+  bin_array = binary.split(" ");
+  for(i=0;i<bin_array.length;i++)
+  {
+    hex += bin_to_hex(bin_array[i])+" ";
+  }
+
+  return hex;
+}
+
+
+//parce a binary value into a 8-bit hex value
+function bin_to_hex(x)
+{
+  var bin1 = parseInt(x.slice(0,4), 2);
+  var bin2 = parseInt(x.slice(4,8), 2);
+  var hex_val = new Array("0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "A", "B", "C", "D", "E", "F");
+  hex = hex_val[bin1] + hex_val[bin2];
+  return hex;
+}
+
+
+function controller(state)
+{
+  var txt = "";
+  var bin = "";
+  var hex = "";
+  var dec = "";
+
+  switch(state)
+  {
+    case 0: // Text
+      txt = document.getElementById("txt").value;
+      dec = text_to_decimal(txt);
+      bin = decimal_to_binary(dec);
+      hex = binary_to_hex(bin);
+      break;
+
+
+    case 1: // Binary
+      bin = document.getElementById("bin").value;
+      //verify correct format - EX: 01110100 01100101 01110011 01110100
+      dec = binary_to_decimal(bin);
+      txt = decimal_to_text(dec);
+      hex = binary_to_hex(bin);
+      break;
+
+
+    case 2: // HEX
+      hex = document.getElementById("hex").value;
+      //verify correct format - EX: 41 53 44 46 47 48 4a 79 75 69 6f 70
+      dec = hex_to_decimal(hex);
+      txt = decimal_to_text(dec);
+      bin = decimal_to_binary(dec);
+      break;
+
+
+    case 3: // Decimal
+      dec = document.getElementById("dec").value;
+      //verify correct format - EX: 116 101 115 116 32 116 101 120 116
+      txt = decimal_to_text(dec);
+      bin = decimal_to_binary(dec);
+      hex = binary_to_hex(bin);
+      break;
+  }
+
+  // case 4: // clear
+  document.getElementById("txt").value = txt;
+  document.getElementById("bin").value = bin;
+  document.getElementById("hex").value = hex;
+  document.getElementById("dec").value = dec;
+}
+  </script>
+
+  <style type="text/css">
+body	{text-align: center;
+	background: black;
+	color: white;}
+table	{margin: auto;}
+td	{text-align: left;
+	}
+
+textarea{width: 3in;
+	height: 2in;}
+
+.cr	{font-size: 10pt;
+        color: gray;}
+  </style>
+</head>
+<body>
+  <h2>Translator</h2>
+  <table><tr>
+    <td>
+      <label for="txt">Text</label><br />
+      <textarea id="txt"></textarea><br />
+      <input type="button" value="Encode" onclick="controller(0)" />
+    </td><td>
+      <label for="bin">Binary</label><br />
+      <textarea id="bin"></textarea><br />
+      <input type="button" value="Decode" onclick="controller(1)" />
+    </td><td>
+      <label for="hex">HEX</label><br />
+      <textarea id="hex"></textarea><br />
+      <input type="button" value="Decode" onclick="controller(2)" />
+    </td><td>
+      <label for="dec">Decimal (ASCII)</label><br />
+      <textarea id="dec"></textarea><br />
+      <input type="button" value="Decode" onclick="controller(3)" />
+    </td>
+  </tr></table><br />
+  <input type="button" value="Clear All"  onclick="controller(4)" />
+  <input type="button" value="Sample Text" onclick="document.getElementById('txt').value = 'The quick brown fox jumps over the lazy dog.'" />
+
+  <p class="cr">&copy; 2012 ACM @ PSU</p>
+</body>
+</html>

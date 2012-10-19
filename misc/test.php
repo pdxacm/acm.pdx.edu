@@ -1,5 +1,5 @@
 <?php
-  $title = "ACM @ PSU - Miscellaneous";
+  $title = "ACM @ PSU";
 
 // put stuff in here to get added to this specific page's head section
 function head_content()
@@ -17,11 +17,9 @@ function head_content()
 function main_content()
 {
 ?>
-    <h2>Miscellaneous</h2>
-
-    <p></p>
+    Page Content Goes here.
 <?php
 }
 
-  include 'scripts/body.php';
+  include '../scripts/body.php';
 ?>

@@ -19,7 +19,7 @@ function main_content()
 ?>
     <h2>Events Schedule</h2>
 
-    <p>There is no guest speaker scheduled for this Friday (10/12/2012), so we'll be playing games again at the usual time and place.</p>
+    <p>There is no guest speaker scheduled for this Friday (10/19/2012), so we'll be playing games again at the usual time and place.</p>
 
     <p>There are future events planned, but we haven't added them to the site yet</p>
 

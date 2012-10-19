@@ -32,11 +32,13 @@ if(function_exists(head_content()))
       </li><li>
         <a href="/about.php">About Us</a>
       </li><li>
-        <a href="/tutors.php">Tutors</a>
+        <a href="/contact.php">Contact Us</a>
       </li><li>
         <a href="/events.php">Events</a>
       </li><li>
-        <a href="/contact.php">Contact Us</a>
+        <a href="/tutors.php">Tutors</a>
+      </li><li>
+        <a href="/misc.php">Misc.</a>
       </li>
     </ul>
   </div>
@@ -49,5 +51,6 @@ if(function_exists(main_content()))
 }
 ?>
   </div>
+  <p class="cr">&copy; 2012 ACM @ PSU</p>
 </body>
 </html>
