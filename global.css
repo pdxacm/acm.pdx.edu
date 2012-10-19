@@ -5,29 +5,21 @@ body	{text-align: center;
 
 #header img	{border: 1mm solid #888;}
 
-#menu	{display: block;
-	margin: auto;
-	margin-top: 1mm;
+#menu	{margin-top: 1mm;
 	margin-bottom: 2mm;
-	width: 21.2cm;
-	white-space: nowrap;
 	text-align: center;}
 
-#menu ul {display: table;
-	margin: auto;
-	margin-top: 0px;
-	margin-bottom: 0px;
-	padding: 0px;
-	text-align: center;
-	list-style-type: none;}
+#menu table {margin: auto;
+	border-collapse: separate;
+	border-spacing: 0.5mm;}
 
-#menu li {position: relative;
-	display: inline;
-	float: left;
-	width: 3.2cm;
+#menu td {width: 3.2cm;
+	min-width: 3.2cm;
+	background: #fff;
 	border: 1mm solid #888;
-	border-radius: 3px;
-	margin: 0.5mm;}
+	border-radius: 1mm;
+	text-align: center;
+	padding: 0px;}
 
 #menu a	{display: block;
 	padding: 3px 0px 3px 0px;
