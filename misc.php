@@ -22,8 +22,8 @@ function main_content()
     <p>Just whatever doesn't fit anywhere else</p>
 
     <p>
-      <a href="/misc/history.php">Recovered History</a> | 
-      <a href="/misc/translator.html">Translator</a>
+      <a href="misc/history.php">Recovered History</a> | 
+      <a href="misc/translator.html">Translator</a>
     </p>
 <?php
 }

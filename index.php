@@ -44,4 +44,5 @@ for(i=0;i<message.length;i++)
 <?php
 }
   include 'scripts/body.php';
+  //phpinfo();
 ?>
