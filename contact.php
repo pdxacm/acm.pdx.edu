@@ -20,12 +20,8 @@ function main_content()
     <h2>Contact Us</h2>
 
     <p>IRC: #acm on irc.cat.pdx.edu</p>
-    <script type="text/javascript"><!--
-message = new Array("01000101","01101101","01100001","01101001","01101100","00111010","00100000","01110000","01110011","01110101","01100001","01100011","01101101","00100000","01100001","01110100","00100000","01100011","01100101","01100011","01110011","00101110","01110000","01100100","01111000","00101110","01100101","01100100","01110101","00100000");
 
-for(i=0;i<message.length;i++)
-  document.write(String.fromCharCode(parseInt(message[i], 2)));
-    --></script>
+    <p>Email: psuacm at cecs.pdx.edu</p>
 <?php
 }
   include 'scripts/body.php';

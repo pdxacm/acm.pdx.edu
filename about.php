@@ -26,7 +26,12 @@ function main_content()
       <a href="http://www.acm.org/">Association for Computing Machinery</a>.
     </p>
 
-    <p>We meet every Friday at 4pm in FAB 88-02, either for games or for guest speakers. We also provide CS tutoring during the week in addition to the existing CS tutors.</p>
+    <p>
+      We meet every Friday at 4pm in FAB 88-02, either for games or for guest speakers.
+      We also provide CS tutoring during the week in addition to the existing CS tutors.
+      We're open to suggestions for other things we could do as a group.
+      Have an idea? <a href="contact.php">Contact us</a>.
+    </p>
 
     <p><b>Official Members:</b><br />
 Advisor - Bart Massey - bart at cs.pdx.edu<br />

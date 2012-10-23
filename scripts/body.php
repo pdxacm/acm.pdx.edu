@@ -26,6 +26,7 @@ else
 ?></title>
   <meta charset="utf-8">
   <link type="text/css" rel="stylesheet" href="<?php echo $root; ?>global.css" />
+  <link rel="shortcut icon" href="<?php echo $root; ?>images/favicon.ico" type="image/x-icon" />
 <?php
 if(function_exists('head_content'))
 {

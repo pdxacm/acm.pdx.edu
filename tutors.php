@@ -19,6 +19,16 @@ function main_content()
 {
 ?>
     <h2>ACM Tutors (Fall 2012)</h2>
+
+    <p>
+      The ACM provides supplementary CS tutoring services for the college of engineering.
+      Tutors can be found in FAB 88-02.
+      Below is a table of names and times the ACM tutors are available.
+      If you would like to volunteer to be a tutor, <a href="contact.php">contact us</a>  or show up to our one of our <a href="events.php">events</a>.
+      Volunteers need to have passed CS 163 (Data Structures) or its equivalent.
+      Most volunteers sign up for an hour or two a week, depending on what fits their schedule.
+    </p>
+
     <table>
       <tr>
         <th></th>
