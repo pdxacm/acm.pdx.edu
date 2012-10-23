@@ -19,9 +19,9 @@ function main_content()
 ?>
     <h2>Events Schedule</h2>
 
-    <p>There is no guest speaker scheduled for this Friday (10/19/2012), so we'll be playing games again at the usual time and place.</p>
+    <p>This Friday (10/26/2012) we will have Thomas Schreiber (Ubiquill) talking about node.js, socket.io, and other web development resources.</p>
 
-    <p>There are future events planned, but we haven't added them to the site yet</p>
+    <p>There are future events planned, but we haven't added them to the site yet.</p>
 
     <p>
       Sign up for the
