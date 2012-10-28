@@ -71,6 +71,8 @@ th, td	{border: 1px solid black;
 th	{text-align: center;}
 td	{empty-cells: show;}
 table	{border-collapse: collapse;}
+blink	{}
+marquee	{}
   </style>
 
   <script type="text/javascript">
@@ -82,9 +84,27 @@ table	{border-collapse: collapse;}
 function main_content()
 {
 ?>
-    <h2>Future Site Design</h2>
+    <h2><blink>Future Site Design</blink></h2>
 
-    <p>Comming Soon!</p>
+    <p>
+      <marquee behavior="slide" 
+             direction="down" 
+             loop="10">
+        Comming Soon!
+      </marquee>
+      <marquee behavior="alternate" 
+             direction="right" 
+             loop="infinite">
+        Comming Soon!
+      </marquee>
+      <marquee behavior="scroll" 
+             direction="left" 
+             loop="100"
+	     scrollamount=100
+	     scrolldelay=500>
+        Comming Soon!
+      </marquee>
+    </p>
 <?php
 }
 ?>
