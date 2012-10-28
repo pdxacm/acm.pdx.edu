@@ -3,7 +3,9 @@ body	{text-align: center;
 	margin: 0cm;
 	padding: 5mm;}
 
-#header img	{border: 1mm solid #888;}
+
+/* Border */
+#header img	{border-radius: 1mm;}
 
 #menu	{margin-top: 1mm;
 	margin-bottom: 2mm;
@@ -11,14 +13,14 @@ body	{text-align: center;
 
 #menu table {margin: auto;
 	border-collapse: separate;
-	border-spacing: 0.5mm;}
+	border-spacing: 2px;}
 
 #menu td {width: 3.2cm;
 	min-width: 3.2cm;
 	background: #fff;
-	border: 1mm solid #888;
-	border-radius: 1mm;
 	text-align: center;
+	background: transparent;
+	border-width: 0px;
 	padding: 0px;}
 
 #menu a	{display: block;
@@ -27,18 +29,20 @@ body	{text-align: center;
 	font-weight: bold;
 	font-family: arial;
 	color: #77f;
+	border-radius: 1mm;
 	background: #fff;}
 
 #menu a:hover {color: #fff;
-	background: #aaf;}
+	background: #66f;}
 
 #main	{text-align: left;
 	background: #FFF;
 	margin: auto;
 	width: 19cm;
-	padding: 4mm 1cm 6mm 1cm;
-	border: 1mm solid #888;}
-
+	border: 1px solid #f0f0f0;
+	border-radius: 1mm;
+	box-shadow: 10px 10px 5px #222;
+	padding: 4mm 1cm 6mm 1cm;}
 
 th, td	{border: 1px solid black;
 	padding: 0px 5px 0px 5px;}

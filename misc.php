@@ -23,7 +23,8 @@ function main_content()
 
     <p>
       <a href="misc/history.php">Recovered History</a> | 
-      <a href="misc/translator.html">Translator</a>
+      <a href="misc/translator.html">Translator</a> | 
+      <a href="misc/fsd.php">Future Site Design</a>
     </p>
 <?php
 }
