@@ -36,7 +36,7 @@ function main_content()
 
     <p>IRC: #acm on irc.cat.pdx.edu</p>
 
-    <p>Email: psuacm at cecs.pdx.edu</p>
+    <p>Email: psuacm at cs.pdx.edu</p>
 
     <p><a href="https://mailhost.cecs.pdx.edu/cgi-bin/mailman/listinfo/acm-members">ACM Mailing List</a></p>
 <?php

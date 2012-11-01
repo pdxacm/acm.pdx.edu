@@ -20,7 +20,7 @@ function main_content()
     <p>Join us on irc at #acm on irc.cat.pdx.edu<br />
     <a href="http://www.irchelp.org/irchelp/irctutorial.html#intro" class="irc_link">What is IRC?</a></p>
 
-    <p>Or email us through: psuacm at cecs.pdx.edu<br />
+    <p>Or email us through: psuacm at cs.pdx.edu<br />
     This will forward your message to each of the active officers for this chapter.</p>
 <?php
 }
