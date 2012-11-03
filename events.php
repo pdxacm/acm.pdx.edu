@@ -4,13 +4,14 @@
 // put stuff in here to get added to this specific page's head section
 function head_content()
 {
-/*?>
+?>
   <style type="text/css">
+.small	{font-size: 8pt;}
   </style>
 
   <script type="text/javascript">
   </script>
-<?php*/
+<?php
 }
 
 // put stuff in here to get it displayed on the page
@@ -21,7 +22,10 @@ function main_content()
 
     <!--<p>This Friday (10/26/2012) we will have Thomas Schreiber (Ubiquill) talking about node.js, socket.io, and other web development resources.</p>-->
 
-    <p>We have been unable to confirm our guest speaker will be showing up this Friday (11/2/2012), so expect pizza and board games.</p>
+    <!--<p>We have been unable to confirm our guest speaker will be showing up this Friday (11/2/2012), so expect pizza and board games.</p>-->
+
+    <p>For Friday (11/9/2012) we will have Casey M Beach talking about the glories of beer and how he has applied computer science and engineering to it. Includes remote sensors, web access, and of course beer!<br />
+    <span class="small">(beer will not be served at the event)</span></p>
 
     <iframe src="https://www.google.com/calendar/embed?height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=psuacm%40cs.pdx.edu&amp;color=%23B1440E&amp;ctz=America%2FLos_Angeles" style=" border-width:0 " width="600" height="400" frameborder="0" scrolling="no"></iframe>
 

@@ -22,6 +22,10 @@ function main_content()
 
     <p>Or email us through: psuacm at cs.pdx.edu<br />
     This will forward your message to each of the active officers for this chapter.</p>
+
+    <p>Mailing Address:<br />
+       1819 SW 5th Ave. #271<br />
+       Portland OR 97201</p>
 <?php
 }
   include 'scripts/body.php';
