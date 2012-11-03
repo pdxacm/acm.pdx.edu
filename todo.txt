@@ -1,7 +1,10 @@
 to do: 
 
 add to about.php page to explain in more detail who we are and what we do.
-add an events calender - there may be a way to do this through google calendar that was used before, but I lack info on how it was done.
+keep events page and calendar up to date
+ - access calendar using [www.google.com/calendar], login: psuacm@cs.pdx.edu
+add news page system
+take photos to show who we are
 
 ----------------------------------
 About this File:
