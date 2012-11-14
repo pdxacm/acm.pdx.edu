@@ -24,8 +24,7 @@ function main_content()
 
     <!--<p>We have been unable to confirm our guest speaker will be showing up this Friday (11/2/2012), so expect pizza and board games.</p>-->
 
-    <p>For Friday (11/9/2012) we will have Casey M Beach talking about the glories of beer and how he has applied computer science and engineering to it. Includes remote sensors, web access, and of course beer!<br />
-    <span class="small">(beer will not be served at the event)</span></p>
+    <p>This Friday (11/14/2012) we are hoping to have a talk about processing large datasets in the cloud using Hadoop.</p>
 
     <iframe src="https://www.google.com/calendar/embed?height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=psuacm%40cs.pdx.edu&amp;color=%23B1440E&amp;ctz=America%2FLos_Angeles" style=" border-width:0 " width="600" height="400" frameborder="0" scrolling="no"></iframe>
 
