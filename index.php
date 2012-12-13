@@ -39,6 +39,7 @@ function main_content()
     <p>Email: psuacm at cs.pdx.edu</p>
 
     <p><a href="https://mailhost.cecs.pdx.edu/cgi-bin/mailman/listinfo/acm-members">ACM Mailing List</a></p>
+
 <?php
 }
   include 'scripts/body.php';
