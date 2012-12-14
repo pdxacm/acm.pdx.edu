@@ -28,7 +28,8 @@ function main_content()
 
     <!--<p>This Friday (11/30/2012) Steve Langasek will be talking about Secure Boot and Linux. This will be the last tech talk of the term, so be sure to show up!</p>-->
 
-    <p>This Friday (12/07/2012) we will have a small meating to discuss the ACM and thank the volunteer tutors. There are no current plans for winter break.</p>
+    <!--<p>This Friday (12/07/2012) we will have a small meating to discuss the ACM and thank the volunteer tutors.</p>-->
+    <p>There are no current plans for winter break, Check back some time after 1/1/2013.</p>
 
     <iframe src="https://www.google.com/calendar/embed?height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=psuacm%40cs.pdx.edu&amp;color=%23B1440E&amp;ctz=America%2FLos_Angeles" style=" border-width:0 " width="600" height="400" frameborder="0" scrolling="no"></iframe>
 
