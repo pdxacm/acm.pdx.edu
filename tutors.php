@@ -18,7 +18,7 @@ td	{width: 2.0in;}
 function main_content()
 {
 ?>
-    <h2>ACM Tutors (Fall 2012)</h2>
+    <h2>ACM Tutors (Winter 2013)</h2>
 
     <p>
       The ACM provides supplementary CS tutoring services for the college of engineering.
@@ -39,51 +39,51 @@ function main_content()
         <th>Friday</th>
       </tr><tr>
         <td>11-12</td>
+        <td>Philip</td>
         <td></td>
-        <td></td>
-        <td></td>
+        <td>Philip</td>
         <td></td>
         <td></td>
       </tr><tr>
         <td>12-1</td>
-        <td></td>
-        <td></td>
-        <td>bajr<br />CS 200 and under</td>
+        <td>Paul</td>
+        <td>Sean</td>
+        <td>Paul</td>
         <td></td>
         <td></td>
       </tr><tr>
         <td>1-2</td>
+        <td>Philip</td>
+        <td>Sean</td>
+        <td>Philip</td>
         <td></td>
-        <td>Philip<br />CS 161-163, 202, 250, 251</td>
-        <td>bajr<br />CS 200 and under</td>
-        <td></td>
-        <td></td>
+        <td>Clayton</td>
       </tr><tr>
         <td>2-3</td>
-        <td>Sage<br />CS 161-202</td>
-        <td>Philip<br />CS 161-163, 202, 250, 251</td>
-        <td>Hoff<br />CS 161-163</td>
         <td></td>
-        <td>Jameson<br />All lower division CS classes</td>
+        <td></td>
+        <td></td>
+        <td>Alex</td>
+        <td>Jameson</td>
       </tr><tr>
         <td>3-4</td>
-        <td>Sage<br />CS 161-202</td>
         <td></td>
-        <td>Hoff<br />CS 161-163</td>
+        <td>Askore</td>
         <td></td>
-        <td>Wookiee<br />CS 161-163, 201, 202</td>
+        <td>Alex</td>
+        <td></td>
       </tr><tr>
         <td>4-5</td>
         <td></td>
         <td></td>
-        <td>Steiert<br />All lower division CS classes</td>
+        <td></td>
         <td></td>
         <td></td>
       </tr><tr>
         <td>5-6</td>
         <td></td>
         <td></td>
-        <td>Steiert<br />All lower division CS classes</td>
+        <td></td>
         <td></td>
         <td></td>
       </tr>
