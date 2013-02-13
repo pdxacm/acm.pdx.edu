@@ -40,7 +40,7 @@ Vice Chair - Alexander Steiert - alexandersteiert at gmail.com<br />
 Treasurer - Jameson McCowan - jameson at cecs.pdx.edu<br />
 Secretary - Sage Imel - sage at iloveco.ws<br />
 Vizier - Damon Liang - damonl at cecs.pdx.edu<br />
-Events - William Van Hevelingen, blkperl at cat.pdx.edu
+Events - William Van Hevelingen, wvan at cs.pdx.edu
     </p>
 <?php
 }
