@@ -26,6 +26,13 @@ function main_content()
       <a href="misc/translator.html">Translator</a> | 
       <a href="misc/fsd.php">Future Site Design</a>
     </p>
+
+    <p>We now have a Wolfenstein: Enemy Territory server available.<br />
+    IP Address: gameandwatch.cat.pdx.edu</p>
+
+    <p>Here is the link for the
+    <a href="https://sites.google.com/a/pdx.edu/siampdx/">Society for Industrial and Applied Mathematics</a>
+    here at PSU.</p>
 <?php
 }
 

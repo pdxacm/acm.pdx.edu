@@ -27,7 +27,7 @@ function main_content()
     </p>
 
     <p>
-      We meet every Friday at 4pm in FAB 88-02, either for games or for guest speakers.
+      We meet every Friday at 4pm in FAB 88-07, either for games or for guest speakers.
       We also provide CS tutoring during the week in addition to the existing CS tutors.
       We're open to suggestions for other things we could do as a group.
       Have an idea? <a href="contact.php">Contact us</a>.
@@ -35,11 +35,13 @@ function main_content()
 
     <p><b>Official Members:</b><br />
 Advisor - Bart Massey - bart at cs.pdx.edu<br />
-Chair - Bradley  Rasussen - bajr at cecs.pdx.edu<br />
-Vice Chair - Alexander Steiert - alexandersteiert at gmail.com<br />
+Chair - Lindsay Ergenekan<br />
+Vice Chair - Sean Walsh - spw2 at pdx.edu<br />
 Treasurer - Jameson McCowan - jameson at cecs.pdx.edu<br />
-Secretary - Sage Imel - sage at iloveco.ws<br />
-Vizier - Damon Liang - damonl at cecs.pdx.edu<br />
+Treasurer - Donovan Finch<br /> 
+Secretary - Philip Coho <br />
+Arbiter - Alexander Steiert - asteiert at cs.pdx.edu<br />
+Vizier - Damon Liang - damonl at cecs.pdx.edu<br />Webmaster - Harmanpreet Singh<br />
 Events - William Van Hevelingen, wvan at cs.pdx.edu
     </p>
 <?php
