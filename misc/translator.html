@@ -3,7 +3,6 @@
 <head>
   <title>Translator</title>
   <meta charset="windows-1252">
-  <meta name="Keywords" content="Binary,HEX,Decimal,ascii,Translator,JavaScript">
 
   <script type="text/javascript">
 function text_to_decimal(text)
@@ -154,7 +153,23 @@ function controller(state)
 
     case 1: // Binary
       bin = document.getElementById("bin").value;
+
       //verify correct format - EX: 01110100 01100101 01110011 01110100
+      var i=0,j=8;v="";
+      for(;i<bin.length;i++)
+      {
+        if(bin.charAt(i)=='0'||bin.charAt(i)=='1')
+        {
+          v += bin[i]; //remove everything but 0 and 1
+          if(v.length==j)//add spaces between every 8 blocks
+          {
+            v += " ";
+            j += 9;
+          }
+        }
+      }
+
+      bin = v;
       dec = binary_to_decimal(bin);
       txt = decimal_to_text(dec);
       hex = binary_to_hex(bin);
@@ -192,14 +207,14 @@ body	{text-align: center;
 	background: black;
 	color: white;}
 table	{margin: auto;}
-td	{text-align: left;
-	}
+td	{text-align: left;}
 
 textarea{width: 3in;
 	height: 2in;}
 
 .cr	{font-size: 10pt;
         color: gray;}
+
   </style>
 </head>
 <body>
@@ -225,7 +240,6 @@ textarea{width: 3in;
   </tr></table><br />
   <input type="button" value="Clear All"  onclick="controller(4)" />
   <input type="button" value="Sample Text" onclick="document.getElementById('txt').value = 'The quick brown fox jumps over the lazy dog.'" />
-
-  <p class="cr">&copy; 2012 ACM @ PSU</p>
+  <p class="cr">&copy; 2013 ACM @ PSU</p>
 </body>
 </html>

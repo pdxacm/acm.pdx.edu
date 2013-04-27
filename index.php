@@ -31,7 +31,7 @@ function main_content()
       <li>We play board games and card games.</li>
       <li>Often times we have a guest speaker who talks about a technology they are involved in or helped develop.</li>
       <li>There is no sign-up or fee required, just walk in and join us if you're interested.</li>
-      <li>Refreshments are provided, but go fast. It's usually pizza and soda.</li>
+      <!--<li>Refreshments are provided, but go fast. It's usually pizza and soda.</li>-->
     </ul>
 
     <p>IRC: #acm on irc.cat.pdx.edu</p>

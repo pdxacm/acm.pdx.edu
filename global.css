@@ -1,21 +1,40 @@
 body	{text-align: center;
-	background: url(images/bg.gif) repeat-x #FFF;
+	background: #222;
 	margin: 0cm;
-	padding: 5mm;}
+	padding: 5mm 5mm 0mm 5mm;
+	font-family: arial;}
 
+#wrapper {margin: auto;
+ 	width: 27cm;}
 
-/* Border */
-#header img	{border-radius: 1mm;}
+#header {border-radius: 5px;
+	background: white;
+	width: 20cm;
+	height: 4cm;
+	padding: 5mm;
+	margin: auto;}
 
-#menu	{margin-top: 1mm;
+#header h1 {padding: 0px;
+	margin: 5mm 5mm 5mm 5mm;}
+
+#header a img	{border-width: 0px;
+	width: 4cm}
+
+#acm	{position: relative;
+	float: left;}
+
+#psu	{position: relative;
+	float: right;}
+
+#link_bar {margin-top: 2mm;
 	margin-bottom: 2mm;
 	text-align: center;}
 
-#menu table {margin: auto;
+#link_bar table {margin: auto;
 	border-collapse: separate;
-	border-spacing: 2px;}
+	border-spacing: 1cm 2px;}
 
-#menu td {width: 3.2cm;
+#link_bar td {width: 3.2cm;
 	min-width: 3.2cm;
 	background: #fff;
 	text-align: center;
@@ -23,32 +42,57 @@ body	{text-align: center;
 	border-width: 0px;
 	padding: 0px;}
 
-#menu a	{display: block;
+#link_bar a	{display: block;
 	padding: 3px 0px 3px 0px;
 	text-decoration: none;
 	font-weight: bold;
 	font-family: arial;
-	color: #77f;
-	border-radius: 1mm;
-	background: #fff;}
+	color: #fff;
+	/*background: #6D8D24;*/
+	background: #8a3;
+	border-radius: 1mm;}
 
-#menu a:hover {color: #fff;
-	background: #66f;}
+#link_bar a:hover {color: #fff;
+	background: #89f;
+	/*background: #66f;*/}
 
-#main	{text-align: left;
-	background: #FFF;
-	margin: auto;
-	width: 19cm;
-	border: 1px solid #f0f0f0;
+.backdrop {background: #89f;
 	border-radius: 1mm;
-	box-shadow: 10px 10px 5px #222;
-	padding: 4mm 1cm 6mm 1cm;}
+	padding: 2mm;}
+
+#main, #sidebar	{position: relative;
+	float: left;
+	border-radius: 1mm;
+	text-align: left;
+	background: #FFF;}
+
+#main	{width: 19cm;
+	margin-left: 1mm;}
+
+.box	{padding: 5px;
+        background: url(images/bg_td.png) repeat-x #EDEFFF;
+        border-radius: 5px;
+        border: 1px solid #C9D1FF;
+        vertical-align: top;}
+
+#sidebar {width: 7cm;
+	margin-left: 4mm;
+	font-size: 8pt;}
+
+#sidebar a:visited {color: #57f;}
+
+.padding {padding: 4mm 1cm 6mm 1cm;}
+
 
 th, td	{border: 1px solid black;
 	padding: 0px 5px 0px 5px;}
 th	{text-align: center;}
 td	{empty-cells: show;}
 table	{border-collapse: collapse;}
+h2	{margin: 0px;
+	padding: 3px;}
 
 .cr	{font-size: 10pt;
-	color: gray;}
+	padding-top: 3px;
+	color: gray;
+	clear: both;}
