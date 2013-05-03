@@ -35,16 +35,35 @@ new Event(
 
 $events_array = array(
 new Event(
-"Tech Talk: The software industry, big data, and analytics. Why these might be the most marketable skills you can learn.",
+"Text Lacks Empathy",
+"5-24-2013",
+"Have you ever written a nice friendly email and gotten a reply that seems like they read a whole different email?<br />
+<br />
+In Open Source communities we write to each other all the time, but we.re not really writing, we're speaking with our fingers. Text is our primary way to communicate, but text has problems. Speaking conveys subtle emotional cues that as social animals we rely on; text strips them out. A thoughtful correspondent can put those emotions back, but we're often not thoughtful.<br />
+<br />
+This talk is about the special problems of textual communication: mitigating them; ensuring that what you mean to say is what is understood; interpreting messages that seem totally out of whack; and increasing empathic bandwidth.<br />
+<br />
+<b>About the speaker</b><br />
+N&#243;ir&#237;n Plunkett is a jack of all trades, and a master of several. By day, she works for Eucalyptus Systems, as a geekEnglish translator, and general force multiplier. She's passionate about community, communication, and collaboration.<br />
+<br />
+Her open source work epitomizes the saying \"if you want something done, ask a busy person\": N&#243;ir&#237;n cut her teeth on the httpd documentation project at Apache, but soon started running conferences for the Apache Software Foundation . She was involved in setting up the Community Development project, is Org Admin for the Google Summer of Code (with more than 40 students!), and continues to contribute to projects as diverse as Infrastructure and Incubator.<br />
+<br />
+N&#243;ir&#237;n was the first woman on the board of the Apache Software Foundation, and continues to sit on the board of the Open Cloud Initiative. She's also an advisor to The Ada Initiative, supporting women in open technology and culture.<br />
+<br />
+When she's not online, N&#243;ir&#237;n can often be found on the dance floor or down at the pub, although she's also a keen harpist & singer, and an excellent sous chef!",
+"N&#243;ir&#237;n Plunkett"),
+
+new Event(
+"The software industry, big data, and analytics. Why these might be the most marketable skills you can learn.",
 "5-10-2013",
 "During this talk I'll discuss current trends in the software industry, how database systems are affecting growth and high value skill sets, and where the action is likely in the coming years. We'll focus on the same technical stack that has led to innovation and major products such as Facebook, Google Search, speech recognition, and context based advertising.<br />
 <br />
-About the speaker:<br />
+<b>About the speaker:</b><br />
 The data architect for Netmotion Wireless, Inc., Jonathan Wiggs is an accomplished software architect with significant experience in the fields of big data, Bayesian analytics, enterprise architecture, and cloud computing. Jonathan has helped launch start-up companies including Jott Networks & RGB Labs, and has led engineering and research groups at companies such as Microsoft and Nuance. He enjoys writing, speaking, sharing his experiences with his peers, and giving back to the industry he has loved for more than twenty years. Jonathan lives in the country and spends his free time with his wife and several admirable dogs. Contact Jonathan at jon_wiggs@yahoo.com.",
 "Jonathan Wiggs"),
 
 new Event(
-"Tech Talk: AltOS - Building Amateur Rocketry Software",
+"AltOS - Building Amateur Rocketry Software",
 "5-3-2013",
 "Amateur rocketry enthusiasts build rockets somewhere between Estes and
 NASA sizes. Operating as sounding rockets, flights range from 1000m to
@@ -70,6 +89,22 @@ the current implementation.  He is currently a Principal Engineer with Intel's
 Open Source Technology Center. Keith received a Usenix Lifetime Achievement
 award in 1999 and sits on the X.org foundation board.",
 "Keith Packard"),
+
+new Event(
+"Project Euler Brainstorm",
+"5-1-2013",
+"ProjectEuler.net is a knowledge base full of programing problems. The kind of problems that cannot be
+solved by hand, at least not easily. This would be an event lasting 2 hours to program up some solutions, for fun
+and resume fodder, as well as increased programming experience. This is a game played around the world by
+hobbyist programmers. It is a language independent game, and one where there are questions suitable for
+everyone, including 1st year students.<br />
+<br />
+Just bring yourself, and if you are so compelled, a laptop. The CS Windows Lab has computers.<br />
+<br />
+<b>When:</b> 5/1/2013 - From 4:30PM to 6:30PM<br />
+<b>Where:</b> CS Windows Lab (FAB 88-09)<br />
+<br />",
+"Sean Walsh"),
 
 new Event(
 "More with less: getting started building better systems with ClojurE",
@@ -179,7 +214,7 @@ EnterpriseDB, a PostgreSQL company.',
 
 new Event(
 'Michael Schern presenting Git For Ages 4 And Up',
-'1-18-2012',
+'1-18-2013',
 'Tinker Toys are the best illustration of a Git repository I\'ve found. Side-by-side with issuing Git commands, 
     we\'ll build a Git repository out of kid\'s toys to show what\'s going on behind the scenes. 
     Mind bending concepts like remote branches, rebase and the staging area become child.s play.<br />
@@ -206,7 +241,19 @@ new Event(
 'Node.js, Socket.io, and More',
 '10-26-2012',
 'We will have Thomas Schreiber (Ubiquill) talking about node.js, socket.io, and other web development resources.',
-'Thomas Schreiber ')
+'Thomas Schreiber '),
+
+new Event(
+"The ACM@PSU Presents: Richard Stallman - Free Software and Your Freedom",
+"4-7-2011",
+"The Free Software Movement campaigns for computer users' freedom to cooperate and control their own computing. The Free Software Movement developed the GNU operating system, typically used with the Linux kernel, specifically to make these freedoms possible.<br />
+<br />
+The Portland State University Chapter of the Association for Computing Machinery and the Computer Science Department are proud to welcome Richard Stallman to PSU for this general-interest talk. Mr. Stallman is the father of the free software movement and the concept of 'copyleft', the original author of GNU Emacs, the GNU Compiler Collection, and many of the utilities used in the GNU/Linux operating system.<br />
+<br />
+This event is free and open to the general public. Mr. Stallman will be available for a brief Q&A session following the talk.<br />
+<br />
+Doors open at 7pm, the talk begins at 7:30pm.",
+"Richard Stallman")
 );
 
 ?>

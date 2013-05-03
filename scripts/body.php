@@ -40,10 +40,10 @@ if(function_exists('head_content'))
   <div id="wrapper">
     <div id="header">
       <div id="psu">
-        <a href="http://pdx.edu"><img src="<?php echo $root; ?>images/psu-logo-trans.png" alt="Portland State University (PSU) Logo" /></a>
+        <a href="http://www.pdx.edu"><img src="<?php echo $root; ?>images/psu-logo-trans.png" alt="Portland State University (PSU) Logo" /></a>
       </div>
       <div id="acm">
-        <a href="http://acm.org"><img src="<?php echo $root; ?>images/acm-logo.jpg" alt="Association for Computing Machinery (ACM) Logo" /></a>
+        <a href="http://www.acm.org"><img src="<?php echo $root; ?>images/acm-logo.jpg" alt="Association for Computing Machinery (ACM) Logo" /></a>
       </div>
       <h1>ACM @ PSU</h1>
       Portland State University Student Chapter of<br />
