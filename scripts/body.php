@@ -1,14 +1,18 @@
 <?php
 //this is needed for links to work because of how the address systems change
 $root = "/";
+// tell me everything about the following variable: $_SERVER
+//echo var_dump($_SERVER) . "\n";
+
 // check if acm.pdx.edu or web.cecs.pdx.edu/~psuacm/
-if( strcspn($_SERVER["SCRIPT_URI"], "~") < strlen($_SERVER["SCRIPT_URI"]) )
-{
+if( strcmp($_SERVER["HTTP_HOST"], "acm.pdx.edu") != 0 ) {
   // if web.cecs.pdx.edu/~psuacm/, then get /~psuacm/
-  $char_count = strcspn($_SERVER["SCRIPT_URI"], "~");
-  $root = substr($_SERVER["SCRIPT_URI"], $char_count, -1);
-  $root = substr($root, 0, strcspn($root, "/"));
+  $root = substr($_SERVER["PHP_SELF"], 1);
+  $root = substr($root, 0, strcspn($root, '/'));
   $root = "/" . $root . "/";
+} else {
+  // if acm.pdx.edu
+  // $root already is "/"
 }
 
 include 'events_list.php';
