@@ -34,6 +34,31 @@ new Event(
 */
 
 $events_array = array(
+
+new Event(
+"Student Success in Finding a Career",
+"11-1-2013",
+"Ever wondered what makes a student successful in landing that career after university life ends? Ever wanted to find that competitive edge that makes you stand out from the crowd? If you answered yes to either of the above questions, this tech talk is for you.<br />
+<br />
+Frank Goovaerts is the Interim Director of Student Success at Portland State University at MCECS, and will be giving a tech talk on how to get that extra edge and what services he offers to help students transition from college to career.",
+"Frank Goovaerts"),
+
+
+new Event(
+"Connecting Android to MySQL: An Interactive Tutorial",
+"10-18-2013",
+"In this talk, we will cover the basics of how to connect an Android device to a MySQL database. The technique used is adaptable to any database server (SQL Server, PostGRES, etc...)<br />
+<br />
+As you probably know, Android does not have a built in functionality to access remote databases, instead it uses SQLLite, a flat file system.<br />
+<br />
+However, using Java EE 7 and a simple PHP connectivity script, it is practically trivial to do the basic CRUD operations on a remotely hosted database.<br />
+<br />
+Bring a laptop with Java 7 and Android SDK with Eclipse installed, and get ready to code. Or just bring yourself, and a sheet will be passed to have the connection code EMAILED to you after the venue.<br />
+<br />
+About the speaker: Sean Walsh (aka Azadi) is the current vice chair of the Portland State Chapter of the ACM. Sean is currently finishing his Bachelor's of Computer Science with a Mathematics Minor at Portland State University, and has industry experience with deploying mobile apps for Android.",
+"Sean Walsh (aka Azadi)"),
+
+
 new Event(
 "Text Lacks Empathy",
 "5-24-2013",
