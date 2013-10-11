@@ -1,6 +1,31 @@
 <?php
   $title = "ACM @ PSU";
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // put stuff in here to get added to this specific page's head section
 function head_content()
 {
