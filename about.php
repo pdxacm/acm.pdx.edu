@@ -68,9 +68,6 @@ function main_content()
 			  <td>Sean Walsh<!-- - spw2 at pdx.edu--></td>
 			</tr><tr>
 			  <td>Treasurer</td>
-			  <td>Jameson McCowan<!-- - jameson at cecs.pdx.edu--></td>
-			</tr><tr>
-			  <td>Treasurer</td>
 			  <td>Donovan Finch</td>
 			</tr><tr> 
 			  <td>Secretary</td>
@@ -85,14 +82,14 @@ function main_content()
 			  <td>Webmaster</td>
 			  <td>Harmanpreet Singh</td>
 			</tr><tr>
-			  <td>Events Coordinator</td>
-			  <td>William Van Hevelingen<!--, wvan at cs.pdx.edu--></td>
+			  <td>Agent</td>
+			  <td>Jameson McCowan<!-- - jameson at cecs.pdx.edu--></td>
 			</tr>
 		      </table>
 		    </td>
 		    <td class="about_td">
 		      <b>PSU</b><br />
-		      Portland State University is a university in downtown Portland, Oregon, United States.
+		      Portland State University is situated in downtown Portland, Oregon, United States.
 		      It was founded in 1946 and is the only public university in the state that is located in a major metropolitan city.
 		      <br /><br />
 		      Our group often hangs out in the Portland State University Fourth Avenue Building (FAB), Room 88<br />
@@ -108,6 +105,39 @@ function main_content()
 		      <br />
 
 		      <div class="about_left">
+		      <b>ACM officers for 2012-2013</b>
+                      <table>
+                        <tr>
+                          <td>Chair</td>
+                          <td>Lindsay Ergenekan</td>
+                        </tr><tr>
+                          <td>Vice Chair</td>
+                          <td>Sean Walsh<!-- - spw2 at pdx.edu--></td>
+                        </tr><tr>
+                          <td>Treasurer</td>
+                          <td>Jameson McCowan<!-- - jameson at cecs.pdx.edu--></td>
+                        </tr><tr>
+                          <td>Treasurer</td>
+                          <td>Donovan Finch</td>
+                        </tr><tr>
+                          <td>Secretary</td>
+                          <td>Philip Coho</td>
+                        </tr><tr>
+                          <td>Arbiter</td>
+                          <td>Alexander Steiert<!-- - asteiert at cs.pdx.edu--></td>
+                        </tr><tr>
+                          <td>Vizier</td>
+                          <td>Damon Liang<!-- - damonl at cecs.pdx.edu--></td>
+                        </tr><tr>
+                          <td>Webmaster</td>
+                          <td>Harmanpreet Singh</td>
+                        </tr><tr>
+                          <td>Events<br />Coordinator</td>
+                          <td>William Van Hevelingen<!--, wvan at cs.pdx.edu--></td>
+                        </tr>
+                      </table><br />
+
+
 		      <b>ACM officers for 2011-2012</b>
 		      <table>
 		        <tr>
@@ -133,8 +163,9 @@ function main_content()
 		          <td>William Van Hevelingen<!-- AKA blkperl --></td>
 		        </tr>
 		      </table><br />
-		      <br />
+		      </div>
 
+		      <div class="about_right">
 		      <b>ACM officers for 2010-2011</b>
 		      <table>
 		        <tr>
@@ -154,9 +185,7 @@ function main_content()
 		          <td>Spencer Krum<!-- - AKA nibalizer--></td>
 		        </tr>
 		      </table><br />
-		      </div>
 
-		      <div class="about_right">
 		      <b>ACM officers for 2009-2010</b>
 		      <table>
 		        <tr>
@@ -171,9 +200,11 @@ function main_content()
 		        </tr><tr>
 		          <td>Treasurer</td>
 		          <td>David Stelter</td>
+                        </tr><tr>
+                          <td>Events Coordinator</td>
+                          <td>Dan Colish</td>
 		        </tr>
 		      </table><br />
-		      <br />
 
 		      <b>ACM officers for 2008-2009</b>
 		      <table>
