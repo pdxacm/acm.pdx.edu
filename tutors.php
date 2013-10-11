@@ -18,7 +18,7 @@ td	{width: 2.0in;}
 function main_content()
 {
 ?>
-        <h2>ACM Tutors (Spring 2013)</h2>
+        <h2>ACM Tutors (Fall 2013)</h2>
 
         <p>The ACM provides supplementary CS tutoring services for the college of engineering.
         Tutors can be found in FAB 88-02.
@@ -37,52 +37,52 @@ function main_content()
             <th>Friday</th>
           </tr><tr>
             <td>11-12</td>
-            <td>Alex (Bowzr)</td>
-            <td></td>
-            <td>Alex (Bowrz)</td>
             <td></td>
             <td></td>
+            <td></td>
+            <td></td>
+            <td>Clayton</td>
           </tr><tr>
             <td>12-1</td>
-            <td>Alex (Bowzr)</td>
+            <td>Shawn</td>
             <td></td>
-            <td>Alex (Bowzr)</td>
+            <td></td>
             <td></td>
             <td></td>
           </tr><tr>
             <td>1-2</td>
+            <td>Shawn</td>
             <td></td>
             <td></td>
-            <td>Aaron (Alevar)</td>
-            <td></td>
+            <td>Alexander Steiert</td>
             <td></td>
           </tr><tr>
             <td>2-3</td>
-            <td>Hao Wu</td>
-            <td>Enigma</td>
             <td></td>
-            <td>Stephan</td>
-            <td>Max (Slim)</td>
+            <td>Peter</td>
+            <td>Alevar</td>
+            <td></td>
+            <td></td>
           </tr><tr>
             <td>3-4</td>
-            <td>Hao Wu</td>
-            <td>Jesse H</td>
             <td></td>
-            <td>Stephan</td>
-            <td>Max (Slim)</td>
+            <td>Peter</td>
+            <td></td>
+            <td>Jameson McCowan</td>
+            <td>Brook Boese</td>
           </tr><tr>
             <td>4-5</td>
             <td></td>
-            <td>Jesse H</td>
-            <td>Philip (DrBop)</td>
-            <td>Lindsay</td>
+            <td></td>
+            <td></td>
+            <td>Jameson McCowan</td>
             <td></td>
           </tr><tr>
             <td>5-6</td>
             <td></td>
-            <td>Philip (DrBop)</td>
+            <td>Bowzr</td>
             <td></td>
-            <td>Lindsay</td>
+            <td>Matt Crouse</td>
             <td></td>
           </tr>
         </table>
