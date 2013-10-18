@@ -45,6 +45,18 @@ Frank Goovaerts is the Interim Director of Student Success at Portland State Uni
 
 
 new Event(
+"So You Want to be an App Developer?",
+"10-25-2013",
+"Adam Lorts is a sales and marketing professional at DevelopmentNow who focuses on business development in the digital space.<br />
+<br />
+Adam's day job involves creating sales materials, building agency partnerships, coaching resellers, handling direct inquiries and RFP's as well as other strategic duties to aid the growth and success of DevelopmentNow.<br />
+<br />
+Summary for talk: We've had some new younger hires so there's a lot of things we've learned on turning highly intelligent, educated CS grads into highly productive mobile developers. This focuses on doing what it takes there.
+",
+"Adam Lorts"),
+
+
+new Event(
 "Connecting Android to MySQL: An Interactive Tutorial",
 "10-18-2013",
 "In this talk, we will cover the basics of how to connect an Android device to a MySQL database. The technique used is adaptable to any database server (SQL Server, PostGRES, etc...)<br />
