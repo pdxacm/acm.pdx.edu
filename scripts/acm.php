@@ -11,8 +11,8 @@ elseif(preg_match('/^\/~psuacm\//',$_SERVER["REQUEST_URI"])){
 // Otherwise assume the user is running with the root as whatever part of the URI matches acm.cat.pdx.edu
 else{
   $path_parts = array('');
-  preg_match( "/^\/acm\.cat\.pdx\.edu\/[^\/]+/", $_SERVER["REQUEST_URI"], $path_parts);
-  $root = $path_parts[0];
+  preg_match( "/^(.*)acm\.pdx\.edu/", $_SERVER["REQUEST_URI"], $path_parts);
+  $root = $path_parts[0].'/';
 }
 
 $file_root=dirname(dirname(__FILE__));
