@@ -1,11 +1,12 @@
 <?php require_once(dirname(__FILE__).'/acm.php') ?>
 <?php require_once(dirname(__FILE__).'/events.php') ?>
 <!DOCTYPE html>
+<?php echo $root ?>
 <html>
   <head>
     <title><?=$title?></title>
     <meta charset="utf-8">
-    <link type="text/css" rel="stylesheet" href="<?= $root ?>global.css" />
+    <link type="text/css" rel="stylesheet" href="<?= $root ?>/files/css/global.css" />
     <link rel="shortcut icon" href="<?= $root ?>images/favicon.ico" type="image/x-icon" />
     <?php head_content()?>
   </head>
