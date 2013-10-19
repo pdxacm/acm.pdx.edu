@@ -1,22 +1,5 @@
-<?php
-  $title = "ACM @ PSU - Miscellaneous";
-
-// put stuff in here to get added to this specific page's head section
-function head_content()
-{
-/*?>
-  <style type="text/css">
-  </style>
-
-  <script type="text/javascript">
-  </script>
-<?php*/
-}
-
-// put stuff in here to get it displayed on the page
-function main_content()
-{
-?>
+<?php $title = "ACM @ PSU - Miscellaneous" ?>
+<?php require_once(dirname(__FILE__).'/scripts/top.php') ?>
         <h2>Miscellaneous</h2>
 
         <p>Just whatever doesn't fit anywhere else</p>
@@ -32,8 +15,4 @@ function main_content()
         here at PSU.</p>
         We meet up and do XNA projects on Fridays at 4:30PM when there are no ACM speakers,
         and on Saturdays at 2:30PM when there are speakers. Meetups occur in the Windows Lab in FAB 88-02.
-<?php
-}
-
-  include 'scripts/body.php';
-?>
+<?php require_once(dirname(__FILE__).'/scripts/bottom.php') ?>

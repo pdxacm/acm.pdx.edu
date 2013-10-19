@@ -1,36 +1,6 @@
-<?php
-$title = "ACM @ PSU - About Us";
+<?php $title = "ACM @ PSU - About Us" ?>
+<?php require_once(dirname(__FILE__).'/scripts/top.php') ?>
 
-// put stuff in here to get added to this specific page's head section
-function head_content()
-{
-?>
-  <style type="text/css">
-.about_table {border-collapse: separate;
-	border-spacing: 10px;}
-
-.about_td {padding: 5px;
-	width: 50%;
-	background: url(images/bg_td.png) repeat-x #EDEFFF;
-	border-radius: 5px;
-	border: 1px solid #C9D1FF;
-	vertical-align: top;} 
-.about_td td {border: 1px solid #fff;}
-.about_td td a {text-decoration: none;}
-
-.about_left	{float: left;}
-.about_right	{float: left; margin-left: 1cm;}
-  </style>
-
-  <script type="text/javascript">
-  </script>
-<?php
-}
-
-// put stuff in here to get it displayed on the page
-function main_content()
-{
-?>
 		<h2>About Us</h2>
 
 		<table class="about_table">
@@ -230,8 +200,4 @@ function main_content()
 		    </td>
 		  </tr>
 		</table>
-<?php
-}
-
-include 'scripts/body.php';
-?>
+<?php require_once(dirname(__FILE__).'/scripts/bottom.php') ?>
