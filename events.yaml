@@ -1,0 +1,52 @@
+---
+- title: Student Success in Finding a Career
+  date: 11-1-2013
+  speaker: Frank Goovaerts
+  description: |
+    Ever wondered what makes a student successful in landing that career after university life ends? Ever wanted to find that competitive edge that makes you stand out from the crowd? If you answered yes to either of the above questions, this tech talk is for you.
+    
+    Frank Goovaerts is the Interim Director of Student Success at Portland State University at MCECS, and will be giving a tech talk on how to get that extra edge and what services he offers to help students transition from college to career.
+- title: So You Want to be an App Developer?
+  date: 10-25-2013
+  speaker: Adam Lorts
+  description: |
+    Adam Lorts is a sales and marketing professional at DevelopmentNow who focuses on business development in the digital space.
+
+    Adam's day job involves creating sales materials, building agency partnerships, coaching resellers, handling direct inquiries and RFP's as well as other strategic duties to aid the growth and success of DevelopmentNow.
+
+    Summary for talk: We've had some new younger hires so there's a lot of things we've learned on turning highly intelligent, educated CS grads into highly productive mobile developers. This focuses on doing what it takes there.
+
+- title: |
+    Connecting Android to MySQL: An Interactive Tutorial
+  date: 10-18-2013
+  speaker: Sean Walsh (IRC:Azadi)
+  description: |
+    In this talk, we will cover the basics of how to connect an Android device to a MySQL database. The technique used is adaptable to any database server (SQL Server, PostGRES, etc...)
+
+    As you probably know, Android does not have a built in functionality to access remote databases, instead it uses SQLLite, a flat file system.
+
+    However, using Java EE 7 and a simple PHP connectivity script, it is practically trivial to do the basic CRUD operations on a remotely hosted database.
+
+    Bring a laptop with Java 7 and Android SDK with Eclipse installed, and get ready to code. Or just bring yourself, and a sheet will be passed to have the connection code EMAILED to you after the venue.<br />
+
+    About the speaker: Sean Walsh (IRC:Azadi) is the current chair of the Portland State Chapter of the ACM. Sean is currently finishing his Bachelor's of Computer Science with a Mathematics Minor at Portland State University, and has industry experience with deploying mobile apps for Android.
+
+-  title: Text Lacks Empathy
+   date: 5-24-2013
+   speaker: Nóirín Plunkett
+   description: |
+     Have you ever written a nice friendly email and gotten a reply that seems like they read a whole different email?
+
+     In Open Source communities we write to each other all the time, but we.re not really writing, we're speaking with our fingers. Text is our primary way to communicate, but text has problems. Speaking conveys subtle emotional cues that as social animals we rely on; text strips them out. A thoughtful correspondent can put those emotions back, but we're often not thoughtful.
+
+     This talk is about the special problems of textual communication: mitigating them; ensuring that what you mean to say is what is understood; interpreting messages that seem totally out of whack; and increasing empathic bandwidth.
+
+     <b>About the speaker</b><br />
+
+     N&#243;ir&#237;n Plunkett is a jack of all trades, and a master of several. By day, she works for Eucalyptus Systems, as a geekEnglish translator, and general force multiplier. She's passionate about community, communication, and collaboration.
+
+     Her open source work epitomizes the saying \"if you want something done, ask a busy person\": N&#243;ir&#237;n cut her teeth on the httpd documentation project at Apache, but soon started running conferences for the Apache Software Foundation . She was involved in setting up the Community Development project, is Org Admin for the Google Summer of Code (with more than 40 students!), and continues to contribute to projects as diverse as Infrastructure and Incubator.
+
+     N&#243;ir&#237;n was the first woman on the board of the Apache Software Foundation, and continues to sit on the board of the Open Cloud Initiative. She's also an advisor to The Ada Initiative, supporting women in open technology and culture.
+
+     When she's not online, N&#243;ir&#237;n can often be found on the dance floor or down at the pub, although she's also a keen harpist & singer, and an excellent sous chef!",
