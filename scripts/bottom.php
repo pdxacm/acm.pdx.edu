@@ -3,6 +3,7 @@
         <div id="sidebar"><div class="padding">
             <h3>Upcoming Events:</h3>
             <hr />
+            <?php event_sidebar($events)?>
             <hr />
 
             Looking for a Job or internship? Check out
