@@ -67,9 +67,9 @@ However, using Java EE 7 and a simple PHP connectivity script, it is practically
 <br />
 Bring a laptop with Java 7 and Android SDK with Eclipse installed, and get ready to code. Or just bring yourself, and a sheet will be passed to have the connection code EMAILED to you after the venue.<br />
 <br />
-About the speaker: Sean Walsh (aka Azadi) is the current vice chair of the Portland State Chapter of the ACM. Sean is currently finishing his Bachelor's of Computer Science with a Mathematics Minor at Portland State University, and has industry experience with deploying mobile apps for Android.",
-"Sean Walsh (aka Azadi)"),
-
+About the speaker: Sean Walsh (IRC:Azadi) is the current chair of the Portland State Chapter of the ACM. Sean is currently finishing his Bachelor's of Computer Science with a Mathematics Minor at Portland State University, and has industry experience with deploying mobile apps for Android.",
+"Sean Walsh (IRC:Azadi)"),
+<a href="https://github.com/pdxacm/acm.pdx.edu/tree/master/tech-talks/Android%20with%20MySql/">Source Code From Speech</a>
 
 new Event(
 "Text Lacks Empathy",
