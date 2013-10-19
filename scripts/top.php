@@ -7,7 +7,7 @@
     <title><?=$title?></title>
     <meta charset="utf-8">
     <link type="text/css" rel="stylesheet" href="<?= $root ?>/files/css/global.css" />
-    <link rel="shortcut icon" href="<?= $root ?>images/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="<?= $root ?>/images/favicon.ico" type="image/x-icon" />
     <?php head_content()?>
   </head>
   <body>
@@ -27,17 +27,17 @@
       <div id="link_bar">
         <table><tr>
             <td>
-              <a href="<?=$root?>index.php">Home</a>
+              <a href="<?=$root?>/index.php">Home</a>
             </td><td>
-              <a href="<?=$root?>about.php">About Us</a>
+              <a href="<?=$root?>/about.php">About Us</a>
             </td><td>
-              <a href="<?=$root?>contact.php">Contact Us</a>
+              <a href="<?=$root?>/contact.php">Contact Us</a>
             </td><td>
-              <a href="<?=$root?>events.php">Events</a>
+              <a href="<?=$root?>/events.php">Events</a>
             </td><td>
-              <a href="<?=$root?>tutors.php">Tutors</a>
+              <a href="<?=$root?>/tutors.php">Tutors</a>
             </td><td>
-              <a href="<?=$root?>misc.php">Misc.</a>
+              <a href="<?=$root?>/misc.php">Misc.</a>
             </td>
         </tr></table>
       </div>
