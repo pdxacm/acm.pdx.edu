@@ -6,7 +6,7 @@ require_once($file_root.'/scripts/PHP_markdown/Michelf/Markdown.php');
 
 $current_date = new DateTime("now");
 
-$events_path = $file_root.'/events.yaml';
+$events_path = $file_root.'/files/events.yaml';
 $events = file_exists($events_path) ? Spyc::YAMLLoad($events_path) : Array();
 
 // Transform the date on each event into a DateTime object
