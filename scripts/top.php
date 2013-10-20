@@ -1,7 +1,6 @@
 <?php require_once(dirname(__FILE__).'/acm.php') ?>
 <?php require_once(dirname(__FILE__).'/events.php') ?>
 <!DOCTYPE html>
-<?php echo $root ?>
 <html>
   <head>
     <title><?=$title?></title>
