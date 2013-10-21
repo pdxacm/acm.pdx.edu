@@ -1,4 +1,22 @@
-<?php require_once(dirname(__FILE__).'/scripts/top.php') ?>
+<?php 
+$section = 'home';
+require_once(dirname(__FILE__).'/scripts/top.php');
+?>
+
+
+      <div class="jumbotron">
+        <div id="header">
+          <!-- <div id="psu"> -->
+          <!--   <a href="http://www.pdx.edu"><img src="<?=$root?>/files/images/psu-logo-trans.png" alt="Portland State University (PSU) Logo" /></a> -->
+          <!-- </div> -->
+          <!-- <div id="acm"> -->
+          <!--   <a href="http://www.acm.org"><img src="<?=$root?>/files/images/acm-logo.jpg" alt="Association for Computing Machinery (ACM) Logo" /></a> -->
+        </div>
+        <h1>ACM @ PSU</h1>
+        Portland State University Student Chapter of<br />
+        the Association for Computing Machinery
+      </div>
+
     <h2>Welcome New and Returning Students!</h2>
 
     <p>Here's some info about our weekly meetings:</p>

@@ -3,43 +3,50 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title><?=$title?></title>
     <meta charset="utf-8">
-    <link type="text/css" rel="stylesheet" href="<?= $root ?>/files/css/global.css" />
-    <link rel="shortcut icon" href="<?= $root ?>/images/favicon.ico" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="<?= $root ?>/files/images/favicon.ico">
+
+    <title><?=$title?></title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="<?= $root ?>/files/bootstrap/css/bootstrap.css" rel="stylesheet"/>
+
+    <link href="<?= $root ?>/files/css/acm.css" rel="stylesheet"/>
+
+    <!-- Custom styles for this template -->
+    <!-- <link href="offcanvas.css" rel="stylesheet"> -->
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+        <script src="../../assets/js/html5shiv.js"></script>
+        <script src="../../assets/js/respond.min.js"></script>
+        <![endif]-->
     <?php head_content()?>
   </head>
   <body>
-    <div id="wrapper">
-      <div id="header">
-        <div id="psu">
-          <a href="http://www.pdx.edu"><img src="<?=$root?>/files/images/psu-logo-trans.png" alt="Portland State University (PSU) Logo" /></a>
+    <div class="navbar navbar-fixed-top navbar-inverse" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">PSU ACM</a>
         </div>
-        <div id="acm">
-          <a href="http://www.acm.org"><img src="<?=$root?>/files/images/acm-logo.jpg" alt="Association for Computing Machinery (ACM) Logo" /></a>
-        </div>
-        <h1>ACM @ PSU</h1>
-        Portland State University Student Chapter of<br />
-        the Association for Computing Machinery
-      </div>
-
-      <div id="link_bar">
-        <table><tr>
-            <td>
-              <a href="<?=$root?>/index.php">Home</a>
-            </td><td>
-              <a href="<?=$root?>/about.php">About Us</a>
-            </td><td>
-              <a href="<?=$root?>/contact.php">Contact Us</a>
-            </td><td>
-              <a href="<?=$root?>/events.php">Events</a>
-            </td><td>
-              <a href="<?=$root?>/tutors.php">Tutors</a>
-            </td><td>
-              <a href="<?=$root?>/misc.php">Misc.</a>
-            </td>
-        </tr></table>
-      </div>
-
-      <div class="backdrop">
-        <div id="main"><div class="padding">
+        <div class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li<?php active('home')?>><a href="<?=$root?>/index.php">Home</a></li>
+            <li<?php active('about')?>><a href="<?=$root?>/about.php">About Us</a></li>
+            <li<?php active('contact')?>><a href="<?=$root?>/contact.php">Contact Us</a></li>
+            <li<?php active('events')?>><a href="<?=$root?>/events.php">Events</a></li>
+            <li<?php active('tutors')?>><a href="<?=$root?>/tutors.php">Tutors</a></li>
+            <li<?php active('misc')?>><a href="<?=$root?>/misc.php">Misc.</a></li>
+          </ul>
+        </div><!-- /.nav-collapse -->
+      </div><!-- /.container -->
+    </div><!-- /.navbar -->
+    <div class="container">

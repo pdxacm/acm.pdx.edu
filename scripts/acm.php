@@ -34,4 +34,11 @@ if(!function_exists('main_content')){
   }
 }
 
+function active($target_section){
+  global $section;
+  if($section == $target_section){
+    ?> class="active"<?php
+  }
+}
+
 ?>

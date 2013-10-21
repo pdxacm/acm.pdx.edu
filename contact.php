@@ -1,5 +1,8 @@
-<?php $title = "ACM @ PSU - Contact Us" ?>
-<?php require_once(dirname(__FILE__).'/scripts/top.php') ?>
+<?php
+$title = "ACM @ PSU - Contact Us";
+$section = 'contact';
+require_once(dirname(__FILE__).'/scripts/top.php');
+?>
     <h2>Contact Us</h2>
 
     <p>Questions, comments, or concerns? Feel free to contact us if there's anything ACM related you want to talk about.</p>

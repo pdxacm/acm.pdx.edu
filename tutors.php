@@ -1,5 +1,8 @@
-<?php $title = "ACM @ PSU - Tutor's Schedule" ?>
-<?php require_once(dirname(__FILE__).'/scripts/top.php') ?>
+<?php
+$title = "ACM @ PSU - Tutor's Schedule";
+$section = 'tutors';
+require_once(dirname(__FILE__).'/scripts/top.php')
+?>
         <h2>ACM Tutors (Fall 2013)</h2>
 
         <p>The ACM provides supplementary CS tutoring services for the college of engineering.
@@ -9,15 +12,16 @@
         Volunteers need to have passed CS 163 (Data Structures) or its equivalent.
         Most volunteers sign up for an hour or two a week, depending on what fits their schedule.</p>
 
-        <table>
+        <table class="table table-striped table-bordered">
           <tr>
-            <th></th>
+            <th>Time</th>
             <th>Monday</th>
             <th>Tuesday</th>
             <th>Wednesday</th>
             <th>Thursday</th>
             <th>Friday</th>
-          </tr><tr>
+          </tr>
+          <tr>
             <td>11-12</td>
             <td></td>
             <td></td>

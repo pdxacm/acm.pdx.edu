@@ -1,5 +1,8 @@
-<?php $title = "ACM @ PSU - Miscellaneous" ?>
-<?php require_once(dirname(__FILE__).'/scripts/top.php') ?>
+<?php
+$title = "ACM @ PSU - Miscellaneous";
+$section = 'misc';
+require_once(dirname(__FILE__).'/scripts/top.php')
+?>
         <h2>Miscellaneous</h2>
 
         <p>Just whatever doesn't fit anywhere else</p>
