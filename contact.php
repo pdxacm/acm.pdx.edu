@@ -1,21 +1,43 @@
 <?php
-$title = "ACM @ PSU - Contact Us";
-$section = 'contact';
-require_once(dirname(__FILE__).'/scripts/top.php');
-?>
-    <h2>Contact Us</h2>
+   $title = "ACM @ PSU - Contact Us";
+   $section = 'contact';
+   require_once(dirname(__FILE__).'/scripts/top.php');
+   ?>
+<h1>Contact Us</h1>
 
-    <p>Questions, comments, or concerns? Feel free to contact us if there's anything ACM related you want to talk about.</p>
+<p>
+  Questions, comments, or concerns? Feel free to contact us if there's anything ACM related you want to talk about.
+</p>
 
-    <p><b>IRC:</b> #acm on irc.cat.pdx.edu<br />
-    <a href="http://www.irchelp.org/irchelp/irctutorial.html#intro" class="irc_link">What is IRC?</a></p>
+<div class="row">
+  <div class="col-md-4">
+    <h2>IRC</h2>
+    Join us at
+    <a href="irc://irc.cat.pdx.edu/#acm"> #acm irc.cat.pdx.edu</a>
+    <br>
+    <a href="http://www.irchelp.org/irchelp/irctutorial.html#intro" class="irc_link">What is IRC?</a>
+    <br>
+    <a class="btn btn-success" href="http://cat.pdx.edu/~thx1138/acm.html">Web IRC Client</a>
+  </div>
 
-    <p><b>Email:</b> psuacm at cs.pdx.edu<br />
-    <sup>(This will forward your message to each of the active officers for this chapter.)</sup></p>
+  <div class="col-md-4">
+    <h2>Email</h2>
+    <p>
+    <a href="mailto:psuacm@cs.pdx.edu">psuacm@cs.pdx.edu</a>
+    </p>
+    <p>
+      This will forward your message to each of the active officers for this chapter.
+    </p>
+  </div>
 
-    <p><b>Mailing Address:</b><br />
-       Association for Computing Machinery<br />
-       1819 SW 5th Ave. #271<br />
-       Portland OR 97201</p>
+  <div class="col-md-4">
+    <h2>Mailing Address</h2>
+    <address>
+      Association for Computing Machinery<br />
+      1819 SW 5th Ave. #271<br />
+      Portland OR 97201
+    </address>
+  </div>
+</div>
 
 <?php require_once(dirname(__FILE__).'/scripts/bottom.php') ?>

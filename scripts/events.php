@@ -46,29 +46,31 @@ function render_event($event_number){
       </div>
       <?php } }
 
+function render_event_list_item($event, $root){
+  ?>
+  <li>
+  <h4><a href="<?=$root?>/events.php?event=<?=$event['index']?>"><?=$event['title']?></a></h4>
+  <?=$event['date']->format('m/d/Y')?> - by <?=$event['speaker']?>
+  </li>
+  <?php
+}
 
 function render_event_list($events){
   global $root;
-  foreach ($events as $event)
-    {
-      ?>
-      <p>
-         <b>
-         <a href="<?=$root?>/events.php?event=<?=$event['index']?>"><?=$event['title']?></a>
-         </b>
-         </br>
-         <sub><?=$event['date']->format('m/d/Y')?> - by <?=$event['speaker']?></sub>
-         <br />
-         </p>
-         <?php
-    }
+  $count = 0;
+  ?><ui class="unstyled"><?php
+  foreach ($events as $event){
+    render_event_list_item($event, $root);
+    $count++;
+  }
+  ?></ui><?php
 }
 
 function list_events(){
   global $future_events, $past_events;
-  ?><h3>Upcoming Events</h3><?php
+  ?><h2>Upcoming Events</h2><?php
   render_event_list($future_events);
-  ?><h3>Past Events</h3><?php
+  ?><h2>Past Events</h2><?php
   render_event_list(array_reverse($past_events));
 }
 
@@ -78,13 +80,13 @@ function event_sidebar(){
   $current_date = new DateTime("now");
   foreach ($future_events as $event)
     {
-        ?>
-        <p><?=$event['date']->format('D, M d, Y')?>
-          <br />
-          <a href="<?=$root?>/events.php?event=<?=$event['index']?>"><?=$event['title']?></a>
-          </p>
-          <?php
-    }
+      ?>
+      <p><?=$event['date']->format('D, M d, Y')?>
+        <br />
+        <a href="<?=$root?>/events.php?event=<?=$event['index']?>"><?=$event['title']?></a>
+        </p>
+        <?php
+        }
 }
 
 ?>
