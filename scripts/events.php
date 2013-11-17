@@ -32,24 +32,10 @@ $past_events = array_filter($events, function($event) use ($current_date){
     return $event['date']->getTimestamp() < $current_date->getTimestamp();
   });
 
-function render_event($event_number){
-  global $events, $root;
-  $event = $events[$event_number];
-  if($event){
-    ?>
-    <div class='event_full'>
-      <h3><?=$event['title']?></h3>
-      <sub><?=$event['date']->format('m/d/Y')?> - <?=$event['speaker']?></sub>
-      <?=\Michelf\Markdown::defaultTransform($event['description'])?>
-      <?='cows'?>
-      <?=$event['description']?>
-      </div>
-      <?php } }
-
 function render_event_list_item($event, $root){
   ?>
   <li>
-  <h4><a href="<?=$root?>/events.php?event=<?=$event['index']?>"><?=$event['title']?></a></h4>
+  <h4><a href="<?=$root?>/event.php?event=<?=$event['index']?>"><?=$event['title']?></a></h4>
   <?=$event['date']->format('m/d/Y')?> - by <?=$event['speaker']?>
   </li>
   <?php
