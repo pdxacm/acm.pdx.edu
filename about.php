@@ -16,37 +16,74 @@
 
 <div class="row">
   <div class="col-md-4">
-    <h2>Official Members</h2>
+    <h2>Officers</h2>
     <table class="table table-striped table-condensed">
       <tr>
         <td>Advisor</td>
         <td><a href="http://web.cecs.pdx.edu/~bart/">Bart Massey</a><!-- - bart at cs.pdx.edu--></td>
       </tr><tr>
         <td>Chair</td>
-        <td>Lindsay Ergenekan</td>
+        <td>Sean Walsh<!-- - spw2 at pdx.edu--></td>
       </tr><tr>
         <td>Vice Chair</td>
-        <td>Sean Walsh<!-- - spw2 at pdx.edu--></td>
+        <td>Sean Mahan<!-- - mahan2 at pdx.edu--></td>
       </tr><tr>
         <td>Treasurer</td>
         <td>Donovan Finch</td>
       </tr><tr>
         <td>Secretary</td>
-        <td>Philip Coho</td>
-      </tr><tr>
-        <td>Arbiter</td>
+        <td>Clayton Ward</td>
+	  </tr><tr>
+		<td>Event Coordinator 1</td>
+		<td>Gina Burton</td>
+	  </tr><tr>
+		<td>Event Coordinator 2</td>
+		<td>Souriya Khaosanga</td>
+	  </tr><tr>
+	    <td>Webmaster</td>
+		<td>Sage Imel</td>
+	  </tr>
+    </table>
+	<h2>Embedded Systems Club Leaders</h2>
+	<table class="table table-striped table-condensed">
+	  <tr>
+	    <td>Arduino Programming Club</td>
+		<td>Uriae Walker</td>
+	  </tr><tr>
+	    <td>Android Programming Club</td>
+		<td>Sean Walsh</td>
+	  </tr>
+	</table>
+    <h2>Official ACM Members</h2>
+	<table class="table table-striped table-condensed">
+      <tr>
+	    <td>Lindsay Ergenekan</td>
+	  </tr><tr>
         <td>Alexander Steiert<!-- - asteiert at cs.pdx.edu--></td>
       </tr><tr>
-        <td>Vizier</td>
         <td>Damon Liang<!-- - damonl at cecs.pdx.edu--></td>
       </tr><tr>
-        <td>Webmaster</td>
         <td>Harmanpreet Singh</td>
       </tr><tr>
-        <td>Agent</td>
         <td>Jameson McCowan<!-- - jameson at cecs.pdx.edu--></td>
-      </tr>
+      </tr><tr>
+	    <td>Philip Coho</td>
+	  </tr>
     </table>
+	<h2>School ACM Club Members</h2>
+	<table class="table table-striped table-condensed">
+	  <tr>
+	    <td>Loc Le</td>
+	  </tr><tr>
+	    <td>Sean DeBellis</td>
+	  </tr><tr>
+	    <td>Tyler Saling</td>
+	  </tr><tr>
+	    <td>Joseph Yuhas</td>
+	  </tr><tr>
+	    <td>Connie Gibson</td>
+	  </tr>
+	</table>
   </div>
   <div class="col-md-8">
     <h2>Our local Chapter</h2>
