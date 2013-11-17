@@ -2,7 +2,6 @@
 - title: "Android: An Introduction to GUI Development"
   date: 11-8-2013
   speaker: Sean Walsh
-  github: "https://github.com/pdxacm/acm.pdx.edu/tree/master/tech-talks/Android%20with%20MySQL"
   description: |
     Are you familiar with Java? Have you ever wanted to write that next killer app? Come to this event and check out the
     cool aspects of Android development, like GPS, Accelerometers, and embedded systems in general? Come to this tech-talk
@@ -38,7 +37,8 @@
 
 - title: "Connecting Android to MySQL: An Interactive Tutorial"
   date: 10-18-2013
-  speaker: Sean Walsh (IRC:Azadi)
+  speaker: Sean Walsh
+  github: "https://github.com/pdxacm/acm.pdx.edu/tree/master/tech-talks/Android%20with%20MySQL"
   description: |
     In this talk, we will cover the basics of how to connect an Android device to a MySQL database. The technique used is adaptable to any database server (SQL Server, PostGRES, etc...)
 
@@ -50,7 +50,7 @@
 
     *About the speaker*
     
-    Sean Walsh (IRC:Azadi) is the current chair of the Portland State Chapter of the ACM. Sean is currently finishing his Bachelor's of Computer Science with a Mathematics Minor at Portland State University, and has industry experience with deploying mobile apps for Android.
+    Sean Walsh is the current chair of the Portland State Chapter of the ACM. Sean is currently finishing his Bachelor's of Computer Science with a Mathematics Minor at Portland State University, and has industry experience with deploying mobile apps for Android.
 
 -  title: Text Lacks Empathy
    date: 5-24-2013
@@ -129,7 +129,7 @@
   description: |
     This is a high-level overview of the capabilities and uses of C# 4.5 and the .NET framework, from a student, for students. Topics covered will include concurrency and multi-threading, lambda expressions and anonymous functions, LINQ, a basic GUI demonstration, regular expressions, and more. Comparisons to C++ will be made as well. Some mathematical models will be shown if time permits.<br /><br />
     <b>About the speaker:</b><br />
-    Sean Walsh (AKA Azadi) is a senior undergraduate student in the Computer Science program at Portland State University. His interests include systems programming, databases, and machine learning.
+    Sean Walsh is a senior undergraduate student in the Computer Science program at Portland State University. His interests include systems programming, databases, and machine learning.
 
 - title: "Write your own Bayesian Classifier: An Introduction to Machine Learning"
   date: "3-1-2013"
