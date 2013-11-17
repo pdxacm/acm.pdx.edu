@@ -16,6 +16,9 @@
 
     <link href="<?= $root ?>/files/css/acm.css" rel="stylesheet"/>
 
+    <script src="<?= $root ?>/files/js/jquery.js"></script>
+    <script src="<?= $root ?>/files/bootstrap/js/bootstrap.js"></script>
+
     <!-- Custom styles for this template -->
     <!-- <link href="offcanvas.css" rel="stylesheet"> -->
 
@@ -35,7 +38,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">PSU ACM</a>
+          <a class="navbar-brand" href="#"><?=$site_title?></a>
         </div>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav">

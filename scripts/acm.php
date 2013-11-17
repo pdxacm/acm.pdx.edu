@@ -20,8 +20,10 @@ else{
 
 $file_root=dirname(dirname(__FILE__));
 
+$site_title = "ACM @ PSU";
+
 if(!isset($title)){
-  $title = "ACM @ PSU";
+  $title = $site_title;
 }
 
 if(!function_exists('head_content')){

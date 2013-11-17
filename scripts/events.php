@@ -77,16 +77,18 @@ function list_events(){
 function event_sidebar(){
   global $future_events, $root;
 
-  $current_date = new DateTime("now");
+  ?><ul class="list-unstyled upcoming-events"><?php
   foreach ($future_events as $event)
     {
       ?>
-      <p><?=$event['date']->format('D, M d, Y')?>
-        <br />
+      <li>
         <a href="<?=$root?>/events.php?event=<?=$event['index']?>"><?=$event['title']?></a>
-        </p>
+        <br />
+        <?=$event['date']->format('D, M d, Y')?>
+        </li>
         <?php
         }
+  ?></ul><?php
 }
 
 ?>

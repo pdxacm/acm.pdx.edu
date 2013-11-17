@@ -1,18 +1,14 @@
 ---
-- title: Android: An Introduction to GUI Development
+- title: "Android: An Introduction to GUI Development"
   date: 11-8-2013
   speaker: Sean Walsh
-  github: https://github.com/pdxacm/acm.pdx.edu/tree/master/tech-talks/Android%20with%20MySQL
+  github: "https://github.com/pdxacm/acm.pdx.edu/tree/master/tech-talks/Android%20with%20MySQL"
   description: |
     Are you familiar with Java? Have you ever wanted to write that next killer app? Come to this event and check out the
-	
-	cool aspects of Android development, like GPS, Accelerometers, and embedded systems in general? Come to this tech-talk
-	
-	and learn how it is all connected to the undergrad curriculum at PSU.
-    
-    Sean Walsh is the ACM Chairman at Portland State University, and is an avid mobile device programmer, having experience 
-	
-	in Windows and Android mobile development.
+    cool aspects of Android development, like GPS, Accelerometers, and embedded systems in general? Come to this tech-talk
+    and learn how it is all connected to the undergrad curriculum at PSU.
+
+    Sean Walsh is the ACM Chairman at Portland State University, and is an avid mobile device programmer, having experience in Windows and Android mobile development.
 
 - title: Student Success in Finding a Career
   date: 11-1-2013
@@ -26,9 +22,9 @@
   date: 11-1-2013
   speaker: Uraie Walker
   description: |
-    Are you curious about Arduino? Ever wanted to know what exactly they do? This is your tech-talk. 
-	
-	Uraie Walker is a Computer Engineering student at Portland State University and has significant experience with Arduino.
+    Are you curious about Arduino? Ever wanted to know what exactly they do? This is your tech-talk.
+
+    Uraie Walker is a Computer Engineering student at Portland State University and has significant experience with Arduino.
     
 - title: So You Want to be an App Developer?
   date: 10-25-2013
