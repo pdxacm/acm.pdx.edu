@@ -1,5 +1,14 @@
-
 ---
+- title: "Haskell, an introduction"
+  date: 12-6-2013
+  speaker: Mark Jones, Ph.D.
+  description: |
+    Have you found yourself asking of what use is a functional language like Haskell? Ever wondered if it could solve the same problems you are using an Object Oriented language like C++, Java, or C# for?
+    In this talk, Mark will demonstrate how he used Haskell to solve the Snake Cube Puzzle. 
+    
+    Mark Jones is a professor of Computer Science at Portland State University, and is known for developing the Hugs interpreter for Haskell. He is offering a course in functional languages during Winter term 2014, 
+    appropriate for both undergraduate and graduate students, with sections corresponding to both levels respectively.
+    
 - title: "An Overview of emacs"
   date: 11-25-2013
   speaker: Rob Werfelman
