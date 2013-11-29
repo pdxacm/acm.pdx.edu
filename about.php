@@ -67,8 +67,10 @@
       </tr><tr>
         <td>Jameson McCowan<!-- - jameson at cecs.pdx.edu--></td>
       </tr><tr>
-	    <td>Philip Coho</td>
-	  </tr>
+	<td>Philip Coho</td>
+      </tr><tr>
+        <td>Blake Wellington</td>
+      </tr>
     </table>
 	<h2>School ACM Club Members</h2>
 	<table class="table table-striped table-condensed">
@@ -82,6 +84,8 @@
 	    <td>Joseph Yuhas</td>
 	  </tr><tr>
 	    <td>Connie Gibson</td>
+	  </tr><tr>
+	    <td>David Harwood</td>
 	  </tr>
 	</table>
   </div>
