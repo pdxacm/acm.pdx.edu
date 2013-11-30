@@ -23,7 +23,7 @@
   <div class="col-md-4">
     <h2>Email</h2>
     <p>
-    <a href="mailto:psuacm@cs.pdx.edu">psuacm@cs.pdx.edu</a>
+    <a href="mailto:acm_officers@cs.pdx.edu">acm_officers@cs.pdx.edu</a>
     </p>
     <p>
       This will forward your message to each of the active officers for this chapter.
