@@ -6,7 +6,8 @@
     This will be an informational meeting from Joanna Malaczynski, CEO of Ecovaluate, and Charles Catino, developer at Ecovaluate, about a potential real world programming project in C# to help consumers learn where and how hazardous materials effect their lives.
     
     Meeting will start at 3PM in ACM lounge. If you are interested in contributing, the project will require an NDA and IP signed. Please follow the link and bring a signed NDA just in case, so that it can be given to Joanna at the time of the meeting.
-  ndas: "http://web.cecs.pdx.edu/~spw2/NDAEcovaluate.zip"
+  nda: "http://web.cecs.pdx.edu/~spw2/EcovaluateNDA.pdf"
+  ip: "http://web.cecs.pdx.edu/~spw2/EcovaluateIP.pdf"
 	
 - title: "Haskell workshop"
   date: 12-12-2013
