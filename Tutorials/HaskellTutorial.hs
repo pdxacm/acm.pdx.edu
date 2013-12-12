@@ -1,3 +1,17 @@
+-- Haskell workshop tutorial
+-- Written by Sean Walsh and Erik Sutherland
+-- 12/12/2013
+
+{- Working with a text editor
+Start out with a text editor open, such as vim or notepad.
+In the same directory, load ghci. -}
+
+-- To load a file
+:l filename.hs
+
+-- To reload a file
+:r
+
 -- Load the rational numbers library
 :module + Data.Ratio
 
@@ -91,9 +105,42 @@ it || True
 -- Notice that this is inadvertently making a truth table like we did
 -- previously.
 
--- That's all that I have for this brief introductory tutorial. 
+-- Cartesian products
+-- You can make a cartesian product (through list comprehensions) as follows.
+let a = [(i, j) | i <- [1,2], j <- [1..4]]
+-- This will make the set containing the following:
+-- [(1,1), (1,2), (1,3), (1,4), (2,1), (2,2),(2,3),(2,4)]
+
+-- You can also create a set of the first 10 numbers:
+-- let odd = [i | i <- [1..10]]
+
+-- To create an infinite list of the non-negative integers numbers:
+num = [0.. ]
+
+-- To create an infinite list of the non-negative odd numbers...
+let odd = map (\x->2*x-1) num
+
+-- Fibonacci Numbers
+fibs 0 = 0
+fibs 1 = 1
+fibs x = fibs(x-1) + fibs(x-2)
+
+-- Now try out the function:
+-- 5th Fibonacci number
+fibs(5)
+5
+
+-- 10th fibonacci number
+fibs(10)
+55
+
+-- 25th Fibonacci number
+fibs(25)
+75025
+
+-- That's all that we have for this brief introductory tutorial. 
 -- Please consider signing up for Mark Jones' CS457/557 class
 -- to learn more about Haskell programming or consider joining an
 -- ACM Open Hack group on Friday afternoons at 4:30PM in the
 -- ACM lounge.
--- More questions? Ask Erik, and he can offer more tutorials.
+-- More questions? Ask Erik in the CS Tutor Lounge, and he can offer more tutorials.
