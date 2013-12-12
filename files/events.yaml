@@ -1,5 +1,5 @@
 ---
-- title: "Consumers and Hazardpis Materials"
+- title: "Consumers and Hazardous Materials"
   date: 12-13-2013
   speaker: Joanna Malaczynski, Charles Catino
   description: |
@@ -12,6 +12,7 @@
   speaker: Sean Walsh, Donovan Finch, Eric Sutherland
   description: |
     This will be a follow up to the speech given by Mark Jones on 12-6-2013. It will take place in the ACM lounge at 2PM and continue for approximately 1 hour. Bring your laptops.
+  github: "https://github.com/pdxacm/acm.pdx.edu/tree/master/Tutorials/HaskellTutorial.hs"
 
 - title: "Haskell, an introduction"
   date: 12-6-2013
