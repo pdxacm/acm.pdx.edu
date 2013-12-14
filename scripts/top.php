@@ -47,7 +47,7 @@
             <li<?php active('contact')?>><a href="<?=$root?>/contact.php">Contact Us</a></li>
             <li<?php active('events')?>><a href="<?=$root?>/events.php">Events</a></li>
             <li<?php active('tutors')?>><a href="<?=$root?>/tutors.php">Tutors</a></li>
-            <li<?php active('projects')?>><a href="embedded.html">Projects</a></li>
+            <li<?php active('projects')?>><a href="<?=root?>/embedded.html">Projects</a></li>
             <li<?php active('misc')?>><a href="<?=$root?>/misc.php">Misc.</a></li>
           </ul>
         </div><!-- /.nav-collapse -->
