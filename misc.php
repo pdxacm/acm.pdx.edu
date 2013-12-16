@@ -7,6 +7,7 @@ require_once(dirname(__FILE__).'/scripts/top.php')
 
         <p>Just whatever doesn't fit anywhere else</p>
 
+        <p><a href="http://elinux.org/RPi_Easy_SD_Card_Setup">Raspberry Pi Setup Tutorial</a>
         <p><a href="misc/history.php">Recovered History</a> | 
         <a href="misc/translator.html">Translator</a></p>
 
