@@ -11,8 +11,10 @@
       <?php if($event['github']){?><p><a href="<?=$event['github']?>">Source code</a></p><?php }?>
 	  <?php if($event['tutorial']){?><p><a href="<?=$event['tutorial']?>">Tutorial</a></p><?php }?>
 	  <?php if($event['slides']){?><p><a href="<?=$event['slides']?>">Slides</a></p><?php }?>
-      <?php if($event['nda']){?><p><a href="<?=$event['nda']?>">NDA</a></p><?php }?>
+	  <?php if($event['nda']){?><p><a href="<?=$event['nda']?>">NDA</a></p><?php }?>
 	  <?php if($event['ip']){?><p><a href="<?=$event['ip']?>">IP</a></p><?php }?>
+  	  <?php if($event['survey']){?><p><a href="<?=$event['survey']?>">Survey</a></p><?php }?>
+
 <?=\Michelf\Markdown::defaultTransform($event['description'])?>
     </div>
 <?php }
