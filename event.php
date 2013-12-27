@@ -8,7 +8,8 @@
     <div class='event_full'>
       <h1><?=$event['title']?></h1>
       <sub><?=$event['date']->format('m/d/Y')?> - <?=$event['speaker']?></sub>
-      <?php if($event['github']){?><p><a href="<?=$event['github']?>">Source code</a></p><?php }?>
+          <?php if($event['url']){?><p><a href="<?=$event['url']?>">Link</a></p><?php }?>
+          <?php if($event['github']){?><p><a href="<?=$event['github']?>">Source code</a></p><?php }?>
 	  <?php if($event['tutorial']){?><p><a href="<?=$event['tutorial']?>">Tutorial</a></p><?php }?>
 	  <?php if($event['slides']){?><p><a href="<?=$event['slides']?>">Slides</a></p><?php }?>
 	  <?php if($event['nda']){?><p><a href="<?=$event['nda']?>">NDA</a></p><?php }?>
