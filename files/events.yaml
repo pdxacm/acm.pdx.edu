@@ -1,4 +1,28 @@
 ---
+- title: "Learn Android through Coursera"
+  date: 1-21-2014
+  speaker: Joseph Yuhas and Sean Walsh
+  url: https://www.coursera.org/course/android
+  description: |
+    Meetings will occur on Fridays at 4:30PM in the ACM Lounge with the two mentors listed above
+    to help with homeworks and lab sessions.
+    
+    This description is straight from the coursera page found above:
+    Handheld systems, such as smartphones and tablets are now the most 
+    common way for people to access and interact with computing services. 
+    The demand for application development skills is therefore growing at 
+    a breathtaking pace. These skills, however, are multi-­‐ faceted,
+    requiring students to master computer science and engineering principles, 
+    to learn the details of specific mobile application platforms, and to 
+    design artistic and engaging user interfaces that respond to how, where 
+    and why handheld applications are used.
+    This course will cover the fundamental programming principles, software 
+    architecture and user experience considerations underlying handheld software 
+    applications and their development environments. To bring these concepts alive, 
+    the course will involve in-­‐depth, hands-­‐on examples, implemented in the Android Platform, the fastest growing segment of the handheld system user base. 
+    Students will apply these teachings, also using the Android Platform, in 
+    laboratory projects and in a large-­‐scale semester project. 
+ 
 - title: "ACM Survey"
   date: 12-31-2013
   speaker: SurveyMonkey
