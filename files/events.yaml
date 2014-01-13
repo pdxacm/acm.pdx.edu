@@ -1,4 +1,12 @@
 ---
+- title: "An Overview of emacs"
+  date: 1-17-2013
+  speaker: Rob Werfelman
+  description: |
+    Ever wondered about how to use that cryptic software called emacs? Have you wanted to know if emacs really is Lisp in disguise? Would you like to wow all your classmates when you know how to use the cool software? Come to the talk and let Rob teach you how emacs works in an interactive workshop format. Bring a laptop, as you will want it.
+    
+    Rob Werfelman is is a student of Computer Science at Portland State University, an active member of the PSU chapter of the ACM, and a CS tutor. Talk starts at 430PM in FAB86-01.
+
 - title: "Learn Android through Coursera"
   date: 1-21-2014
   speaker: Joseph Yuhas and Sean Walsh
