@@ -65,7 +65,7 @@
     completely anonymously. Steve will be presenting the need. 
     3:30 PM FAB 86-01
     
-- title: "Consumers and Hazardous Materials" - CANCELLED
+- title: "Consumers and Hazardous Materials - CANCELLED"
   date: 12-16-2013
   speaker: Joanna Malaczynski, Charles Catino
   description: |
@@ -82,7 +82,7 @@
     Meeting will start at 3PM in ACM lounge. If you are interested in contributing, the project will require an NDA and IP signed. Please follow the link and bring a signed NDA just in case, so that it can be given to Joanna at the time of the meeting.
   nda: "http://web.cecs.pdx.edu/~spw2/EcovaluateNDA.pdf"
   ip: "http://web.cecs.pdx.edu/~spw2/EcovaluateIP.pdf"
-	
+
 - title: "Haskell workshop"
   date: 12-12-2013
   speaker: Sean Walsh, Donovan Finch, Eric Sutherland
@@ -114,7 +114,7 @@
   description: |
     Come on out and hack away on the Android and Arduino with the crew. There are established Android coding teams, and you are welcome to come with your own project, or embark on a new one. We have Arduino boards, LEDs, resistors, and wires. Bring your sensors and any toys you may have to share for a night of fun. We will start at 4:15PM and go til everyone is ready to leave.    
     
-	Sean Walsh is a Senior in Computer Science with a Minor in Mathematics with experience in Android development and Uriae Walker is a Senior of Computer Engineering with experience in both Android and Arduino development.
+    Sean Walsh is a Senior in Computer Science with a Minor in Mathematics with experience in Android development and Uriae Walker is a Senior of Computer Engineering with experience in both Android and Arduino development.
 
 - title: "Android: An Introduction to GUI Development"
   date: 11-8-2013
@@ -290,7 +290,7 @@
     Selena is a major contributor to PostgreSQL, she founded and runs the Postgres Open conference and keeps chickens. Selena has been working with open source software for over 15 years. She\'s keynoted at SCALE, DjangoCon and LISA, and regularly gives technical talks about Postgres, open source and trolling. She is currently a data architect at Mozilla, makers of the Firefox browser.'
 
 
-- title: 'What I\'ve learned about finding the right IT job by Gabrielle Roth from EnterpriseDB.'
+- title: "What I've learned about finding the right IT job by Gabrielle Roth from EnterpriseDB."
   date: '1-25-2013'
   speaker: 'Gabrielle Roth'
   description: |
