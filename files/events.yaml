@@ -1,4 +1,12 @@
 ---
+- title: "What I've learned about finding the right IT job"
+  date: 1-24-2014
+  speaker: Gabrielle Roth
+  description: |
+   "Ah, the IT department:  Strange coworkers, on-call rotations, no budget for new equipment, and the grim realities of "consultant vs employee".  We'll cover these and a few other situations you can expect to encounter, and potential coping methods.  Of course, before we can consider all that, you have to actually have a job - so we'll also talk about ways to make your job hunt more successful:  what's worked for me, what's worked for my friends, and (more importantly) what hasn't."
+   
+   "Gabrielle started out her post-college life as a microbiologist and fell into IT by way of technical writing.  15 or so years later, she still occasionally wonders what exactly she got herself into, but overall she's having a good time.  Currently, she's a Systems Engineer with EnterpriseDB, a PostgreSQL company. "
+
 - title: "Collaborative chaos: what it means to write code, manage projects and work with people in open source communities"
   date: 2-1-2014
   speaker: Selena
@@ -12,7 +20,7 @@
    Selena is a major contributor to PostgreSQL, she founded and runs the Postgres Open conference and keeps chickens. Selena has been working with open source software for over 15 years. She\'s keynoted at SCALE, DjangoCon and LISA, and regularly gives technical talks about Postgres, open source and trolling. She is currently a data architect at Mozilla, makers of the Firefox browser.
   
 - title: "Software VP Speaks on Marketing Yourself, Careers Today, Must-have Skills"
-  date: 1-24-2014
+  date: 2-09-2014
   speaker: Frank D'Andrea
   description: |
     Come ready to ask any question and learn about
