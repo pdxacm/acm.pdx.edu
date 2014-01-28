@@ -28,7 +28,8 @@
 - title: "Co-methylation (In Cramer Hall Room 171 at 3:15PM)"
   date: 1-31-2014
   speaker: Terry Speed
-  description: | "CpG methylation is a mitotically heritable epigenetic mark on
+  description: | 
+  "CpG methylation is a mitotically heritable epigenetic mark on
 DNA which plays a key role in genomic imprinting, X-inactivation, transcriptional regulation, tissue specificity and carcinogenesis.
 What is co-methylation? Loosely, it is the persistence of the
 methylated (M) or unmethylated (U) state along a chromosome. Slightly more precisely, it is the association between the methylation state at nearby CpGs, as a function of their separation. "Co-" here is meant
