@@ -29,14 +29,27 @@
   date: 1-31-2014
   speaker: Terry Speed
   description: | 
-  "CpG methylation is a mitotically heritable epigenetic mark on
-DNA which plays a key role in genomic imprinting, X-inactivation, transcriptional regulation, tissue specificity and carcinogenesis.
-What is co-methylation? Loosely, it is the persistence of the
-methylated (M) or unmethylated (U) state along a chromosome. Slightly more precisely, it is the association between the methylation state at nearby CpGs, as a function of their separation. "Co-" here is meant
-to bring to mind correlation. This talk will summarize some results concerning co-methylation we obtained by analysing publicly available sequence data on whole genome bisuplhite-treated DNA. Our immediate goal was to see whether we can simulate whole-genome methylation data that is indistinguishable from the real thing. I'll explain why we want
-to do this. It turns out to be quite hard (for us).
-Terry Speed and Peter Hickey,
-Walter & Eliza Hall Institute of Medical Research Australia"
+    "CpG methylation is a mitotically heritable epigenetic mark on DNA which plays a key role 
+    
+    in genomic imprinting, X-inactivation, transcriptional regulation, tissue specificity and carcinogenesis.
+
+    What is co-methylation? Loosely, it is the persistence of the methylated (M) or unmethylated (U) state 
+    
+    along a chromosome. Slightly more precisely, it is the association between the methylation state at 
+    
+    nearby CpGs, as a function of their separation. "Co-" here is meant to bring to mind correlation. 
+    
+    This talk will summarize some results concerning co-methylation we obtained by analysing publicly 
+    
+    available sequence data on whole genome bisuplhite-treated DNA. Our immediate goal was to see 
+    
+    whether we can simulate whole-genome methylation data that is indistinguishable from the real thing. 
+    
+    I'll explain why we want to do this. It turns out to be quite hard (for us).
+
+    Terry Speed and Peter Hickey,
+
+    Walter & Eliza Hall Institute of Medical Research Australia"
 
 - title: "What I've learned about finding the right IT job"
   date: 1-24-2014
