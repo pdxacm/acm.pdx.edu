@@ -14,7 +14,17 @@
   speaker: Adam Lorts
   description: |
     TBA
-    
+
+- title: "Stewardship of Open Source Microprojects"
+  date: 2-14-2014
+  speaker: Spencer Krum and William Van Hevelingen (nibalizer and blkperl)
+  description: |
+    "System administrators and devops engineers today are writing, sharing, and contributing back to more code than ever before. This has given rise to a new class of Open Source project: the open source microproject. Microprojects are small, specialized pieces of code (often a single script or collection of scripts) that solve a specific problem. Puppet modules, small ruby gems or python programs, anything written in perl, and plugins for just about anything are also in this class of software.
+
+    In the past, these tools were available by trawling through mailing lists for either the script itself or a link to the public ftp of the author. Today, these projects are receiving much better stewardship through freely available open source tools. This talk will describe how to publish your small internal tool or plugin as an opensource microproject, how to set up the free tooling around it to make it easy to use and contribute back to for others, and how to ensure good stewardship of your project in the future after you have given up the reins.
+
+    Spencer and William both began as students at PSU. Now William is the Lead Unix administrator for the CAT and Spencer works in DevOps at UTi Worldwide Inc."
+
 - title: "What I've learned about finding the right IT job"
   date: 1-24-2014
   speaker: Gabrielle Roth
