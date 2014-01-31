@@ -11,7 +11,7 @@ $events = file_exists($events_path) ? Spyc::YAMLLoad($events_path) : Array();
 
 // Transform the date on each event into a DateTime object
 foreach($events as &$event){
-  $event['date'] = DateTime::createFromFormat('m-d-Y',$event['date']);
+  $event['date'] = DateTime::createFromFormat('Y-m-d',$event['date']);
 }
 
 // Sort the events in ascending date order
