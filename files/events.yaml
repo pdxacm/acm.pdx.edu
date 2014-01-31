@@ -1,6 +1,6 @@
 ---
 - title: "Bitcoin -- A Technical Introduction"
-  date: 2-28-2014
+  date: 2014-02-28
   speaker: Austin Williams
   description: |
      "Bitcoin is the world's first decentralized, peer-to-peer, digital currency and payment system. At its heart is an open source value-transfer protocol that facilitates currency transfers among users without relying on a trusted third party.  The protocol employs provable-cryptography to prevent counterfeiting, censorship, double-spending, and account seizures.
@@ -10,13 +10,13 @@
      "Austin Williams received his M.S in Mathematics from PSU in December, 2013 and is currently a part-time lecturer in the math department at PSU.  His primary areas of focus are abstract algebra, graph theory, and game theory.  His current research involves classifying the minimal separating sets of surfaces of low genus."
 
 - title: "Internship Opportunities at DevelopmentNow"
-  date: 2-21-2014
+  date: 2014-02-21
   speaker: Adam Lorts
   description: |
     TBA
 
 - title: "Stewardship of Open Source Microprojects"
-  date: 2-14-2014
+  date: 2014-02-14
   speaker: Spencer Krum and William Van Hevelingen (nibalizer and blkperl)
   description: |
     "System administrators and devops engineers today are writing, sharing, and contributing back to more code than ever before. This has given rise to a new class of Open Source project: the open source microproject. Microprojects are small, specialized pieces of code (often a single script or collection of scripts) that solve a specific problem. Puppet modules, small ruby gems or python programs, anything written in perl, and plugins for just about anything are also in this class of software.
@@ -26,7 +26,7 @@
     Spencer and William both began as students at PSU. Now William is the Lead Unix administrator for the CAT and Spencer works in DevOps at UTi Worldwide Inc."
 
 - title: "Co-methylation (In Cramer Hall Room 171 at 3:15PM)"
-  date: 1-31-2014
+  date: 2014-01-31
   speaker: Terry Speed
   description: | 
     CpG methylation is a mitotically heritable epigenetic mark on DNA which plays a key role 
@@ -52,7 +52,7 @@
     Walter & Eliza Hall Institute of Medical Research Australia
 
 - title: "What I've learned about finding the right IT job"
-  date: 1-24-2014
+  date: 2014-01-24
   speaker: Gabrielle Roth
   description: |
    "Ah, the IT department:  Strange coworkers, on-call rotations, no budget for new equipment, and the grim realities of "consultant vs employee".  We'll cover these and a few other situations you can expect to encounter, and potential coping methods.  Of course, before we can consider all that, you have to actually have a job - so we'll also talk about ways to make your job hunt more successful:  what's worked for me, what's worked for my friends, and (more importantly) what hasn't."
@@ -60,7 +60,7 @@
    "Gabrielle started out her post-college life as a microbiologist and fell into IT by way of technical writing.  15 or so years later, she still occasionally wonders what exactly she got herself into, but overall she's having a good time.  Currently, she's a Systems Engineer with EnterpriseDB, a PostgreSQL company. "
 
 - title: "Collaborative chaos: what it means to write code, manage projects and work with people in open source communities"
-  date: 2-7-2014
+  date: 2014-02-07
   speaker: Selena
   description: |
    Working in software and with computers means wildly different things depending on who you talk to. In open source, the work spans every aspect of software development - from the marketing and documentation to the troubleshooting end-user systems.
@@ -72,7 +72,7 @@
    Selena is a major contributor to PostgreSQL, she founded and runs the Postgres Open conference and keeps chickens. Selena has been working with open source software for over 15 years. She\'s keynoted at SCALE, DjangoCon and LISA, and regularly gives technical talks about Postgres, open source and trolling. She is currently a data architect at Mozilla, makers of the Firefox browser.
   
 - title: "Software VP Speaks on Marketing Yourself, Careers Today, Must-have Skills"
-  date: 1-31-2014
+  date: 2014-01-31
   speaker: Frank D'Andrea
   description: |
     Come ready to ask any question and learn about
@@ -84,7 +84,7 @@
     Frank is an experienced listener, thinker, and doer. He has extensive experience in managing web and software development projects as well as mobile application and Content Management System development efforts. Frank has also been involved in numerous extracurricular activities as well: 10-year stint of teaching poetry, literature, creative writing, and composition at PCC,  participant of Portland’s National Poetry Slam team, publisher, and performer just to name a few. This is a talk you don't want to miss!
 
 - title: "An Overview of emacs"
-  date: 1-17-2014
+  date: 2014-01-17
   speaker: Rob Werfelman
   description: |
     Ever wondered about how to use that cryptic software called emacs? Have you wanted to know if emacs really is Lisp in disguise? Would you like to wow all your classmates when you know how to use the cool software? Come to the talk and let Rob teach you how emacs works in an interactive workshop format. Bring a laptop, as you will want it.
@@ -92,7 +92,7 @@
     Rob Werfelman is is a student of Computer Science at Portland State University, an active member of the PSU chapter of the ACM, and a CS tutor. Talk starts at 430PM in FAB86-01.
 
 - title: "Learn Android through Coursera"
-  date: 1-21-2014
+  date: 2014-01-21
   speaker: Joseph Yuhas and Sean Walsh
   url: https://www.coursera.org/course/android
   description: |
@@ -116,7 +116,7 @@
     laboratory projects and in a large-­‐scale semester project. 
  
 - title: "ACM Survey"
-  date: 12-31-2013
+  date: 2013-12-31
   speaker: SurveyMonkey
   description: |
     This is your opportunity to weigh in on what the ACM is doing and what you would like to see in coming terms. Just follow the attached link
@@ -124,7 +124,7 @@
   survey: https://www.surveymonkey.com/s/MVBG3CY
   
 - title: "ACM Potluck"
-  date: 12-20-2013
+  date: 2013-12-20
   speaker: Everyone is invited, including family members, IEEE, and CATs.  
   description: |
     Bring all types of food for the ACM potluck.  CS tutor lounge.  
@@ -141,7 +141,7 @@
     other finger food is welcome.
     
 - title: "Tommorrow's Hope"
-  date: 12-18-2013
+  date: 2013-12-18
   speaker: Steve Trujillo
   description: |
     Steve Truillo is part of a sex trafficking prevention organization which works closely with the FBI, called Tomorrow's Hope.
@@ -150,15 +150,15 @@
     3:30 PM FAB 86-01
     
 - title: "Consumers and Hazardous Materials - CANCELLED"
-  date: 12-16-2013
+  date: 2013-12-16
   speaker: Joanna Malaczynski, Charles Catino
   description: |
     This will be a follow-up meeting from Joanna Malaczynski, CEO of Ecovaluate, and Charles Catino, developer at Ecovaluate, 
-    about the project described on 12-13-2013, and delegating tasks. This meeting will be restricted to parties present on 12-13-2013,
+    about the project described on 2013-12-13, and delegating tasks. This meeting will be restricted to parties present on 12-13-2013,
     for reasons of NDA.
     
 - title: "Consumers and Hazardous Materials"
-  date: 12-13-2013
+  date: 2013-12-13
   speaker: Joanna Malaczynski, Charles Catino
   description: |
     This will be an informational meeting from Joanna Malaczynski, CEO of Ecovaluate, and Charles Catino, developer at Ecovaluate, about a potential real world programming project in C# to help consumers learn where and how hazardous materials effect their lives.
@@ -168,14 +168,14 @@
   ip: "http://web.cecs.pdx.edu/~spw2/EcovaluateIP.pdf"
 
 - title: "Haskell workshop"
-  date: 12-12-2013
+  date: 2013-12-12
   speaker: Sean Walsh, Donovan Finch, Eric Sutherland
   description: |
-    This will be a follow up to the speech given by Mark Jones on 12-6-2013. It will take place in the ACM lounge at 2PM and continue for approximately 1 hour. Bring your laptops.
+    This will be a follow up to the speech given by Mark Jones on 2013-12-6. It will take place in the ACM lounge at 2PM and continue for approximately 1 hour. Bring your laptops.
   tutorial: "https://github.com/pdxacm/acm.pdx.edu/tree/master/Tutorials/HaskellTutorial.hs"
 
 - title: "Haskell, an introduction"
-  date: 12-6-2013
+  date: 2013-12-06
   speaker: Mark Jones, Ph.D.
   description: |
     Have you found yourself asking of what use is a functional language like Haskell? Ever wondered if it could solve the same problems you are using an Object Oriented language like C++, Java, or C# for?
@@ -185,7 +185,7 @@
     appropriate for both undergraduate and graduate students, with sections corresponding to both levels respectively.
     
 - title: "An Overview of emacs"
-  date: 11-25-2013
+  date: 2013-11-25
   speaker: Rob Werfelman
   description: |
     Ever wondered about how to use that cryptic software called emacs? Have you wanted to know if emacs really is Lisp in disguise? Would you like to wow all your classmates when you know how to use the cool software? Come to the talk and let Rob teach you how emacs works in an interactive workshop format. Bring a laptop, as you will want it.
@@ -193,7 +193,7 @@
     Rob Werfelman is is a student of Computer Science at Portland State University, an active member of the PSU chapter of the ACM, and a CS tutor. Talk starts at 4PM in CS tutors lounge.
 
 - title: Hacking the Arduino and Android Hacking Session
-  date: 11-22-2013
+  date: 2013-11-22
   speaker: Sean Walsh and Uriae Walker
   description: |
     Come on out and hack away on the Android and Arduino with the crew. There are established Android coding teams, and you are welcome to come with your own project, or embark on a new one. We have Arduino boards, LEDs, resistors, and wires. Bring your sensors and any toys you may have to share for a night of fun. We will start at 4:15PM and go til everyone is ready to leave.    
@@ -201,7 +201,7 @@
     Sean Walsh is a Senior in Computer Science with a Minor in Mathematics with experience in Android development and Uriae Walker is a Senior of Computer Engineering with experience in both Android and Arduino development.
 
 - title: "Android: An Introduction to GUI Development"
-  date: 11-8-2013
+  date: 2013-11-08
   speaker: Sean Walsh
   description: |
     Are you familiar with Java? Have you ever wanted to write that next killer app? Come to this event and check out the
@@ -211,7 +211,7 @@
     Sean Walsh is the ACM Chairman at Portland State University, and is an avid mobile device programmer, having experience in Windows and Android mobile development.
 
 - title: Student Success in Finding a Career
-  date: 11-1-2013
+  date: 2013-11-01
   speaker: Frank Goovaerts
   description: |
     Ever wondered what makes a student successful in landing that career after university life ends? Ever wanted to find that competitive edge that makes you stand out from the crowd? If you answered yes to either of the above questions, this tech talk is for you.
@@ -219,7 +219,7 @@
     Frank Goovaerts is the Interim Director of Student Success at Portland State University at MCECS, and will be giving a tech talk on how to get that extra edge and what services he offers to help students transition from college to career.
 
 - title: Introduction to Arduino
-  date: 11-1-2013
+  date: 2013-11-01
   speaker: Uraie Walker
   description: |
     Are you curious about Arduino? Ever wanted to know what exactly they do? This is your tech-talk.
@@ -227,7 +227,7 @@
     Uraie Walker is a Computer Engineering student at Portland State University and has significant experience with Arduino.
     
 - title: So You Want to be an App Developer?
-  date: 10-25-2013
+  date: 2013-10-25
   speaker: Adam Lorts
   description: |
     Adam Lorts is a sales and marketing professional at DevelopmentNow who focuses on business development in the digital space.
@@ -237,7 +237,7 @@
     Summary for talk: We've had some new younger hires so there's a lot of things we've learned on turning highly intelligent, educated CS grads into highly productive mobile developers. This focuses on doing what it takes there.
 
 - title: "Connecting Android to MySQL: An Interactive Tutorial"
-  date: 10-18-2013
+  date: 2013-10-18
   speaker: Sean Walsh
   github: "https://github.com/pdxacm/acm.pdx.edu/tree/master/tech-talks/Android%20with%20MySQL"
   description: |
@@ -254,7 +254,7 @@
     Sean Walsh is the current chair of the Portland State Chapter of the ACM. Sean is currently finishing his Bachelor's of Computer Science with a Mathematics Minor at Portland State University, and has industry experience with deploying mobile apps for Android.
 
 -  title: Text Lacks Empathy
-   date: 5-24-2013
+   date: 2013-05-24
    speaker: Nóirín Plunkett
    description: |
      Have you ever written a nice friendly email and gotten a reply that seems like they read a whole different email?
@@ -275,7 +275,7 @@
 
 
 - title: The software industry, big data, and analytics. Why these might be the most marketable skills you can learn.
-  date: 5-10-2013
+  date: 2013-05-10
   speaker: Jonathan Wiggs
   description: |
     During this talk I'll discuss current trends in the software industry, how database systems are affecting growth and high value skill sets, and where the action is likely in the coming years. We'll focus on the same technical stack that has led to innovation and major products such as Facebook, Google Search, speech recognition, and context based advertising.
@@ -285,7 +285,7 @@
     The data architect for Netmotion Wireless, Inc., Jonathan Wiggs is an accomplished software architect with significant experience in the fields of big data, Bayesian analytics, enterprise architecture, and cloud computing. Jonathan has helped launch start-up companies including Jott Networks & RGB Labs, and has led engineering and research groups at companies such as Microsoft and Nuance. He enjoys writing, speaking, sharing his experiences with his peers, and giving back to the industry he has loved for more than twenty years. Jonathan lives in the country and spends his free time with his wife and several admirable dogs. Contact Jonathan at jon_wiggs@yahoo.com.
 
 - title: AltOS - Building Amateur Rocketry Software
-  date: 5-3-2013
+  date: 2013-05-03
   speaker: Keith Packard
   description: |
     Amateur rocketry enthusiasts build rockets somewhere between Estes and NASA sizes. Operating as sounding rockets, flights range from 1000m to more than 30km and are generally passively fin stabilized. Two of the significant challenges are deploying the recovery system components (generally parachutes) and providing tracking to locate the rocket after flight. Altus Metrum is a project building hardware and software for amateur rocketry, and AltOS is the suite of software running in the rocket avionics and on the ground to track and analyze the flight.
@@ -295,7 +295,7 @@
     Keith Packard has been developing open source software since 1986, focusing on the X Window System since 1987, designing and implementing large parts of the current implementation.  He is currently a Principal Engineer with Intel's Open Source Technology Center. Keith received a Usenix Lifetime Achievement award in 1999 and sits on the X.org foundation board
 
 - title: Project Euler Brainstorm
-  date: 5-1-2013
+  date: 2013-05-01
   speaker: Sean Walsh
   description: |
     ProjectEuler.net is a knowledge base full of programing problems. The kind of problems that cannot be solved by hand, at least not easily. This would be an event lasting 2 hours to program up some solutions, for fun and resume fodder, as well as increased programming experience. This is a game played around the world by hobbyist programmers. It is a language independent game, and one where there are questions suitable for everyone, including 1st year students.
@@ -305,7 +305,7 @@
     *When:* 5/1/2013 - From 4:30PM to 6:30PM<br /><b>Where:</b> CS Windows Lab (FAB 88-09)<br /><br />
 
 - title: 'More with less: getting started building better systems with Clojure'
-  date: 4-19-2013
+  date: 2013-04-19
   speaker: <a href=\"http://www.pauldee.org/blog\">Paul degrandis</a>
   description: |
     Clojure is a modern functional programming language. It's ecosystem is packed to the brim with tools that help you achieve more with less typing, less moving parts, and less (or no) mutable state.<br />
@@ -316,7 +316,7 @@
     Paul degrandis lives for magnificent engineering. Elegant, well-founded, useful solutions to problems that say something about engineering's beauty. Currently he is a scientist and co-founder at NDensity - an innovation lab. Previously he worked at Tutorspree (YC), PushButton Labs, Etsy.com, OurShelf (DreamIt), and SilverCloud Software as well as working in advanced research. He's also contributed, time, money, and effort to Code for America, PyPy, and Clojure. He is often speaking on Clojure, distributed systems, and dependable systems. <a href=\"http://www.pauldee.org/blog\">http://www.pauldee.org/blog</a> <a href=\"http://ndensity.com/\">http://ndensity.com</a>
 
 - title: Indyandy Jones and The Project of Doom
-  date: 4-12-2013
+  date: 2013-04-12
   speaker: "Andrew Parker"
   description: |
     Over the years I've been on several different teams that have been formed around existing software projects. The original authors were no longer directly involved, if they were anywhere to be found at all. How do you navigate the pitfalls and traps in existing software projects and come out the other side with the gold? What matters, what doesn't, and how do you stay alive?<br />
@@ -325,7 +325,7 @@
     Andrew Parker first started with computers on a Commodore 64 and has now been a professional software developer for over a decade. He has been self taught, school taught, and mentor taught by a range of individuals and institutions around the world. He is passionate about TDD, refactoring, and pair programming. Andrew Parker is a software developer at Puppet Labs.",
 
 - title: "Overview of .NET C# 4.5"
-  date: 3-8-2013
+  date: 2013-03-08
   speaker: "Sean Walsh"
   description: |
     This is a high-level overview of the capabilities and uses of C# 4.5 and the .NET framework, from a student, for students. Topics covered will include concurrency and multi-threading, lambda expressions and anonymous functions, LINQ, a basic GUI demonstration, regular expressions, and more. Comparisons to C++ will be made as well. Some mathematical models will be shown if time permits.<br /><br />
@@ -333,7 +333,7 @@
     Sean Walsh is a senior undergraduate student in the Computer Science program at Portland State University. His interests include systems programming, databases, and machine learning.
 
 - title: "Write your own Bayesian Classifier: An Introduction to Machine Learning"
-  date: "3-1-2013"
+  date: 2013-03-01
   speaker: "John Melesky"
   description: |
     Through the implementation of an honest-to-goodness Bayesian classifier, we'll tour the major topics of supervised machine learning: tokenization, feature selection and vectorization, model training and tuning, and execution. Time permitting, we'll touch on other techniques and topics.<br />
@@ -342,26 +342,26 @@
     John Melesky's been programming on the web since gopher was a legitimate competitor. He is the team lead for the Analytics team at Janrain, where he gets to get his hands covered in all sorts of interesting data.
 
 - title: 'Hadoop Hears a Who'
-  date: '2-22-2013'
+  date: 2013-02-22
   speaker: 'Dan Colish'
   description: |
     Hadoop is an important batch data processing framework in use by companies of all sizes. It has a very approachable architecture and can be applied to a large group of modern computing problems. In addition, the framework supports an implementation of mapreduce which allows users to run jobs on any size cluster to fit their data size. Come learn about the architecture of this framework, management of the cluster, and how to develop mapreduce jobs.<br /><br />
     <b>About the speaker</b><br />Dan Colish is a Core Data Engineer at Urban Airship. He is also a maintainer and active open source developer for Xapian and other smaller projects. He resides in Portland with his family and enjoys snowshoeing and hiking around Mt. Hood.
 
 - title: '12 Hours with Google Dart'
-  date: '2-15-2013'
+  date: 2013-02-15
   speaker: 'Devin Quirozoliver'
   description: |
     A high-level overview of the characteristics of Google\'s new web scripting language, from the perspective of a student who learned to use the language in under 12 hours. Does Dart have a chance to become a viable and heavily adopted alternative to JavaScript? The history, philosophy and intended purpose of the language will be discussed, and comparisons will be made to other languages and frameworks.<br /><br /><b>About the speaker:</b><br />Devin Quirozoliver is a senior undergraduate student in the Computer Science program at Portland State University. His interests include languages, user interface and wearable computing.'
 
 - title: 'Challenges in Developing the Portal Transportation Data Archive'
-  date: '2-8-2013'
+  date: 2013-02-08
   speaker: 'Kristin Tufte'
   description: |
     The Portal Transportation Data Archive is a ~2TB PostgreSQL database that has been in existence since 2004. Kristin will demonstrate the current state of Portal. She will discuss the various technologies used to collect the data and the complexities of getting the data from the sensors to the database. She will also discuss her experiences working directly with local transportation agencies (ODOT, Metro, Trimet, Cities of Portland and Vancouver) to produce a web site that is useful in their day-to-day operations.<br /> <br /> About the speaker:<br /> Kristin Tufte is an assistant professor of Computer Science and Civil Engineering at Portland State University. Kristin is a recovering database geek.'
 
 - title: 'Collaborative chaos: what it means to write code, manage projects and work with people in open source communities'
-  date: '2-1-2013'
+  date: 2013-02-01
   speaker: 'Selena'
   description: |
     Working in software and with computers means wildly different things depending on who you talk to. In open source, the work spans every aspect of software development - from the marketing and documentation to the troubleshooting end-user systems.<br />
@@ -375,13 +375,13 @@
 
 
 - title: "What I've learned about finding the right IT job by Gabrielle Roth from EnterpriseDB."
-  date: '1-25-2013'
+  date: 2013-01-25
   speaker: 'Gabrielle Roth'
   description: |
     Ah, the IT department: Strange coworkers, on-call rotations, no budget for new equipment, and the grim realities of "consultant vs employee".  We'll cover these and a few other situations you can expect to encounter, and potential coping methods.  Of course, before we can consider all that, you have to actually have a job - so we\'ll also talk about ways to make your job hunt more successful:  what's worked for me, what\'s worked for my friends, and (more importantly) what hasn\'t.<br /><br /> About the Speaker:<br /> <br />Gabrielle started out her post-college life as a microbiologist and fell into IT by way of technical writing.  15 or so years later, she still occasionally wonders what exactly she got herself into, but overall she's having a good time.  Currently, she\'s a Systems Engineer with EnterpriseDB, a PostgreSQL company.',
 
 - title: 'Michael Schern presenting Git For Ages 4 And Up'
-  date: '1-18-2013'
+  date: 2013-01-18
   speaker: 'Michael Schern'
   description: |
     Tinker Toys are the best illustration of a Git repository I\'ve found. Side-by-side with issuing Git commands, 
@@ -394,22 +394,22 @@
     WARNING: CHOKING HAZARD - Small Parts. Not For Children Under 4 Years.',
 
 - title: 'Volunteer Thank You Meeting'
-  date: '12-7-2012'
+  date: 2012-12-07
   speaker: 'ACM Members'
   description: 'We will have a small meating to discuss the ACM and thank the volunteer tutors.'
 
 - title: 'Secure Boot and Linux'
-  date: '11-30-2012'
+  date: 2012-11-30
   speaker: 'Steve Langasek'
   description: 'Steve Langasek will be talking about Secure Boot and Linux. This will be the last tech talk of the term, so be sure to show up!'
 
 - title: 'Node.js, Socket.io, and More'
-  date: '10-26-2012'
+  date: 2012-10-26
   speaker: 'Thomas Schreiber'
   description: 'We will have Thomas Schreiber (Ubiquill) talking about node.js, socket.io, and other web development resources.'
 
 - title: "The ACM@PSU Presents: Richard Stallman - Free Software and Your Freedom"
-  date: "4-7-2011"
+  date: 2011-04-07
   speaker: "Richard Stallman"
   description: |
     The Free Software Movement campaigns for computer users' freedom to cooperate and control their own computing. The Free Software Movement developed the GNU operating system, typically used with the Linux kernel, specifically to make these freedoms possible.<br />
