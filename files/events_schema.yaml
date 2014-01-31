@@ -18,6 +18,9 @@ sequence:
            type: str
        "description":
            type: str
+       "location":
+           type: str
+           required: no
        "survey":
            required: no
        "github":
