@@ -9,7 +9,7 @@ testEventsSchema()
 testPyYaml()
 {
     python tests/pyyaml_test.py
-    assertTrue $?
+    assertTrue "The events.yaml contains syntax errors (PyYaml)" $?
 }
 
 # load shunit2
