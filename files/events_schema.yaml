@@ -1,0 +1,27 @@
+type: seq
+sequence:
+    - type: map
+      mapping:
+       "title":
+           type: str
+           required: yes
+       "date":
+           pattern: /[0-9]?[0-9]-[0-9]?[0-9]-[0-9][0-9][0-9][0-9]/
+           required: yes
+       "speaker": 
+           type: str
+           required: no
+       "url":
+           type: str
+       "description":
+           type: str
+       "survey":
+           required: no
+       "github":
+           required: no
+       "nda":
+           required: no
+       "ip":
+           required: no
+       "tutorial":
+           required: no
