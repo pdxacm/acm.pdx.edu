@@ -1,0 +1,7 @@
+language: bash
+# command to run tests
+install:
+    - sudo apt-get install shunit2 python-yaml
+    - gem install kwalify
+script:
+    - bash tests/tests.sh
