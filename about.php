@@ -70,24 +70,27 @@
 	<td>Philip Coho</td>
       </tr><tr>
         <td>Blake Wellington</td>
+      </tr><tr>
+	    <td>Sean DeBellis</td>
+      </tr><tr>
+            <td>Loc Le</td>
+      </tr><tr>
+	    <td>Connie Gibson</td>
+      </tr><tr>
+	    <td>Cameron White</td>
+      </tr><tr>
+            <td>Scott Anecito</td>
       </tr>
+
     </table>
 	<h2>School ACM Club Members</h2>
 	<table class="table table-striped table-condensed">
 	  <tr>
-	    <td>Loc Le</td>
-	  </tr><tr>
-	    <td>Sean DeBellis</td>
-	  </tr><tr>
 	    <td>Tyler Saling</td>
 	  </tr><tr>
 	    <td>Joseph Yuhas</td>
 	  </tr><tr>
-	    <td>Connie Gibson</td>
-	  </tr><tr>
 	    <td>David Harwood</td>
-	  </tr><tr>
-	    <td>Cameron White</td>
 	  </tr>
 	</table>
   </div>
