@@ -86,6 +86,8 @@
 	    <td>Connie Gibson</td>
 	  </tr><tr>
 	    <td>David Harwood</td>
+	  </tr><tr>
+	    <td>Cameron White</td>
 	  </tr>
 	</table>
   </div>
