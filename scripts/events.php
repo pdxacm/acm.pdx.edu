@@ -12,6 +12,7 @@ $events = file_exists($events_path) ? Spyc::YAMLLoad($events_path) : Array();
 // Transform the date on each event into a DateTime object
 foreach($events as &$event){
   $event['date'] = DateTime::createFromFormat('Y-m-d',$event['date']);
+  $event['time'] = DateTime::createFromFormat('H:i',$event['time']);
 }
 
 // Sort the events in ascending date order
@@ -36,7 +37,7 @@ function render_event_list_item($event, $root){
   ?>
   <li>
   <h4><a href="<?=$root?>/event.php?event=<?=$event['index']?>"><?=$event['title']?></a></h4>
-  <?=$event['date']->format('m/d/Y')?> - by <?=$event['speaker']?>
+  <?=$event['date']->format('m/d/Y')?> at <?=$event['time']->format('g:ia')?> by <?=$event['speaker']?>
   </li>
   <?php
 }
