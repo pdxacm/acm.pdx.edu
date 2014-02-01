@@ -1,7 +1,7 @@
 ---
 - title: "Bitcoin -- A Technical Introduction"
   date: 2014-02-28
-  time: 16:00
+  time: '16:00'
   speaker: Austin Williams
   description: |
      "Bitcoin is the world's first decentralized, peer-to-peer, digital currency and payment system. At its heart is an open source value-transfer protocol that facilitates currency transfers among users without relying on a trusted third party.  The protocol employs provable-cryptography to prevent counterfeiting, censorship, double-spending, and account seizures.
@@ -12,14 +12,14 @@
 
 - title: "Internship Opportunities at DevelopmentNow"
   date: 2014-02-21
-  time: 16:00
+  time: '16:00'
   speaker: Adam Lorts
   description: |
     TBA
 
 - title: "Stewardship of Open Source Microprojects"
   date: 2014-02-14
-  time: 16:00
+  time: '16:00'
   speaker: Spencer Krum and William Van Hevelingen (nibalizer and blkperl)
   description: |
     "System administrators and devops engineers today are writing, sharing, and contributing back to more code than ever before. This has given rise to a new class of Open Source project: the open source microproject. Microprojects are small, specialized pieces of code (often a single script or collection of scripts) that solve a specific problem. Puppet modules, small ruby gems or python programs, anything written in perl, and plugins for just about anything are also in this class of software.
@@ -30,7 +30,7 @@
 
 - title: "Co-methylation (In Cramer Hall Room 171"
   date: 2014-01-31
-  time: 15:15
+  time: '15:15'
   speaker: Terry Speed
   description: | 
     CpG methylation is a mitotically heritable epigenetic mark on DNA which plays a key role 
@@ -57,7 +57,7 @@
 
 - title: "What I've learned about finding the right IT job"
   date: 2014-01-24
-  time: 16:00
+  time: '16:00'
   speaker: Gabrielle Roth
   description: |
    "Ah, the IT department:  Strange coworkers, on-call rotations, no budget for new equipment, and the grim realities of "consultant vs employee".  We'll cover these and a few other situations you can expect to encounter, and potential coping methods.  Of course, before we can consider all that, you have to actually have a job - so we'll also talk about ways to make your job hunt more successful:  what's worked for me, what's worked for my friends, and (more importantly) what hasn't."
@@ -66,7 +66,7 @@
 
 - title: "Collaborative chaos: what it means to write code, manage projects and work with people in open source communities"
   date: 2014-02-07
-  time: 16:00
+  time: '16:00'
   speaker: Selena
   description: |
    Working in software and with computers means wildly different things depending on who you talk to. In open source, the work spans every aspect of software development - from the marketing and documentation to the troubleshooting end-user systems.
@@ -79,7 +79,7 @@
   
 - title: "Software VP Speaks on Marketing Yourself, Careers Today, Must-have Skills"
   date: 2014-01-31
-  time: 16:00
+  time: '16:00'
   speaker: Frank D'Andrea
   description: |
     Come ready to ask any question and learn about
@@ -92,7 +92,7 @@
 
 - title: "An Overview of emacs"
   date: 2014-01-17
-  time: 16:00
+  time: '16:00'
   speaker: Rob Werfelman
   description: |
     Ever wondered about how to use that cryptic software called emacs? Have you wanted to know if emacs really is Lisp in disguise? Would you like to wow all your classmates when you know how to use the cool software? Come to the talk and let Rob teach you how emacs works in an interactive workshop format. Bring a laptop, as you will want it.
@@ -101,7 +101,7 @@
 
 - title: "Learn Android through Coursera"
   date: 2014-01-21
-  time: 16:00
+  time: '16:00'
   speaker: Joseph Yuhas and Sean Walsh
   url: https://www.coursera.org/course/android
   description: |
@@ -126,7 +126,7 @@
  
 - title: "ACM Survey"
   date: 2013-12-31
-  time: 16:00
+  time: '16:00'
   speaker: SurveyMonkey
   description: |
     This is your opportunity to weigh in on what the ACM is doing and what you would like to see in coming terms. Just follow the attached link
@@ -135,7 +135,7 @@
   
 - title: "ACM Potluck"
   date: 2013-12-20
-  time: 16:00
+  time: '16:00'
   speaker: Everyone is invited, including family members, IEEE, and CATs.  
   description: |
     Bring all types of food for the ACM potluck.  CS tutor lounge.  
@@ -153,7 +153,7 @@
     
 - title: "Tommorrow's Hope"
   date: 2013-12-18
-  time: 16:00
+  time: '16:00'
   speaker: Steve Trujillo
   description: |
     Steve Truillo is part of a sex trafficking prevention organization which works closely with the FBI, called Tomorrow's Hope.
@@ -163,7 +163,7 @@
     
 - title: "Consumers and Hazardous Materials - CANCELLED"
   date: 2013-12-16
-  time: 16:00
+  time: '16:00'
   speaker: Joanna Malaczynski, Charles Catino
   description: |
     This will be a follow-up meeting from Joanna Malaczynski, CEO of Ecovaluate, and Charles Catino, developer at Ecovaluate, 
@@ -172,7 +172,7 @@
     
 - title: "Consumers and Hazardous Materials"
   date: 2013-12-13
-  time: 16:00
+  time: '16:00'
   speaker: Joanna Malaczynski, Charles Catino
   description: |
     This will be an informational meeting from Joanna Malaczynski, CEO of Ecovaluate, and Charles Catino, developer at Ecovaluate, about a potential real world programming project in C# to help consumers learn where and how hazardous materials effect their lives.
@@ -183,7 +183,7 @@
 
 - title: "Haskell workshop"
   date: 2013-12-12
-  time: 16:00
+  time: '16:00'
   speaker: Sean Walsh, Donovan Finch, Eric Sutherland
   description: |
     This will be a follow up to the speech given by Mark Jones on 2013-12-6. It will take place in the ACM lounge at 2PM and continue for approximately 1 hour. Bring your laptops.
@@ -191,7 +191,7 @@
 
 - title: "Haskell, an introduction"
   date: 2013-12-06
-  time: 16:00
+  time: '16:00'
   speaker: Mark Jones, Ph.D.
   description: |
     Have you found yourself asking of what use is a functional language like Haskell? Ever wondered if it could solve the same problems you are using an Object Oriented language like C++, Java, or C# for?
@@ -202,7 +202,7 @@
     
 - title: "An Overview of emacs"
   date: 2013-11-25
-  time: 16:00
+  time: '16:00'
   speaker: Rob Werfelman
   description: |
     Ever wondered about how to use that cryptic software called emacs? Have you wanted to know if emacs really is Lisp in disguise? Would you like to wow all your classmates when you know how to use the cool software? Come to the talk and let Rob teach you how emacs works in an interactive workshop format. Bring a laptop, as you will want it.
@@ -211,7 +211,7 @@
 
 - title: Hacking the Arduino and Android Hacking Session
   date: 2013-11-22
-  time: 16:00
+  time: '16:00'
   speaker: Sean Walsh and Uriae Walker
   description: |
     Come on out and hack away on the Android and Arduino with the crew. There are established Android coding teams, and you are welcome to come with your own project, or embark on a new one. We have Arduino boards, LEDs, resistors, and wires. Bring your sensors and any toys you may have to share for a night of fun. We will start at 4:15PM and go til everyone is ready to leave.    
@@ -220,7 +220,7 @@
 
 - title: "Android: An Introduction to GUI Development"
   date: 2013-11-08
-  time: 16:00
+  time: '16:00'
   speaker: Sean Walsh
   description: |
     Are you familiar with Java? Have you ever wanted to write that next killer app? Come to this event and check out the
@@ -231,7 +231,7 @@
 
 - title: Student Success in Finding a Career
   date: 2013-11-01
-  time: 16:00
+  time: '16:00'
   speaker: Frank Goovaerts
   description: |
     Ever wondered what makes a student successful in landing that career after university life ends? Ever wanted to find that competitive edge that makes you stand out from the crowd? If you answered yes to either of the above questions, this tech talk is for you.
@@ -240,7 +240,7 @@
 
 - title: Introduction to Arduino
   date: 2013-11-01
-  time: 16:00
+  time: '16:00'
   speaker: Uraie Walker
   description: |
     Are you curious about Arduino? Ever wanted to know what exactly they do? This is your tech-talk.
@@ -249,7 +249,7 @@
     
 - title: So You Want to be an App Developer?
   date: 2013-10-25
-  time: 16:00
+  time: '16:00'
   speaker: Adam Lorts
   description: |
     Adam Lorts is a sales and marketing professional at DevelopmentNow who focuses on business development in the digital space.
@@ -260,7 +260,7 @@
 
 - title: "Connecting Android to MySQL: An Interactive Tutorial"
   date: 2013-10-18
-  time: 16:00
+  time: '16:00'
   speaker: Sean Walsh
   github: "https://github.com/pdxacm/acm.pdx.edu/tree/master/tech-talks/Android%20with%20MySQL"
   description: |
@@ -278,7 +278,7 @@
 
 -  title: Text Lacks Empathy
    date: 2013-05-24
-   time: 16:00
+   time: '16:00'
    speaker: Nóirín Plunkett
    description: |
      Have you ever written a nice friendly email and gotten a reply that seems like they read a whole different email?
@@ -300,7 +300,7 @@
 
 - title: The software industry, big data, and analytics. Why these might be the most marketable skills you can learn.
   date: 2013-05-10
-  time: 16:00
+  time: '16:00'
   speaker: Jonathan Wiggs
   description: |
     During this talk I'll discuss current trends in the software industry, how database systems are affecting growth and high value skill sets, and where the action is likely in the coming years. We'll focus on the same technical stack that has led to innovation and major products such as Facebook, Google Search, speech recognition, and context based advertising.
@@ -311,7 +311,7 @@
 
 - title: AltOS - Building Amateur Rocketry Software
   date: 2013-05-03
-  time: 16:00
+  time: '16:00'
   speaker: Keith Packard
   description: |
     Amateur rocketry enthusiasts build rockets somewhere between Estes and NASA sizes. Operating as sounding rockets, flights range from 1000m to more than 30km and are generally passively fin stabilized. Two of the significant challenges are deploying the recovery system components (generally parachutes) and providing tracking to locate the rocket after flight. Altus Metrum is a project building hardware and software for amateur rocketry, and AltOS is the suite of software running in the rocket avionics and on the ground to track and analyze the flight.
@@ -322,7 +322,7 @@
 
 - title: Project Euler Brainstorm
   date: 2013-05-01
-  time: 16:00
+  time: '16:00'
   speaker: Sean Walsh
   description: |
     ProjectEuler.net is a knowledge base full of programing problems. The kind of problems that cannot be solved by hand, at least not easily. This would be an event lasting 2 hours to program up some solutions, for fun and resume fodder, as well as increased programming experience. This is a game played around the world by hobbyist programmers. It is a language independent game, and one where there are questions suitable for everyone, including 1st year students.
@@ -333,7 +333,7 @@
 
 - title: 'More with less: getting started building better systems with Clojure'
   date: 2013-04-19
-  time: 16:00
+  time: '16:00'
   speaker: <a href=\"http://www.pauldee.org/blog\">Paul degrandis</a>
   description: |
     Clojure is a modern functional programming language. It's ecosystem is packed to the brim with tools that help you achieve more with less typing, less moving parts, and less (or no) mutable state.<br />
@@ -345,7 +345,7 @@
 
 - title: Indyandy Jones and The Project of Doom
   date: 2013-04-12
-  time: 16:00
+  time: '16:00'
   speaker: "Andrew Parker"
   description: |
     Over the years I've been on several different teams that have been formed around existing software projects. The original authors were no longer directly involved, if they were anywhere to be found at all. How do you navigate the pitfalls and traps in existing software projects and come out the other side with the gold? What matters, what doesn't, and how do you stay alive?<br />
@@ -355,7 +355,7 @@
 
 - title: "Overview of .NET C# 4.5"
   date: 2013-03-08
-  time: 16:00
+  time: '16:00'
   speaker: "Sean Walsh"
   description: |
     This is a high-level overview of the capabilities and uses of C# 4.5 and the .NET framework, from a student, for students. Topics covered will include concurrency and multi-threading, lambda expressions and anonymous functions, LINQ, a basic GUI demonstration, regular expressions, and more. Comparisons to C++ will be made as well. Some mathematical models will be shown if time permits.<br /><br />
@@ -364,7 +364,7 @@
 
 - title: "Write your own Bayesian Classifier: An Introduction to Machine Learning"
   date: 2013-03-01
-  time: 16:00
+  time: '16:00'
   speaker: "John Melesky"
   description: |
     Through the implementation of an honest-to-goodness Bayesian classifier, we'll tour the major topics of supervised machine learning: tokenization, feature selection and vectorization, model training and tuning, and execution. Time permitting, we'll touch on other techniques and topics.<br />
@@ -374,7 +374,7 @@
 
 - title: 'Hadoop Hears a Who'
   date: 2013-02-22
-  time: 16:00
+  time: '16:00'
   speaker: 'Dan Colish'
   description: |
     Hadoop is an important batch data processing framework in use by companies of all sizes. It has a very approachable architecture and can be applied to a large group of modern computing problems. In addition, the framework supports an implementation of mapreduce which allows users to run jobs on any size cluster to fit their data size. Come learn about the architecture of this framework, management of the cluster, and how to develop mapreduce jobs.<br /><br />
@@ -382,21 +382,21 @@
 
 - title: '12 Hours with Google Dart'
   date: 2013-02-15
-  time: 16:00
+  time: '16:00'
   speaker: 'Devin Quirozoliver'
   description: |
     A high-level overview of the characteristics of Google\'s new web scripting language, from the perspective of a student who learned to use the language in under 12 hours. Does Dart have a chance to become a viable and heavily adopted alternative to JavaScript? The history, philosophy and intended purpose of the language will be discussed, and comparisons will be made to other languages and frameworks.<br /><br /><b>About the speaker:</b><br />Devin Quirozoliver is a senior undergraduate student in the Computer Science program at Portland State University. His interests include languages, user interface and wearable computing.'
 
 - title: 'Challenges in Developing the Portal Transportation Data Archive'
   date: 2013-02-08
-  time: 16:00
+  time: '16:00'
   speaker: 'Kristin Tufte'
   description: |
     The Portal Transportation Data Archive is a ~2TB PostgreSQL database that has been in existence since 2004. Kristin will demonstrate the current state of Portal. She will discuss the various technologies used to collect the data and the complexities of getting the data from the sensors to the database. She will also discuss her experiences working directly with local transportation agencies (ODOT, Metro, Trimet, Cities of Portland and Vancouver) to produce a web site that is useful in their day-to-day operations.<br /> <br /> About the speaker:<br /> Kristin Tufte is an assistant professor of Computer Science and Civil Engineering at Portland State University. Kristin is a recovering database geek.'
 
 - title: 'Collaborative chaos: what it means to write code, manage projects and work with people in open source communities'
   date: 2013-02-01
-  time: 16:00
+  time: '16:00'
   speaker: 'Selena'
   description: |
     Working in software and with computers means wildly different things depending on who you talk to. In open source, the work spans every aspect of software development - from the marketing and documentation to the troubleshooting end-user systems.<br />
@@ -411,14 +411,14 @@
 
 - title: "What I've learned about finding the right IT job by Gabrielle Roth from EnterpriseDB."
   date: 2013-01-25
-  time: 16:00
+  time: '16:00'
   speaker: 'Gabrielle Roth'
   description: |
     Ah, the IT department: Strange coworkers, on-call rotations, no budget for new equipment, and the grim realities of "consultant vs employee".  We'll cover these and a few other situations you can expect to encounter, and potential coping methods.  Of course, before we can consider all that, you have to actually have a job - so we\'ll also talk about ways to make your job hunt more successful:  what's worked for me, what\'s worked for my friends, and (more importantly) what hasn\'t.<br /><br /> About the Speaker:<br /> <br />Gabrielle started out her post-college life as a microbiologist and fell into IT by way of technical writing.  15 or so years later, she still occasionally wonders what exactly she got herself into, but overall she's having a good time.  Currently, she\'s a Systems Engineer with EnterpriseDB, a PostgreSQL company.',
 
 - title: 'Michael Schern presenting Git For Ages 4 And Up'
   date: 2013-01-18
-  time: 16:00
+  time: '16:00'
   speaker: 'Michael Schern'
   description: |
     Tinker Toys are the best illustration of a Git repository I\'ve found. Side-by-side with issuing Git commands, 
@@ -432,25 +432,25 @@
 
 - title: 'Volunteer Thank You Meeting'
   date: 2012-12-07
-  time: 16:00
+  time: '16:00'
   speaker: 'ACM Members'
   description: 'We will have a small meating to discuss the ACM and thank the volunteer tutors.'
 
 - title: 'Secure Boot and Linux'
   date: 2012-11-30
-  time: 16:00
+  time: '16:00'
   speaker: 'Steve Langasek'
   description: 'Steve Langasek will be talking about Secure Boot and Linux. This will be the last tech talk of the term, so be sure to show up!'
 
 - title: 'Node.js, Socket.io, and More'
   date: 2012-10-26
-  time: 16:00
+  time: '16:00'
   speaker: 'Thomas Schreiber'
   description: 'We will have Thomas Schreiber (Ubiquill) talking about node.js, socket.io, and other web development resources.'
 
 - title: "The ACM@PSU Presents: Richard Stallman - Free Software and Your Freedom"
   date: 2011-04-07
-  time: 16:00
+  time: '16:00'
   speaker: "Richard Stallman"
   description: |
     The Free Software Movement campaigns for computer users' freedom to cooperate and control their own computing. The Free Software Movement developed the GNU operating system, typically used with the Linux kernel, specifically to make these freedoms possible.<br />

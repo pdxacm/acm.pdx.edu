@@ -9,6 +9,7 @@ sequence:
            type: date
            required: yes
        "time":
+           type: str
            pattern: /^\d{2}:\d{2}$/
            required: yes
        "speaker": 
