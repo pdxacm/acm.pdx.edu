@@ -6,7 +6,11 @@ sequence:
            type: str
            required: yes
        "date":
-           pattern: /[0-9]?[0-9]-[0-9]?[0-9]-[0-9][0-9][0-9][0-9]/
+           type: date
+           required: yes
+       "time":
+           type: str
+           pattern: /^\d{2}:\d{2}$/
            required: yes
        "speaker": 
            type: str
@@ -15,6 +19,9 @@ sequence:
            type: str
        "description":
            type: str
+       "location":
+           type: str
+           required: no
        "survey":
            required: no
        "github":
