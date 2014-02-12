@@ -246,6 +246,28 @@ This record is incomplete as the chapter has existed since time immemorial.
       </tr>
     </table><br />
   </div>
+  <div class="col-md-4">
+    <h3>ACM officers for 1988-1989</h3>
+    <table class="table table-striped table-condensed">
+      <tr>
+        <td>President</td>
+        <td>Michael Green</td>
+      </tr><tr>
+        <td>Vice-President</td>
+        <td>Trent Fisher</td>
+    </table>
+  </div>
+  <div class="col-md-4">
+    <h3>ACM officers for 1986-1987</h3>
+    <table class="table table-striped table-condensed">
+      <tr>
+        <td>President</td>
+        <td>Shannon Nelson</td>
+      </tr><tr>
+        <td>Vice-President</td>
+        <td>Shauna Hogan</td>
+    </table>
+  </div>
 </div>
 
 <?php require_once(dirname(__FILE__).'/scripts/bottom.php') ?>
