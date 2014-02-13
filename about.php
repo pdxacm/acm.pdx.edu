@@ -80,6 +80,8 @@
 	    <td>Cameron White</td>
       </tr><tr>
             <td>Scott Anecito</td>
+      </tr><tr>
+      	    <td>Shu-Ping (Evan) Chu</td>
       </tr>
 
     </table>
