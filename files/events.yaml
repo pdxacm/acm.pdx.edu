@@ -13,11 +13,6 @@
   time: '16:30'
   speaker: Austin Williams
   description: |
-- title: "Bitcoin -- A Technical Introduction"
-  date: 2014-02-28
-  time: '16:30'
-  speaker: Austin Williams
-  description: |
      "Bitcoin is the world's first decentralized, peer-to-peer, digital currency and payment system. At its heart is an open source value-transfer protocol that facilitates currency transfers among users without relying on a trusted third party.  The protocol employs provable-cryptography to prevent counterfeiting, censorship, double-spending, and account seizures.
 
      We'll learn how the bitcoin protocol works, discuss some of its strengths and weaknesses, and dispel some common misperceptions.  No prior knowledge of cryptography is required, but a basic understanding of mathematical functions (ie: surjectivity, injectivity, domains, images, preimages, etc) will be assumed."
