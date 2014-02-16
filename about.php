@@ -70,20 +70,27 @@
 	<td>Philip Coho</td>
       </tr><tr>
         <td>Blake Wellington</td>
+      </tr><tr>
+	    <td>Sean DeBellis</td>
+      </tr><tr>
+            <td>Loc Le</td>
+      </tr><tr>
+	    <td>Connie Gibson</td>
+      </tr><tr>
+	    <td>Cameron White</td>
+      </tr><tr>
+            <td>Scott Anecito</td>
+      </tr><tr>
+      	    <td>Shu-Ping (Evan) Chu</td>
       </tr>
+
     </table>
 	<h2>School ACM Club Members</h2>
 	<table class="table table-striped table-condensed">
 	  <tr>
-	    <td>Loc Le</td>
-	  </tr><tr>
-	    <td>Sean DeBellis</td>
-	  </tr><tr>
 	    <td>Tyler Saling</td>
 	  </tr><tr>
 	    <td>Joseph Yuhas</td>
-	  </tr><tr>
-	    <td>Connie Gibson</td>
 	  </tr><tr>
 	    <td>David Harwood</td>
 	  </tr>
@@ -240,6 +247,28 @@ This record is incomplete as the chapter has existed since time immemorial.
         <td>Aaron Fellin</td>
       </tr>
     </table><br />
+  </div>
+  <div class="col-md-4">
+    <h3>ACM officers for 1988-1989</h3>
+    <table class="table table-striped table-condensed">
+      <tr>
+        <td>President</td>
+        <td>Michael Green</td>
+      </tr><tr>
+        <td>Vice-President</td>
+        <td>Trent Fisher</td>
+    </table>
+  </div>
+  <div class="col-md-4">
+    <h3>ACM officers for 1986-1987</h3>
+    <table class="table table-striped table-condensed">
+      <tr>
+        <td>President</td>
+        <td>Shannon Nelson</td>
+      </tr><tr>
+        <td>Vice-President</td>
+        <td>Shauna Hogan</td>
+    </table>
   </div>
 </div>
 

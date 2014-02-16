@@ -1,7 +1,21 @@
 ---
+- title: "Cybersecurity and Responsible Coding"
+  date: 2014-03-14
+  time: '16:30'
+  speaker: Dr. Cara Tang
+  description: |
+     "Topic details coming soon."
+
+     "Dr. Cara Tang is an instructor in the Computer Infomations Systems Department at Portland Community College and a longtime ACM member. She teaches courses in programming and databases at PCC and worked in industry as a software engineer for a number of years before that at companies including Monsanto and IBM. Dr. Tang is a security ambassador on an NSF-funded project to promote secure and responisble coding in Computer Science education. She received her doctorate degree in Computer Science at the University of Heidelberg with research in the area of combinatorial optimization."
+
 - title: "Bitcoin -- A Technical Introduction"
   date: 2014-02-28
-  time: '16:00'
+  time: '16:30'
+  speaker: Austin Williams
+  description: |
+- title: "Bitcoin -- A Technical Introduction"
+  date: 2014-02-28
+  time: '16:30'
   speaker: Austin Williams
   description: |
      "Bitcoin is the world's first decentralized, peer-to-peer, digital currency and payment system. At its heart is an open source value-transfer protocol that facilitates currency transfers among users without relying on a trusted third party.  The protocol employs provable-cryptography to prevent counterfeiting, censorship, double-spending, and account seizures.
@@ -12,14 +26,14 @@
 
 - title: "Internship Opportunities at DevelopmentNow"
   date: 2014-02-21
-  time: '16:00'
+  time: '16:30'
   speaker: Adam Lorts
   description: |
     TBA
 
 - title: "Stewardship of Open Source Microprojects"
   date: 2014-02-14
-  time: '16:00'
+  time: '16:30'
   speaker: Spencer Krum and William Van Hevelingen (nibalizer and blkperl)
   description: |
     "System administrators and devops engineers today are writing, sharing, and contributing back to more code than ever before. This has given rise to a new class of Open Source project: the open source microproject. Microprojects are small, specialized pieces of code (often a single script or collection of scripts) that solve a specific problem. Puppet modules, small ruby gems or python programs, anything written in perl, and plugins for just about anything are also in this class of software.
@@ -65,7 +79,7 @@
    "Gabrielle started out her post-college life as a microbiologist and fell into IT by way of technical writing.  15 or so years later, she still occasionally wonders what exactly she got herself into, but overall she's having a good time.  Currently, she's a Systems Engineer with EnterpriseDB, a PostgreSQL company. "
 
 - title: "Collaborative chaos: what it means to write code, manage projects and work with people in open source communities"
-  date: 2014-02-07
+  date: 2014-03-07
   time: '16:00'
   speaker: Selena
   description: |
