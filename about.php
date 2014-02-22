@@ -23,10 +23,13 @@
         <td><a href="http://web.cecs.pdx.edu/~bart/">Bart Massey</a><!-- - bart at cs.pdx.edu--></td>
       </tr><tr>
         <td>Chair</td>
-        <td>Sean Walsh<!-- - spw2 at pdx.edu--></td>
+        <td>Sean Mahan<!-- - mahan2 at pdx.edu--></td>
       </tr><tr>
         <td>Vice Chair</td>
-        <td>Sean Mahan<!-- - mahan2 at pdx.edu--></td>
+        <td>Cameron white<!-- - cawhite at pdx.edu--></td>
+      </tr><tr>
+        <td>Outreach Coordinator</td>
+        <td>Sean Walsh<!-- - spw2 at pdx.edu--></td>
       </tr><tr>
         <td>Treasurer</td>
         <td>Donovan Finch</td>
@@ -34,10 +37,7 @@
         <td>Secretary</td>
         <td>Clayton Ward</td>
 	  </tr><tr>
-		<td>Event Coordinator 1</td>
-		<td>Gina Burton</td>
-	  </tr><tr>
-		<td>Event Coordinator 2</td>
+		<td>Event Coordinator</td>
 		<td>Souriya Khaosanga</td>
 	  </tr><tr>
 	    <td>Webmaster</td>
@@ -82,6 +82,8 @@
             <td>Scott Anecito</td>
       </tr><tr>
       	    <td>Shu-Ping (Evan) Chu</td>
+      </tr><tr>
+		<td>Gina Burton</td>
       </tr>
 
     </table>
