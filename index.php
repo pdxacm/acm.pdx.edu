@@ -23,7 +23,12 @@
     Suite 88 is straight ahead, behind the glass windows. </li>
   <li>We play board games and card games.</li>
   <li>Often times we have a guest speaker who talks about a technology they are involved in or helped develop.</li>
-  <li>There is no sign-up or fee required, just walk in and join us if you're interested.</li>
+  <li>While we never force anyone to formally join the ACM, it is highly recommended that interested parties 
+  join the parent organization, which is only $19 a year for students, and comes with a load of great benefits.</li>
+  <l1>A HUGE THANK YOU TO THOSE WHO CAME OUT TO OUR BITCOIN TECH TALK<br />
+  We had one of best showings in recent times for our February 28th event, with 40 participants present, ranging from 
+  students, both undergraduate and graduate alike, as well as professors and even members of the general public. 
+  It is your enthusiasm and continued support which makes the PSU ACM Chapter what it is.</li>
   <!--<li>Refreshments are provided, but go fast. It's usually pizza and soda.</li>-->
 </ul>
 <div class="row">
