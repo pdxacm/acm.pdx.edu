@@ -1,4 +1,11 @@
 ---
+- title: "Android App Development Workshop"
+  date: 2014-04-04
+  time: '16:30'
+  speaker: Sean Walsh
+  description: |
+     "Topic details coming soon."
+
 - title: "Build a Mobile App in 15 Minutes"
   date: 2014-05-09
   time: '16:30'
@@ -14,7 +21,7 @@
      "Topic details coming soon."
 
 - title: "Cybersecurity and Responsible Coding"
-  date: 2014-03-14
+  date: 2014-05-23
   time: '16:30'
   speaker: Dr. Cara Tang
   description: |
