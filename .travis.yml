@@ -5,3 +5,5 @@ install:
     - gem install kwalify
 script:
     - bash tests/tests.sh
+notifications:
+    - irc: "irc.cat.pdx.edu#acm"
