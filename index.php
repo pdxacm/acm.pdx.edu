@@ -15,7 +15,7 @@
 <p>Here's some info about our weekly meetings:</p>
 
 <ul>
-  <li>We meet every Friday at 4pm in FAB 88-07.</li>
+  <li>We meet every Friday at 4pm in FAB 88-01.</li>
   <li>To get there, enter through the Engineering Building.
     Go down the stairs.
     You will see two elevators.
