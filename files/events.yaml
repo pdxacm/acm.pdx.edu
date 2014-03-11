@@ -1,24 +1,37 @@
 ---
-- title: "Mock Interview Workshop - ACM Members Only - 3:30-4:30"
+- title: "INTEL Windows OS Division is Looking for OS Developers"
+  date: 2014-04-18
+  time: '16:30'
+  speaker: INTEL OS Division
+  description: |
+      "We're on a mission nothing short of connecting and enriching the lives of every person on the planet. And we're just  getting started. How about you? Our visionary software team is blazing a trail now at Intel. Come join our fearless band of  risk takers and bar raisers, game changers and stargazers creating a tomorrow where everyone is united in one seamless  experience, whenever, wherever, and whatever they're doing.  
+     The Windows* OS Division focuses on maximizing Intel platform performance, energy efficiency and capabilities on  Microsoft system software by enabling support for platform technologies, features and optimizations. Our team is looking  for candidates with a BS, MS or PHD degrees in computer science or a related field."
+
+- title: "Mock Interview Workshop - ACM Members - 3:30-4:30"
   date: 2014-03-14
   time: '15:30'
   speaker: Jeff Morris
   description: |
-     "Jeff Morris, Senior Technical Recruiter at Triad Technology Group, will conduct up to 6 mock interviews and then follow up at the end to discuss interview tips and answer questions. This is a great opportunity. Be sure to sign up early."
+     "Jeff Morris, Senior Technical Recruiter at Triad Technology Group, over 6+ years of IT recruiting experience in the Portland metro area with strong career coaching expertise and a solid track record of connecting the right talent with the right company.
+     He will be conducting up to 6 mock interviews - critiquing individual strengths and weaknesses.
+     The mock interviews will wrap up at the end with an overview discussion on interviewing, finding work while in or out of school, and how to present your experience in the right light. 
+     This is a solid opportunity to cement good interview habits while fine tuning your resume. Contact Gina at gburton225@gmail.com to sign up."
 
-- title: "How to Recruiters Find You?"
+- title: "How do Recruiters Find You?"
   date: 2014-04-25
   time: '16:30'
   speaker: Sarah Stamp
   description: |
      "Topic details coming soon."
 
-- title: "Android App Development Workshop"
+- title: "iOS 7 Programming: An Introduction to Objective-C Mobile App Programming  "
   date: 2014-04-04
   time: '16:30'
   speaker: Sean Walsh
   description: |
-     "Topic details coming soon."
+     "In this talk, we will be introducing the Objective-C language with the Cocoa Framework for programming iOS 7 mobile apps, which are used primarily on iPhone and iPad mobile devices. iOS apps currently hold a huge share in the app market, with 41.2% of all mobile apps being run on iPhones and iPads. Some of the topics covered will include Xcode 5, the Storyboard Builder, and UX Design. Time and interest permitting, we will cover some more advanced concepts such as gesture recognition and an introduction to delegates. 
+     This talk will hopefully be a springboard into the new Mac Hack day which the ACM will be holding on Friday afternoons from for any interested parties.  Feel free to bring your MacBooks with Xcode 5 installed if you want to follow along interactively. 
+     Sean Walsh is the Outreach Coordinator of the Portland State Chapter of the ACM, and is actively pursuing a Masters Degree of Computer Science at PSU effective Spring 2014. Over Fall and Winter of the past year, he worked with a team of 7 to complete a behavior tracking system in iOS 7 with his Capstone team, and is very involved in the Mobile and Embedded Systems arenas in general. "
 
 - title: "Build a Mobile App in 15 Minutes"
   date: 2014-05-09
