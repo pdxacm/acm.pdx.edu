@@ -40,6 +40,9 @@
 		<td>Event Coordinator</td>
 		<td>Souriya Khaosanga</td>
 	  </tr><tr>
+		<td>Event Coordinator</td>
+		<td>Gina Burton</td>
+	  </tr><tr>
 	    <td>Webmaster</td>
 		<td>Sage Imel</td>
 	  </tr>
