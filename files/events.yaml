@@ -53,27 +53,27 @@
   speaker: Rekha Bachwani
   description: |
      "Today we generate multiple quintillion bytes of data per day. The rate of the
-data creation is so high that 90% of the data in the world today has been
-created in the last two years alone.  This rapid acceleration in the
-information production information has lead to a two fold need: a) protecting
-the sensitive data; and b) creating new technologies to filter and analyze this
-data. Machine learning techniques has long been used to analyze large amounts
-of data in myriad domains including for security and privacy (spam filtering,
-anomaly and intrusion detection, and so on).
+     data creation is so high that 90% of the data in the world today has been
+     created in the last two years alone.  This rapid acceleration in the
+     information production information has lead to a two fold need: a) protecting
+     the sensitive data; and b) creating new technologies to filter and analyze this
+     data. Machine learning techniques has long been used to analyze large amounts
+     of data in myriad domains including for security and privacy (spam filtering,
+     anomaly and intrusion detection, and so on).
 
-In this talk, I am going to talk about a large-scale data analytics framework
-for behavioral malware classification.  It comprises program analysis, fast
-feature hashing, and SVM-based learning techniques to model malware behavioral
-patterns.  The system combines continuous data collection from heterogeneous
-sources (the end host systems, in-house and publicly available malware data)
-with frequent and automated retraining to efficiently and accurately classify
-incoming malware samples.
-
-Rekha is Research Scientist at Intel Science and Technology Center for Secure
-Computing. She received her PhD from Rutgers University in 2011, and her
-Bachelors of Engineering from National Institute of Technology, Surat in 2000.
-Her research interests are in the areas of system security, secure analytics,
-operating systems and distributed systems."
+     In this talk, I am going to talk about a large-scale data analytics framework
+     for behavioral malware classification.  It comprises program analysis, fast
+     feature hashing, and SVM-based learning techniques to model malware behavioral
+     patterns.  The system combines continuous data collection from heterogeneous
+     sources (the end host systems, in-house and publicly available malware data)
+     with frequent and automated retraining to efficiently and accurately classify
+     incoming malware samples.
+     
+     Rekha is Research Scientist at Intel Science and Technology Center for Secure
+     Computing. She received her PhD from Rutgers University in 2011, and her
+     Bachelors of Engineering from National Institute of Technology, Surat in 2000.
+     Her research interests are in the areas of system security, secure analytics,
+     operating systems and distributed systems."
 
 - title: "Cybersecurity and Responsible Coding"
   date: 2014-05-23
