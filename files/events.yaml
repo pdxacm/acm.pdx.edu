@@ -1,10 +1,12 @@
 ---
-- title: "TBD"
+- title: "Aquameta: A P2P Network for Relational Data using PostgreSQL and Git"
   date: 2014-05-02
   time: '16:30'
   speaker: Eric Hanson 
   description: |
-      "Eric Hanson is from Aquameta. The details of his talk are TBD."
+      "Aquameta is a web-based programming environment built inside PostgreSQL.  In this talk, we’ll demonstrate a new way to manage relational data using version control system techniques typically used for files.  We’ll show how to mount a PostgreSQL database as a filesystem, push and pull data from remote repositories using SELECT and INSERT, and trade data with others.  Then we’ll talk about the future of this technology and our plans to launch a collaborative programming environment.
+
+        Eric Hanson is a former PSU grad student, and CEO of Aquameta LLC, a local software company.  His primary areas of focus are end-user programming, the web of data, decentralized systems and relational databases."
 
 - title: "Github Education"
   date: 2014-04-18
