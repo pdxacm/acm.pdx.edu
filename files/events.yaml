@@ -1,4 +1,11 @@
 ---
+- title: "Git workshop"
+  date: 2014-05-16
+  time: '16:30'
+  speaker: Emily Dunham
+  description: |
+      "TBD"
+
 - title: "Into the Great Unknown: Modern Web Operations and Infrastructure at Yelp"
   date: 2014-05-07
   time: '16:00'
