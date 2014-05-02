@@ -1,4 +1,11 @@
 ---
+- title: "Into the Great Unknown: Modern Web Operations and Infrastructure at Yelp"
+  date: 2014-05-07
+  time: '16:00'
+  speaker: Fred Hatfull
+  description: |
+      "The field of web operations is changing quickly. Modern internet companies are evolving, and mastering availability and performance is no longer enough. Come and learn about the tools and methods Yelp uses to ship next-generation infrastructure at a breakneck pace, all while providing rock-solid reliability and blazing speed for more than 120 million users."
+
 - title: "Aquameta: A P2P Network for Relational Data using PostgreSQL and Git"
   date: 2014-05-02
   time: '16:30'
