@@ -44,7 +44,7 @@
 		<td>Gina Burton</td>
 	  </tr><tr>
 	    <td>Webmaster</td>
-		<td>Sage Imel</td>
+		<td><a href="http://nightfly19.github.io">Sage Imel</a><!-- - sage at sagenite.net--></td>
 	  </tr>
     </table>
 	<h2>Embedded Systems Club Leaders</h2>
