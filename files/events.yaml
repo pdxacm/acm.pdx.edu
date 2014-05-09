@@ -4,7 +4,11 @@
   time: '16:30'
   speaker: Emily Dunham
   description: |
-      "TBD"
+      "Git is the most popular source code management and version control system in the open source community. Its complexity and power make it the best choice for most projects, while simultaneously giving it a daunting learning curve for newcomers. This talk will assume no background knowledge of version control, and will teach the basics of Git in order to give you an accurate mental model of what the tool doesv
+      
+      ## Speaker
+      
+      __Emily Dunham__ is a sysadmin at the OSU Open Source Lab and founder of the DevOps Bootcamp open source training program. "
 
 - title: "Into the Great Unknown: Modern Web Operations and Infrastructure at Yelp"
   date: 2014-05-07
