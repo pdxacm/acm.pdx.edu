@@ -1,10 +1,23 @@
 ---
-- title: "Introduction Flask"
+- title: "Python Web Development with Flask"
   date: 2014-05-30
   time: '16:30'
   speaker: Miguel Grinberg
   description: |
-      "TBD"
+      "Flask is a small and easy-to-use, yet fully featured open 
+      source web framework written in Python. It is considered a 
+      micro-framework, but don't let the 'micro' part fool you; Flask can do 
+      everything the others can do, many times in a simpler, leaner way. This 
+      presentation will introduce you to Flask through several examples that 
+      you can download and try.
+
+      __Miguel Grinberg__ has over 25 years of experience as a software 
+      engineer and leads a team of engineers that develop software for the 
+      video broadcast industry. He is the author of the O'Reilly book 'Flask 
+      Web Development', and blogs at http://blog.miguelgrinberg.com about a 
+      variety of topics including web development, robotics, photography, and 
+      the occasional movie review. He lives in Portland, Oregon with his wife, 
+      four kids, two dogs, and a cat. Follow @miguelgrinberg on Twitter."
       
 - title: "Git workshop"
   date: 2014-05-16
