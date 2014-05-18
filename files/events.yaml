@@ -127,9 +127,9 @@
   time: '16:30'
   speaker: Dr. Cara Tang
   description: |
-     "Topic details coming soon."
+     "This talk will introduce cybersecurity and secure coding, with a look at two highly publicized incidents. We will explore the most common vulnerabilities in software, attacks that exploit them, and how to protect against them. 
 
-     "Dr. Cara Tang is an instructor in the Computer Infomations Systems Department at Portland Community College and a longtime ACM member. She teaches courses in programming and databases at PCC and worked in industry as a software engineer for a number of years before that at companies including Monsanto and IBM. Dr. Tang is a security ambassador on an NSF-funded project to promote secure and responisble coding in Computer Science education. She received her doctorate degree in Computer Science at the University of Heidelberg with research in the area of combinatorial optimization."
+     Dr. Cara Tang is an instructor in the Computer Information Systems Department at Portland Community College and a longtime ACM member. She teaches courses in programming and databases at PCC and worked in industry as a software engineer for a number of years before that at companies including Monsanto and IBM. Dr. Tang is a security ambassador on an NSF-funded project to promote secure and responisble coding in Computer Science education. She received her doctorate degree in Computer Science at the University of Heidelberg with research in the area of combinatorial optimization."
 
 - title: "Bitcoin -- A Technical Introduction"
   date: 2014-02-28
