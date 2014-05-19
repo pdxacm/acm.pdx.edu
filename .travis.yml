@@ -6,4 +6,4 @@ install:
 script:
     - bash tests/tests.sh
 notifications:
-    irc: "irc.cat.pdx.edu#acm"
+    irc: "irc.cat.pdx.edu#acm-dev"
