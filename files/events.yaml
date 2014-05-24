@@ -4,7 +4,9 @@
   time: '16:30'
   speaker: Miguel Grinberg
   description: |
-      "Flask is a small and easy-to-use, yet fully featured open 
+      "RSVP at Eventbrite: https://www.eventbrite.com/e/python-web-development-with-flask-tickets-11668297191
+      
+      Flask is a small and easy-to-use, yet fully featured open 
       source web framework written in Python. It is considered a 
       micro-framework, but don't let the 'micro' part fool you; Flask can do 
       everything the others can do, many times in a simpler, leaner way. This 
