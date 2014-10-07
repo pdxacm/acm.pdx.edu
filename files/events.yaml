@@ -1,4 +1,11 @@
 ---
+- title: "New Member Welcome"
+  date: 2014-10-10
+  time: '16:30'
+  speaker: ACM Officers
+  description: |
+      "This Friday we will have a New Members Welcome at 4:30 in FAB 88-01 where we will have food and drinks courtesy of the CS department."
+
 - title: "Python Web Development with Flask"
   date: 2014-05-30
   time: '16:30'
