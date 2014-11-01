@@ -26,10 +26,10 @@
         <td>Sean Mahan<!-- - mahan2 at pdx.edu--></td>
       </tr><tr>
         <td>Vice Chair</td>
-        <td>Cameron white<!-- - cawhite at pdx.edu--></td>
+        <td>Cameron White<!-- - cawhite at pdx.edu--></td>
       </tr><tr>
         <td>Outreach Coordinator</td>
-        <td>Sean Walsh<!-- - spw2 at pdx.edu--></td>
+        <td>Azadi Bogolubov<!-- - azadib at pdx.edu--></td>
       </tr><tr>
         <td>Treasurer</td>
         <td>Donovan Finch</td>
@@ -54,7 +54,7 @@
 		<td>Uriae Walker</td>
 	  </tr><tr>
 	    <td>Android Programming Club</td>
-		<td>Sean Walsh</td>
+		<td>Azadi Bogolubov</td>
 	  </tr>
 	</table>
     <h2>Official ACM Members</h2>
@@ -135,7 +135,7 @@ This record is incomplete as the chapter has existed since time immemorial.
         <td>Lindsay Ergenekan</td>
       </tr><tr>
         <td>Vice Chair</td>
-        <td>Sean Walsh<!-- - spw2 at pdx.edu--></td>
+        <td>Azadi Bogolubov<!-- - azadib at pdx.edu--></td>
       </tr><tr>
         <td>Treasurer</td>
         <td>Jameson McCowan<!-- - jameson at cecs.pdx.edu--></td>
