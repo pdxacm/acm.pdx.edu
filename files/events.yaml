@@ -1,4 +1,37 @@
 ---
+- title: "Richard Stallman - Copyright vs Community in the Age of Computer Networks"
+  date: 2014-11-07
+  time: '18:00'
+  speaker: Dr. Richard Stallman
+  description: |
+      "Location: Portland State University Hoffman Hall, 1833 SW 11th Avenue, Portland, Oregon
+
+      Copyright developed in the age of the printing press, and was designed
+      to fit with the system of centralized copying imposed by the printing
+      press.  But the copyright system does not fit well with computer
+      networks, and only draconian punishments can enforce it.
+
+      The global corporations that profit from copyright are lobbying
+      for draconian punishments, and to increase their copyright powers,
+      while suppressing public access to technology.  But if we
+      seriously hope to serve the only legitimate purpose of
+      copyright--to promote progress, for the benefit of the
+      public--then we must make changes in the other direction.
+
+     Speaker Bio:
+     Dr. Richard Stallman launched the free software movement in 1983 and
+     started the development of the GNU operating system (see www.gnu.org)
+     in 1984.  GNU is free software: everyone has the freedom to copy it
+     and redistribute it, with or without changes.  The GNU/Linux system,
+     basically the GNU operating system with Linux added, is used on tens
+     of millions of computers today.  Stallman has received the ACM Grace
+     Hopper Award, a MacArthur Foundation fellowship, the Electronic
+     Frontier Foundation's Pioneer Award, and the the Takeda Award for
+     Social/Economic Betterment, as well as several doctorates honoris
+     causa, and has been inducted into the Internet Hall of Fame.
+
+     Presented by Portland State University Chapter of Association of Computing Machinery (ACM@PSU)."
+
 - title: "New Member Welcome"
   date: 2014-10-10
   time: '16:30'
@@ -12,7 +45,7 @@
   speaker: Miguel Grinberg
   description: |
       "RSVP at Eventbrite: https://www.eventbrite.com/e/python-web-development-with-flask-tickets-11668297191
-      
+
       Flask is a small and easy-to-use, yet fully featured open 
       source web framework written in Python. It is considered a 
       micro-framework, but don't let the 'micro' part fool you; Flask can do 
