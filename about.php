@@ -29,7 +29,7 @@
         <td>Cameron White<!-- - cawhite at pdx.edu--></td>
       </tr><tr>
         <td>Outreach Coordinator</td>
-        <td>Azadi Bogolubov<!-- - azadib at pdx.edu--></td>
+        <td><a href="https://github.com/alexhugheswise">Alex Wise</a></td>
       </tr><tr>
         <td>Treasurer</td>
         <td>Donovan Finch</td>
