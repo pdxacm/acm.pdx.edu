@@ -18,19 +18,19 @@
       copyright--to promote progress, for the benefit of the
       public--then we must make changes in the other direction.
 
-     Speaker Bio:
-     Dr. Richard Stallman launched the free software movement in 1983 and
-     started the development of the GNU operating system (see www.gnu.org)
-     in 1984.  GNU is free software: everyone has the freedom to copy it
-     and redistribute it, with or without changes.  The GNU/Linux system,
-     basically the GNU operating system with Linux added, is used on tens
-     of millions of computers today.  Stallman has received the ACM Grace
-     Hopper Award, a MacArthur Foundation fellowship, the Electronic
-     Frontier Foundation's Pioneer Award, and the the Takeda Award for
-     Social/Economic Betterment, as well as several doctorates honoris
-     causa, and has been inducted into the Internet Hall of Fame.
+      Speaker Bio:
+      Dr. Richard Stallman launched the free software movement in 1983 and
+      started the development of the GNU operating system (see www.gnu.org)
+      in 1984.  GNU is free software: everyone has the freedom to copy it
+      and redistribute it, with or without changes.  The GNU/Linux system,
+      basically the GNU operating system with Linux added, is used on tens
+      of millions of computers today.  Stallman has received the ACM Grace
+      Hopper Award, a MacArthur Foundation fellowship, the Electronic
+      Frontier Foundation's Pioneer Award, and the the Takeda Award for
+      Social/Economic Betterment, as well as several doctorates honoris
+      causa, and has been inducted into the Internet Hall of Fame.
 
-     Presented by Portland State University Chapter of Association of Computing Machinery (ACM@PSU)."
+      Presented by Portland State University Chapter of Association of Computing Machinery (ACM@PSU)."
 
 - title: "New Member Welcome"
   date: 2014-10-10
@@ -52,7 +52,7 @@
       everything the others can do, many times in a simpler, leaner way. This 
       presentation will introduce you to Flask through several examples that 
       you can download and try.
-
+      
       __Miguel Grinberg__ has over 25 years of experience as a software 
       engineer and leads a team of engineers that develop software for the 
       video broadcast industry. He is the author of the O'Reilly book 'Flask 
