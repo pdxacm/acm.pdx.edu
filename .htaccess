@@ -9,7 +9,7 @@
 </Files>
 
 # Set some options.
-Options FollowSymLinks -Indexes
+Options +FollowSymLinks -Indexes
 
 # Customized error messages.
 ErrorDocument 404 /index.php
