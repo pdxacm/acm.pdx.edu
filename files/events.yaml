@@ -1,4 +1,51 @@
 ---
+- title: "Free Professional Headshot Portrait - Everyone is welcome!"
+  speaker: "Photographer: SHALINNA PEN PHOTOGRAPHY"
+  date: 2015-05-29
+  time: '2–5PM'
+  description: |
+      "This event will be in FAB 86-01.
+
+      The Association for Computing Machinery (ACM) will be hosting an event
+      this Friday where you can come in and get a professional headshot
+      portrait taken. You get to keep the photo and you can use it in your
+      LinkedIn profile, resume, or any other place you'd like. This is an
+      opportunity for YOU to look professional in how you present yourself
+      online and on paper.
+
+      When you choose a headshot portrait for your social media accounts,
+      you need to think carefully. What is the purpose of your social
+      networking activity? Are you representing yourself as an individual,
+      or are you online as part of your business? Perhaps you’re a student
+      looking for a job. Studies show people with a good headshot are likely
+      to be hired for a well-paying job. Your social media headshot can seem
+      no bigger than a thumbnail, but it packs a powerful punch."
+
+- title: "Workshop: Introduction to Git and Github"
+  date: 2015-06-01
+  speaker: "Ryan Niebur, CS Undergraduate"
+  time: '11:00 AM - 12:00 PM'
+  description: |
+      "This event will be in FAB 88-10 (CS Linux Lab A, the Penguin Lab).
+
+      Git and other version control systems are an essential tool for
+      anybody within Computer Science.
+
+      As a student, you can use version control to backup and track your
+      changes to homework. If you realize you have gone down the wrong path,
+      git makes it easy to turn back time and return to a previous version
+      of it. Furthermore, version control will be the core method used to
+      collaborate with your team on a daily basis in the workforce. It
+      cannot hurt to have this skill on your resume now!
+
+      This workshop introduces you to the world of version control using git
+      and helps you start exploring, including:
+      * Explanation of the high level concepts involved with version control
+      * Setting up a Github account, including perks available to students
+      * Basics of using git for a small project, such as for your homework
+
+      We can go further into any specific area that people have questions!"
+
 - title: "Richard Stallman - Copyright vs Community in the Age of Computer Networks"
   date: 2014-11-07
   time: '18:00'
