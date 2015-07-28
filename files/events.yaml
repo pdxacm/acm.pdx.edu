@@ -3,7 +3,7 @@
   speaker: "Alexander Simchuk"
   date: 2015-07-28
   time: '17:00'
-  description:
+  description: |
       "This event will be in FAB 88-10 (Linux Lab) from 5PM-7PM.
 
       This workshop is aimed at those who have never used NCurses before and
