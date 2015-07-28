@@ -1,4 +1,36 @@
 ---
+- title: "ACM Workshop: Matrix Feed with NCurses"
+  speaker: "Alexander Simchuk"
+  date: 2015-07-28
+  time: '17:00'
+  description:
+      "This event will be in FAB 88-10 (Linux Lab) from 5PM-7PM.
+
+      This workshop is aimed at those who have never used NCurses before and
+      will cover the basics of how the library works as well as how to make
+      simple menus and text animations. This will be a hands-on workshop
+      where we will be using C to create a menu and a Matrix code feed, but
+      if you want to just come and watch that is fine too."
+
+- title: "D3 Meetup: Lightning Talks and Project Demos"
+  speaker: "multiple shorter, more focused talks on specific projects and concepts"
+  date: 2015-07-28
+  time: '18:30'
+  description: |
+      "This event will be in FAB 86-01 (CS Conference) from 6:30PM-8:30PM.
+      D3.js is a JavaScript library for manipulating documents based on
+      data. D3 helps you bring data to life using HTML, SVG, and CSS. D3’s
+      emphasis on web standards gives you the full capabilities of modern
+      browsers without tying yourself to a proprietary framework, combining
+      powerful visualization components and a data-driven approach to DOM
+      manipulation.
+
+      We will have a few people lined up to give short talks on specific
+      parts of D3 and data visualization in general. Those who are interested
+      in showing off the cool things they have created with D3 will have a
+      platform to share, and hopefully the rest of us can gain some cool
+      ideas or inspiration."
+
 - title: "Free Professional Headshot Portrait - Everyone is welcome!"
   speaker: "Photographer: SHALINNA PEN PHOTOGRAPHY"
   date: 2015-05-29
