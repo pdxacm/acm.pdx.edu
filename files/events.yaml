@@ -1,4 +1,17 @@
 ---
+- title: "Common Lisp"
+  speaker: "SAGE IMEL"
+  date: 2015-08-04
+  time: '17:00'
+  description: |
+      "This event will be in FAB 88-10 (CS Linux Lab) from 5PM-6PM.
+
+      What is Lisp? What is Common Lisp? Lisp is the second oldest
+      high-level programming language in today’s world. Lisp/Scheme are the
+      favored programming language toward Artificial Intelligence
+      applications and are an extremely valuable learning experience.
+      Programming in a functional language like Lisp will help you think."
+
 - title: "ACM Workshop: Matrix Feed with NCurses"
   speaker: "Alexander Simchuk"
   date: 2015-07-28
