@@ -26,13 +26,13 @@
         <td>Ryan Neibur<!-- - mahan2 at pdx.edu--></td>
       </tr><tr>
         <td>Co-chair</td>
-        <td>Daniel Eynis<!-- - cawhite at pdx.edu--></td>
+        <td><a href="https://www.linkedin.com/pub/daniel-eynis/a5/9a3/649">Daniel Eynis</a><!-- - cawhite at pdx.edu--></td>
       </tr><tr>
         <td>Outreach Coordinator</td>
         <td><a href="https://github.com/alexhugheswise">Alex Wise</a></td>
       </tr><tr>
         <td>Treasurer</td>
-        <td>Kiarash Torkian</td>
+        <td><a href="https://github.com/restart32">Kiarash Torkian</a></td>
       </tr><tr>
         <td>Secretary</td>
         <td>Scott Phon</td>
