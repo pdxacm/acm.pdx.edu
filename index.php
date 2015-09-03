@@ -15,21 +15,17 @@
 <p>Here's some info about our weekly meetings:</p>
 
 <ul>
-  <li>We meet every Friday at 4pm in FAB 88-01.</li>
+  <li>We meet every Thursday at 6 PM in FAB 88-01.</li>
   <li>To get there, enter through the Engineering Building.
     Go down the stairs.
     You will see two elevators.
     Go through the double doors to the left of the elevators.
     Suite 88 is straight ahead, behind the glass windows. </li>
-  <li>We play board games and card games.</li>
-  <li>Often times we have a guest speaker who talks about a technology they are involved in or helped develop.</li>
+  <li>We play board/card games and have PS3 consoles/games on hand.</li>
+  <li>Often times we have guest speakers who talk about technologies they are involved in or helped develop.</li>
   <li>While we never force anyone to formally join the ACM, it is highly recommended that interested parties 
-  join the parent organization, which is only $19 a year for students, and comes with a load of great benefits.</li>
-  <l1>A HUGE THANK YOU TO THOSE WHO CAME OUT TO OUR BITCOIN TECH TALK<br />
-  We had one of best showings in recent times for our February 28th event, with 40 participants present, ranging from 
-  students, both undergraduate and graduate alike, as well as professors and even members of the general public. 
-  It is your enthusiasm and continued support which makes the PSU ACM Chapter what it is.</li>
-  <!--<li>Refreshments are provided, but go fast. It's usually pizza and soda.</li>-->
+  join the parent organization. It is free for all students and comes with a load of great benefits. Benefits include creating
+  and joining group projects of your liking and having access to many devices such as raspberry pi.</li>
 </ul>
 <div class="row">
   <div class="col-md-4">
