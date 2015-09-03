@@ -1,6 +1,9 @@
 <?php
    $section = 'home';
    require_once(dirname(__FILE__).'/scripts/top.php');
+   header('Content-Type: image/png');
+   readfile('files/images/new_logo.png');
+   echo '<img src="'.$image.'" /><br />';
    ?>
 
 
