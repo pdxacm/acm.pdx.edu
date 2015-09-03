@@ -22,84 +22,31 @@
         <td>Advisor</td>
         <td><a href="http://web.cecs.pdx.edu/~bart/">Bart Massey</a><!-- - bart at cs.pdx.edu--></td>
       </tr><tr>
-        <td>Chair</td>
-        <td>Sean Mahan<!-- - mahan2 at pdx.edu--></td>
+        <td>Co-chair</td>
+        <td>Ryan Neibur<!-- - mahan2 at pdx.edu--></td>
       </tr><tr>
-        <td>Vice Chair</td>
-        <td>Cameron White<!-- - cawhite at pdx.edu--></td>
+        <td>Co-chair</td>
+        <td>Daniel Eynis<!-- - cawhite at pdx.edu--></td>
       </tr><tr>
         <td>Outreach Coordinator</td>
         <td><a href="https://github.com/alexhugheswise">Alex Wise</a></td>
       </tr><tr>
         <td>Treasurer</td>
-        <td>Donovan Finch</td>
+        <td>Kiarash Torkian</td>
       </tr><tr>
         <td>Secretary</td>
-        <td>Clayton Ward</td>
+        <td>Scott Phon</td>
 	  </tr><tr>
 		<td>Event Coordinator</td>
-		<td>Souriya Khaosanga</td>
+		<td>John Vo</td>
 	  </tr><tr>
 		<td>Event Coordinator</td>
-		<td>Gina Burton</td>
+		<td>Rohan</td>
 	  </tr><tr>
 	    <td>Webmaster</td>
-		<td><a href="http://nightfly19.github.io">Sage Imel</a><!-- - sage at sagenite.net--></td>
+		<td>Chance Snow</td>
 	  </tr>
     </table>
-	<h2>Embedded Systems Club Leaders</h2>
-	<table class="table table-striped table-condensed">
-	  <tr>
-	    <td>Arduino Programming Club</td>
-		<td>Uriae Walker</td>
-	  </tr><tr>
-	    <td>Android Programming Club</td>
-		<td>Azadi Bogolubov</td>
-	  </tr>
-	</table>
-    <h2>Official ACM Members</h2>
-	<table class="table table-striped table-condensed">
-      <tr>
-	    <td>Lindsay Ergenekan</td>
-	  </tr><tr>
-        <td>Alexander Steiert<!-- - asteiert at cs.pdx.edu--></td>
-      </tr><tr>
-        <td>Damon Liang<!-- - damonl at cecs.pdx.edu--></td>
-      </tr><tr>
-        <td>Harmanpreet Singh</td>
-      </tr><tr>
-        <td>Jameson McCowan<!-- - jameson at cecs.pdx.edu--></td>
-      </tr><tr>
-	<td>Philip Coho</td>
-      </tr><tr>
-        <td>Blake Wellington</td>
-      </tr><tr>
-	    <td>Sean DeBellis</td>
-      </tr><tr>
-            <td>Loc Le</td>
-      </tr><tr>
-	    <td>Connie Gibson</td>
-      </tr><tr>
-	    <td>Cameron White</td>
-      </tr><tr>
-            <td>Scott Anecito</td>
-      </tr><tr>
-      	    <td>Shu-Ping (Evan) Chu</td>
-      </tr><tr>
-		<td>Gina Burton</td>
-      </tr>
-
-    </table>
-	<h2>School ACM Club Members</h2>
-	<table class="table table-striped table-condensed">
-	  <tr>
-	    <td>Tyler Saling</td>
-	  </tr><tr>
-	    <td>Joseph Yuhas</td>
-	  </tr><tr>
-	    <td>David Harwood</td>
-	  </tr>
-	</table>
   </div>
   <div class="col-md-8">
     <h2>Our local Chapter</h2>
