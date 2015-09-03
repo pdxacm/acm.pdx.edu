@@ -12,7 +12,12 @@
     It is a non-profit organization founded in 1947 that provides its members access to professional publications, conferences, and career resources.
     The ACM also has student programming competitions.
   </div>
+    <h2>Mission Statement</h2>
+    To provide a platform of educational resources to foster a diverse community of people passionate about technology.
+  </div>
 </div>
+
+
 
 <div class="row">
   <div class="col-md-4">
