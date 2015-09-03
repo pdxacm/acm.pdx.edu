@@ -11,9 +11,8 @@
   Portland State University Student Chapter of<br />
   the Association for Computing Machinery
   </div>
-    <div class="col-md-4">
-   <img src= "<?php echo $image ?>" alt="test" width="350" height="181"/>
-   </div>
+
+   
 </div>
 
 <h2>Welcome New and Returning Students!</h2>
