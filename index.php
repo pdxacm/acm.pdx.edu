@@ -1,9 +1,7 @@
 <?php
    $section = 'home';
    require_once(dirname(__FILE__).'/scripts/top.php');
-   header('Content-Type: image/png');
-   readfile('files/images/new_logo.png');
-   echo '<img src="'.$image.'" /><br />';
+   $image = 'files/images/new_logo.png';
    ?>
 
 
@@ -11,6 +9,7 @@
   <h1>ACM @ PSU</h1>
   Portland State University Student Chapter of<br />
   the Association for Computing Machinery
+   <img src= "<?php echo $image ?>" alt="test"/>
 </div>
 
 <h2>Welcome New and Returning Students!</h2>
