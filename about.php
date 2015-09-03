@@ -41,7 +41,7 @@
 		<td>John Vo</td>
 	  </tr><tr>
 		<td>Event Coordinator</td>
-		<td>Rohan</td>
+		<td>Rohan Elukurthy</td>
 	  </tr><tr>
 	    <td>Webmaster</td>
 		<td>Chance Snow</td>
