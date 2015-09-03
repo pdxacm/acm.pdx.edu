@@ -70,7 +70,8 @@
     Our group often hangs out in the Portland State University Fourth Avenue Building (FAB), Room 88<br />
     1900 SW Fourth Avenue<br /> Portland, Oregon 97201<br />
     (<a href="http://maps.google.com/maps?q=1900+SW+Fourth+Avenue%2C+Portland+Oregon+97201+">Google map</a>)
-    (<a href="http://www.fap.pdx.edu/floorplans/detail2.php?buildingID=12">FAB maps</a>)  </div>
+    (<a href="https://www.pdx.edu/floorplans/buildings/fab">FAB</a>)
+    (<a href="https://www.pdx.edu/floorplans/buildings/eb">EB</a>)</div>
 </div>
 
 <hr />
