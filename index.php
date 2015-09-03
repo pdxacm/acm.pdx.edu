@@ -9,7 +9,7 @@
   <h1>ACM @ PSU</h1>
   Portland State University Student Chapter of<br />
   the Association for Computing Machinery
-   <img src= "<?php echo $image ?>" alt="test"/>
+   <img src= "<?php echo $image ?>" alt="test" width="200" height="200"/>
 </div>
 
 <h2>Welcome New and Returning Students!</h2>
