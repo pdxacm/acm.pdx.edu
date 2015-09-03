@@ -6,11 +6,10 @@
 
 
 <div class="jumbotron">
-  <div class="col-md-4">
   <h1>ACM @ PSU</h1>
   Portland State University Student Chapter of<br />
   the Association for Computing Machinery
-  </div>
+
 
    
 </div>
