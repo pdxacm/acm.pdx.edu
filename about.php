@@ -9,7 +9,7 @@
   <div class="col-md-12">
     <h2>The ACM</h2>
     The Association for Computing Machinery is the largest international organization devoted to science and education related to computing.
-    It is a non-profit organization founded in 1946 that provides its members access to professional publications, conferences, and career resources.
+    It is a non-profit organization founded in 1947 that provides its members access to professional publications, conferences, and career resources.
     The ACM also has student programming competitions.
     <h2>Mission Statement</h2>
     To provide a platform of educational resources to foster a diverse community of people passionate about technology.
@@ -65,7 +65,7 @@
     <hr />
     <h3>PSU</h3>
     Portland State University is situated in downtown Portland, Oregon, United States.
-    It was founded in 1947 and is the only public university in the state that is located in a major metropolitan city.
+    It was founded in 1946 and is the only public university in the state that is located in a major metropolitan city.
     <br /><br />
     Our group often hangs out in the PSU Fourth Avenue Building, Room 88-01 located in the tutor lounge.<br />
     Portland, Oregon 97201<br />
