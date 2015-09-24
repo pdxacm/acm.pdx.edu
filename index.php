@@ -39,7 +39,6 @@
     <br>
     <br>
     <a href="http://www.irchelp.org/irchelp/irctutorial.html#intro" class="irc_link">What is IRC?</a>
-    <br>
     <a class="btn btn-success" href="http://cat.pdx.edu/~thx1138/acm.html">Chat Now</a>
   </div>
   <div class="col-md-4">
