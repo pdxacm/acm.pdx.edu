@@ -29,7 +29,6 @@
 <div class="row">
   <div class="col-md-4">
     <h2>Upcoming Events</h2>
-    We are currently planning workshops and speakers for Fall of 2015.
     <?php event_sidebar() ?>
   </div>
   <div class="col-md-4">
