@@ -1,4 +1,20 @@
 ---
+- title: "Party in the Park"
+  speaker: "ACM"
+  date: 2015-10-01
+  time: '11:00'
+  description: |
+      "Founded in 1990, Party in the Park draws thousands of new PSU 
+      students to the Park Blocks for a day of free food, entertainment,
+      networking, and information about campus activities. The purpose of 
+      Party in the Park is to promote student engagement and leadership 
+      opportunities offered from across the Portland State University 
+      campus to new and returning students. Involvement opportunities 
+      range from campus recreation groups to student organizations from 
+      every cluster under SALP. The day is filled with great entertainment
+      and free food. Be sure to stop by this great event during the first 
+      week of classes."
+
 - title: "Random"
   speaker: "Bart Massey"
   date: 2015-08-11
