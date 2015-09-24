@@ -48,7 +48,7 @@
 		<td>Rohan Elukurthy</td>
 	  </tr><tr>
 	    <td>Webmaster</td>
-		<td>Chance Snow</td>
+		<td>Current Open</td>
 	  </tr>
     </table>
   </div>
