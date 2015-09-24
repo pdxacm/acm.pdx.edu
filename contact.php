@@ -33,8 +33,8 @@
   <div class="col-md-4">
     <h2>Mailing Address</h2>
     <address>
-      We currently don't have a mailing list<br />
-      Will get this fixed but can still<br />
+      We currently don't have a mailing address,<br />
+      and will get this fixed but can still<br />
       be reached at FAB 88-01
     </address>
   </div>
