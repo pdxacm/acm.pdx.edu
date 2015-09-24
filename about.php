@@ -70,11 +70,11 @@
     Our group often hangs out in the PSU Fourth Avenue Building, Room 88-01 located in the tutor lounge.<br />
     Portland, Oregon 97201<br />
     (<a href="https://www.pdx.edu/floorplans/buildings/eb">EB</a>)
-    (<a href="http://maps.google.com/maps?q=1900+SW+Fourth+Avenue%2C+Portland+Oregon+97201+">Google map</a>)
-    (<a href="https://www.google.com/maps/@45.509626,-122.6813765,3a,70.2y,111.35h,107.73t/data=!3m6!1e1!3m4!1sphmLx7aEumzoq6b8zshnGg!2e0!7i13312!8i6656!6m1!1e1">Google view</a>)<br />
-    (<a href="https://www.pdx.edu/floorplans/buildings/fab">FAB</a>)
     (<a href="https://www.google.com/maps/place/Engineering+Bldg,+Portland,+OR+97201/@45.5090477,-122.6809337,459m/data=!3m2!1e3!4b1!4m7!1m4!3m3!1s0x54950a14116590d7:0x63a5638fb5805e92!2s1900+SW+4th+Ave,+Portland,+OR+97201!3b1!3m1!1s0x54950a146a523c6d:0xc394a5380f970370">Google map</a>)
-    (<a href="https://www.google.com/maps/@45.5092013,-122.681601,3a,75y,118.98h,106.35t/data=!3m6!1e1!3m4!1sNT6aDQIBrfHU_s0U3uPRZw!2e0!7i13312!8i6656">Google view</a>)</div>
+    (<a href="https://www.google.com/maps/@45.5092013,-122.681601,3a,75y,118.98h,106.35t/data=!3m6!1e1!3m4!1sNT6aDQIBrfHU_s0U3uPRZw!2e0!7i13312!8i6656">Google view</a>)<br />
+    (<a href="https://www.pdx.edu/floorplans/buildings/fab">FAB</a>)
+    (<a href="http://maps.google.com/maps?q=1900+SW+Fourth+Avenue%2C+Portland+Oregon+97201+">Google map</a>)
+    (<a href="https://www.google.com/maps/@45.509626,-122.6813765,3a,70.2y,111.35h,107.73t/data=!3m6!1e1!3m4!1sphmLx7aEumzoq6b8zshnGg!2e0!7i13312!8i6656!6m1!1e1">Google view</a>)</div>
     
 
 </div>
