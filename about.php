@@ -42,7 +42,7 @@
         <td>Scott Phon</td>
 	  </tr><tr>
 		<td>Event Coordinator</td>
-		<td>John Vo</td>
+		<td>Currently Open</td>
 	  </tr><tr>
 		<td>Event Coordinator</td>
 		<td>Rohan Elukurthy</td>
