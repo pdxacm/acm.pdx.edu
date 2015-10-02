@@ -1,4 +1,19 @@
 ---
+- title: "New ACM Members Welcome"
+  speaker: "ACM"
+  date: 2015-10-02
+  time: '12:00'
+  description: |
+    "This event will be in FAB 86-01 (CS Conference) from 12:00PM-1:00PM.
+
+    Thanks to everyone that came by the booth at Party in the Park!
+    We have ~70 new members in the drawing for ACM T-Shirts.
+    See you at the New ACM Member Welcome tomorrow at noon in FAB 86-01.
+
+    FAB 86-01 is located downstairs from the Engineering Building, behind the elevators on your left, opposite the CS Tutor Lounge.
+
+    Pizza will be provided. Come and learn what the ACM has planned for Fall Term and present your ideas for the group."
+
 - title: "Party in the Park"
   speaker: "ACM"
   date: 2015-10-01
@@ -16,6 +31,25 @@
       week of classes.
       
       More info can be found at: https://www.pdx.edu/student-leadership/party-in-the-park"
+
+- title: "D3 Meetup: Lightning Talks and Project Demos"
+  speaker: "multiple shorter, more focused talks on specific projects and concepts"
+  date: 2015-09-29
+  time: '18:30'
+  description: |
+      "This event will be in FAB 86-01 (CS Conference) from 6:30PM-8:30PM.
+      D3.js is a JavaScript library for manipulating documents based on
+      data. D3 helps you bring data to life using HTML, SVG, and CSS. D3’s
+      emphasis on web standards gives you the full capabilities of modern
+      browsers without tying yourself to a proprietary framework, combining
+      powerful visualization components and a data-driven approach to DOM
+      manipulation.
+
+      We will have a few people lined up to give short talks on specific
+      parts of D3 and data visualization in general. Those who are interested
+      in showing off the cool things they have created with D3 will have a
+      platform to share, and hopefully the rest of us can gain some cool
+      ideas or inspiration."
 
 - title: "Random"
   speaker: "Bart Massey"
