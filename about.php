@@ -42,7 +42,7 @@
         <td>Scott Phon</td>
 	  </tr><tr>
 		<td>Event Coordinator</td>
-		<td>Currently Open</td>
+		<td>Lisa Gray</td>
 	  </tr><tr>
 		<td>Event Coordinator</td>
 		<td>Rohan Elukurthy</td>
