@@ -1,13 +1,13 @@
 ---
 - title: "Panel Discussion"
-  speaker: "Few guests"
+  speaker: "few guests"
   date: 2015-10-06
   time: '5:30'
   description: |
-  "Software is slowly becoming an everyday requirement in our lives, from our computers to our new modern toasters. 
-  Computer science is the combination study of software development, software architectures, algorithms, and many more. 
-  If you are a new student or thinking about the CS degree, we highly recommend attending this panel discussion to learn
-  more about computer science and its requirements."
+    "Software is slowly becoming an everyday requirement in our lives, from our computers to our new modern toasters. 
+    Computer science is the combination study of software development, software architectures, algorithms, and many more. 
+    If you are a new student or thinking about the CS degree, we highly recommend attending this panel discussion to learn
+    more about computer science and its requirements."
 
 - title: "New ACM Members Welcome"
   speaker: "ACM"
