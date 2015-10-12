@@ -1,8 +1,44 @@
 ---
+- title: "Game Night"
+  speaker: "ACM"
+  date: 2015-10-15
+  time: '18:00'
+  description: |
+    Hey ACM members! We are hosting a game night this week at the CS lounge. We got plenty of board and stragedy games. 
+    There will also be consoles on hand to play with. It will be fun and will give you a chance to get know other people
+    in the organization. You should stop by!
+    
+    To get there, enter through the Engineering Building. 
+    Go down the stairs. You will see two elevators. Go through the double doors to the left of the elevators. 
+    CS lounge is straight ahead, behind the glass windows. 
+
+- title: "Intro to AI"
+  speaker: "Bart Massey"
+  date: 2015-10-14
+  time: '18:00'
+  description: |
+    ACM is hosting a workshop presented by Bart Massey. Event will be located at room 88-01.
+    Artificial intelligence is the branch of computer science concerned with building computers and computer software
+    that are capable of intelligent behavior or behave like humans. AI is specialized in many different categories. 
+    One as an example is video games. Chess programs are now fully capable of defeating humans. In May, 1997, an 
+    IBM super-computer called Deep Blue defeated world chess champion Gary Kasparov in a chess match.
+    
+- title: "Intro to Linux"
+  speaker: "Theodore Mason"
+  date: 2015-10-13
+  time: '18:00'
+  description: |
+    ACM is hosting a workshop presented by Theodore Mason. Event will be located at room 88-10.
+    Linux is a Unix-like computer operating system and is one of the most famous cases of free and open-source software 
+    collaboration. Linux has now been ported to more computer hardware platforms than any other operating system and is
+    now an essensial part of our lives. Attending this workshop is highly recommended for students seeking to learn
+    more about this OS.
+    
+
 - title: "Panel Discussion"
   speaker: "Former CS Alumni"
   date: 2015-10-08
-  time: '6:00'
+  time: '18:00'
   description: |
     Software is slowly becoming an everyday requirement in our lives, from our computers to our new modern toasters. 
     Computer science is the combination study of software development, software architectures, algorithms, and many more. 
