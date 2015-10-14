@@ -4,12 +4,12 @@
   date: 2015-10-20
   time: '18:00'
   description: |
-  The VIM editor is one of the most powerful text editors around. It is also extremely efficient, 
-  enabling the user to edit files with a minimum of keystrokes. This power and functionality comes
-  at a cost, however: When getting started, users face a steep learning curve. Emacs and its 
-  derivatives are a family of text editors that are characterized by their extensibility. 
-  The manual for the most widely used variant, GNU Emacs, describes it as "the extensible, 
-  customizable, self-documenting, real-time display editor".
+    The VIM editor is one of the most powerful text editors around. It is also extremely efficient, 
+    enabling the user to edit files with a minimum of keystrokes. This power and functionality comes
+    at a cost, however: When getting started, users face a steep learning curve. Emacs and its 
+    derivatives are a family of text editors that are characterized by their extensibility. 
+    The manual for the most widely used variant, GNU Emacs, describes it as "the extensible, 
+    customizable, self-documenting, real-time display editor".
 
 - title: "Game Night"
   speaker: "ACM"
