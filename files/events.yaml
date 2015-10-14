@@ -4,6 +4,8 @@
   date: 2015-10-20
   time: '18:00'
   description: |
+    ACM is hosting a workshop presented by Rohan Elukurthy and Ryan Niebur. Event will be located at room 88-10 and take place at 6:00 pm to 7:30 pm.
+  
     The VIM editor is one of the most powerful text editors around. It is also extremely efficient, 
     enabling the user to edit files with a minimum of keystrokes. This power and functionality comes
     at a cost, however: When getting started, users face a steep learning curve. Emacs and its 
