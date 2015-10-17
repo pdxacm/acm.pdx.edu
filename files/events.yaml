@@ -1,4 +1,121 @@
 ---
+- title: "Vim and Emacs Workshop"
+  speaker: "Rohan & Ryan"
+  date: 2015-10-20
+  time: '18:00'
+  description: |
+    ACM is hosting a workshop presented by Rohan Elukurthy and Ryan Niebur. Event will be located at
+    room 88-10 and takes place at 6:00 pm to 7:30 pm. If you have a hard time finding the building or 
+    the room, visit the about page. It includes the building and the floor plans.
+  
+    The VIM editor is one of the most powerful text editors around. It is also extremely efficient, 
+    enabling the user to edit files with a minimum of keystrokes. This power and functionality comes
+    at a cost, however: When getting started, users face a steep learning curve. Emacs and its 
+    derivatives are a family of text editors that are characterized by their extensibility. 
+    The manual for the most widely used variant, GNU Emacs, describes it as "the extensible, 
+    customizable, self-documenting, real-time display editor".
+
+- title: "Game Night"
+  speaker: "ACM"
+  date: 2015-10-15
+  time: '18:00'
+  description: |
+    Hey ACM members! We are hosting a game night this week at the CS lounge. We got plenty of board and stragedy games. 
+    There will also be consoles on hand to play with. It will be fun and will give you a chance to get know other people
+    in the organization. You should stop by!
+    
+    To get there, enter through the Engineering Building. 
+    Go down the stairs. You will see two elevators. Go through the double doors to the left of the elevators. 
+    CS lounge is straight ahead, behind the glass windows. 
+
+- title: "Intro to AI"
+  speaker: "Bart Massey"
+  date: 2015-12-31
+  time: '18:00'
+  description: |
+    This event was pushed back! It's okay it will still happen, but for now we don't have an exact date. Keep checking
+    or sign up for our mailing list to see when it will be scheduled for.
+  
+    ACM is hosting a workshop presented by Bart Massey. Event will be located at room 88-01.
+    Artificial intelligence is the branch of computer science concerned with building computers and computer software
+    that are capable of intelligent behavior or behave like humans. AI is specialized in many different categories. 
+    One as an example is video games. Chess programs are now fully capable of defeating humans. In May, 1997, an 
+    IBM super-computer called Deep Blue defeated world chess champion Gary Kasparov in a chess match.
+    
+- title: "Intro to Linux"
+  speaker: "Theodore Mason"
+  date: 2015-10-13
+  time: '18:00'
+  description: |
+    ACM is hosting a workshop presented by Theodore Mason. Event will be located at room 88-10.
+    Linux is a Unix-like computer operating system and is one of the most famous cases of free and open-source software 
+    collaboration. Linux has now been ported to more computer hardware platforms than any other operating system and is
+    now an essensial part of our lives. Attending this workshop is highly recommended for students seeking to learn
+    more about this OS.
+    
+
+- title: "Panel Discussion"
+  speaker: "Former CS Alumni"
+  date: 2015-10-08
+  time: '18:00'
+  description: |
+    Software is slowly becoming an everyday requirement in our lives, from our computers to our new modern toasters. 
+    Computer science is the combination study of software development, software architectures, algorithms, and many more. 
+    If you are a new student or thinking about the CS degree, we highly recommend attending this panel discussion to learn
+    more about computer science and its requirements.
+
+- title: "New ACM Members Welcome"
+  speaker: "ACM"
+  date: 2015-10-02
+  time: '12:00'
+  description: |
+    "This event will be in FAB 86-01 (CS Conference) from 12:00PM-1:00PM.
+
+    Thanks to everyone that came by the booth at Party in the Park!
+    We have ~70 new members in the drawing for ACM T-Shirts.
+    See you at the New ACM Member Welcome tomorrow at noon in FAB 86-01.
+
+    FAB 86-01 is located downstairs from the Engineering Building, behind the elevators on your left, opposite the CS Tutor Lounge.
+
+    Pizza will be provided. Come and learn what the ACM has planned for Fall Term and present your ideas for the group."
+
+- title: "Party in the Park"
+  speaker: "ACM"
+  date: 2015-10-01
+  time: '11:00'
+  description: |
+      "Founded in 1990, Party in the Park draws thousands of new PSU 
+      students to the Park Blocks for a day of free food, entertainment,
+      networking, and information about campus activities. The purpose of 
+      Party in the Park is to promote student engagement and leadership 
+      opportunities offered from across the Portland State University 
+      campus to new and returning students. Involvement opportunities 
+      range from campus recreation groups to student organizations from 
+      every cluster under SALP. The day is filled with great entertainment
+      and free food. Be sure to stop by this great event during the first 
+      week of classes.
+      
+      More info can be found at: https://www.pdx.edu/student-leadership/party-in-the-park"
+
+- title: "D3 Meetup: Lightning Talks and Project Demos"
+  speaker: "multiple shorter, more focused talks on specific projects and concepts"
+  date: 2015-09-29
+  time: '18:30'
+  description: |
+      "This event will be in FAB 86-01 (CS Conference) from 6:30PM-8:30PM.
+      D3.js is a JavaScript library for manipulating documents based on
+      data. D3 helps you bring data to life using HTML, SVG, and CSS. D3’s
+      emphasis on web standards gives you the full capabilities of modern
+      browsers without tying yourself to a proprietary framework, combining
+      powerful visualization components and a data-driven approach to DOM
+      manipulation.
+
+      We will have a few people lined up to give short talks on specific
+      parts of D3 and data visualization in general. Those who are interested
+      in showing off the cool things they have created with D3 will have a
+      platform to share, and hopefully the rest of us can gain some cool
+      ideas or inspiration."
+
 - title: "Random"
   speaker: "Bart Massey"
   date: 2015-08-11

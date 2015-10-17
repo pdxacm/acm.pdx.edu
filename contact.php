@@ -17,7 +17,7 @@
     <br>
     <a href="http://www.irchelp.org/irchelp/irctutorial.html#intro" class="irc_link">What is IRC?</a>
     <br>
-    <a class="btn btn-success" href="http://cat.pdx.edu/~thx1138/acm.html">Web IRC Client</a>
+    <a class="btn btn-success" href="http://cat.pdx.edu/~thx1138/acm.html">Chat Now</a>
   </div>
 
   <div class="col-md-4">
@@ -33,9 +33,9 @@
   <div class="col-md-4">
     <h2>Mailing Address</h2>
     <address>
-      Association for Computing Machinery<br />
-      1819 SW 5th Ave. #271<br />
-      Portland OR 97201
+      We currently don't have a mailing address,<br />
+      and will get this fixed but can still<br />
+      be reached at FAB 88-01
     </address>
   </div>
 </div>

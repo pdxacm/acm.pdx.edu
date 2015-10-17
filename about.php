@@ -11,8 +11,12 @@
     The Association for Computing Machinery is the largest international organization devoted to science and education related to computing.
     It is a non-profit organization founded in 1947 that provides its members access to professional publications, conferences, and career resources.
     The ACM also has student programming competitions.
+    <h2>Mission Statement</h2>
+    To provide a platform of educational resources to foster a diverse community of people passionate about technology.
   </div>
 </div>
+
+
 
 <div class="row">
   <div class="col-md-4">
@@ -38,13 +42,13 @@
         <td>Scott Phon</td>
 	  </tr><tr>
 		<td>Event Coordinator</td>
-		<td>John Vo</td>
+		<td>Lisa Gray</td>
 	  </tr><tr>
 		<td>Event Coordinator</td>
 		<td>Rohan Elukurthy</td>
 	  </tr><tr>
 	    <td>Webmaster</td>
-		<td>Chance Snow</td>
+		<td>Currently Open</td>
 	  </tr>
     </table>
   </div>
@@ -55,7 +59,6 @@
     student chapter of the
     <a href="http://www.acm.org/">Association for Computing Machinery</a>.<br />
     <br />
-    We also provide CS tutoring during the week in addition to the existing CS tutors.
     We're open to suggestions for other things we could do as a group.
     Have an idea? <a href="contact.php">Contact us</a>.
     <hr />
@@ -63,10 +66,16 @@
     Portland State University is situated in downtown Portland, Oregon, United States.
     It was founded in 1946 and is the only public university in the state that is located in a major metropolitan city.
     <br /><br />
-    Our group often hangs out in the Portland State University Fourth Avenue Building (FAB), Room 88<br />
-    1900 SW Fourth Avenue<br /> Portland, Oregon 97201<br />
+    ACM is located in the PSU Fourth Avenue Building, Room 88-01. It's considered in the FAB but is below EB.<br />
+    Portland, Oregon 97201<br />
+    (<a href="https://www.pdx.edu/floorplans/buildings/eb">EB</a>)
+    (<a href="https://www.google.com/maps/place/Engineering+Bldg,+Portland,+OR+97201/@45.5090477,-122.6809337,459m/data=!3m2!1e3!4b1!4m7!1m4!3m3!1s0x54950a14116590d7:0x63a5638fb5805e92!2s1900+SW+4th+Ave,+Portland,+OR+97201!3b1!3m1!1s0x54950a146a523c6d:0xc394a5380f970370">Google map</a>)
+    (<a href="https://www.google.com/maps/@45.5092013,-122.681601,3a,75y,118.98h,106.35t/data=!3m6!1e1!3m4!1sNT6aDQIBrfHU_s0U3uPRZw!2e0!7i13312!8i6656">Google view</a>)<br />
+    (<a href="https://www.pdx.edu/floorplans/buildings/fab">FAB</a>)
     (<a href="http://maps.google.com/maps?q=1900+SW+Fourth+Avenue%2C+Portland+Oregon+97201+">Google map</a>)
-    (<a href="http://www.fap.pdx.edu/floorplans/detail2.php?buildingID=12">FAB maps</a>)  </div>
+    (<a href="https://www.google.com/maps/@45.509626,-122.6813765,3a,70.2y,111.35h,107.73t/data=!3m6!1e1!3m4!1sphmLx7aEumzoq6b8zshnGg!2e0!7i13312!8i6656!6m1!1e1">Google view</a>)</div>
+    
+
 </div>
 
 <hr />
