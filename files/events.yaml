@@ -2,6 +2,20 @@
 # ACM is hosting a [Event] (hosted by [Speaker](if applicable)). Event will be located at [Building], [Room], 
 # and takes place at [Start Time] to [End Time].
 #
+- title: "Intro. to Game Design"
+  speaker: "Kiarash"
+  date: 2015-10-29
+  time: '18:00'
+  description: |
+    ACM is hosting a game design meetup. Event will be located at Fourth Avenue Building, room 86-01, 
+    and takes place at 6:00 pm to 7:00 pm.
+  
+    This workshop will focus on the main concepts of game design such as movements, collisions, events, and
+    scores by creating a Flappy Bird clone. It is highly recommended to install the free version of 
+    GameMaker: Studio (Free Version) before attending this event. Although GameMaker is known for a "click and drag"
+    software, all events will be written in code. Therefore, a small knowledge of programming is recommended but
+    not necessary.
+
 - title: "D3 Meetup"
   speaker: "multiple shorter, more focused talks on specific projects and concepts"
   date: 2015-10-27
