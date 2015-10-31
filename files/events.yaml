@@ -2,6 +2,52 @@
 # ACM is hosting a [Event] (hosted by [Speaker](if applicable)). Event will be located at [Building], [Room], 
 # and takes place at [Start Time] to [End Time].
 #
+- title: "*"
+  speaker: "Adron Hall"
+  date: 2015-11-19
+  time: '18:00'
+  description: |
+    This event currently has no description. We are still in the process of administrative processes. Therefore
+    the date/time may change for this event.
+
+- title: "Designing Databases"
+  speaker: "Dean Nida"
+  date: 2015-11-17
+  time: '18:00'
+  description: |
+    This event currently has no description. We are still in the process of administrative processes. Therefore
+    the date/time may change for this event.
+
+- title: "Pair Programming"
+  speaker: "David Whitlock"
+  date: 2015-11-12
+  time: '18:00'
+  description: |
+    This event currently has no description. We are still in the process of administrative processes. Therefore
+    the date/time may change for this event.
+
+- title: "Intro to Git Workshop"
+  speaker: "Lisa Gray"
+  date: 2015-11-10
+  time: '18:00'
+  description: |
+    This event currently has no description. We are still in the process of administrative processes. Therefore
+    the date/time may change for this event.
+
+- title: "Free Professional Headshot Portrait"
+  speaker: "Photographer: SHALINNA PEN PHOTOGRAPHY"
+  date: 2015-11-06
+  time: '18:00'
+  description: |
+    This event currently has no description.
+
+- title: "Rest API"
+  speaker: "Tyler Southwick (from Nike)"
+  date: 2015-11-05
+  time: '18:00'
+  description: |
+    This event currently has no description.
+
 - title: "Intro. to Game Design"
   speaker: "Kiarash"
   date: 2015-12-31
