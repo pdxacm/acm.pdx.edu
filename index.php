@@ -21,9 +21,10 @@
     Go through the double doors to the left of the elevators.
     Suite 88 is straight ahead, behind the glass windows. </li>
   <li>Often times we have guest speakers from the industry or graduate students who talk about their involvements and experiences.</li>
-  <li>While we never force anyone to formally join the ACM, it is highly recommended that interested parties 
-  join the parent organization. It is free for all students and comes with a load of great benefits. Benefits include creating
+  <li>Membership is free for all students and comes with a load of great benefits. Benefits include creating
   and joining group projects of your liking and having access to many devices such as raspberry pi that could be loaned.</li>
+  <li>While we never force anyone to formally join the ACM, it is highly recommended that interested parties
+  join the parent organization. (<a href=http://acm.org>acm.org</a>) It is $19.00/year, gives access to free webinars, discounts tickets to research events, and is the only way to count increasing club membership with the parent organization. </li>
   <li>We play board/card games and have PS3 consoles/games on hand that we play with on our game nights.</li>
 </ul>
 <div class="row">
