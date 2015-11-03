@@ -2,22 +2,32 @@
 # ACM is hosting a [Event] (hosted by [Speaker](if applicable)). Event will be located at [Building], [Room], 
 # and takes place at [Start Time] to [End Time].
 #
-- title: "Intro to Game Design"
-  speaker: "Kiarash"
-  date: 2015-12-31
+#- title: "Intro to Git Workshop"
+#  speaker: "Lisa Gray"
+#  date: 2015-11-10
+#  time: '18:00'
+#  description: |
+#    This event currently has no description. We are still in the process of administrative processes. Therefore
+#    the date/time may change for this event.
+- title: "Free Professional Headshot Portrait"
+  speaker: "Photographer: SHALINNA PEN PHOTOGRAPHY"
+  date: 2015-11-06
   time: '18:00'
   description: |
-    This event was pushed back! It's okay it will still happen, but for now we don't have an exact date. Keep checking
-    or sign up for our mailing list to see when it will be scheduled for.
-  
-    ACM is hosting a game design meetup. Event will be located at Fourth Avenue Building, room 86-01, 
-    and takes place at 6:00 pm to 7:00 pm.
-  
-    This workshop will focus on the main concepts of game design such as movements, collisions, events, and
-    scores by creating a Flappy Bird clone. It is highly recommended to install the free version of 
-    GameMaker: Studio (Free Version) before attending this event. Although GameMaker is known for a "click and drag"
-    software, all events will be written in code. Therefore, a small knowledge of programming is recommended but
-    not necessary.
+      The Association for Computing Machinery (ACM) will be hosting an event
+      at Friday where you can come in and get a professional headshot
+      portrait taken. You get to keep the photo and you can use it in your
+      LinkedIn profile, resume, or any other place you'd like. This is an
+      opportunity for YOU to look professional in how you present yourself
+      online and on paper.
+
+      When you choose a headshot portrait for your social media accounts,
+      you need to think carefully. What is the purpose of your social
+      networking activity? Are you representing yourself as an individual,
+      or are you online as part of your business? Perhaps you’re a student
+      looking for a job. Studies show people with a good headshot are likely
+      to be hired for a well-paying job. Your social media headshot can seem
+      no bigger than a thumbnail, but it packs a powerful punch.
 
 - title: "D3 Meetup"
   speaker: "multiple shorter, more focused talks on specific projects and concepts"
