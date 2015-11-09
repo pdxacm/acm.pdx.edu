@@ -2,17 +2,26 @@
 # ACM is hosting a [Event] (hosted by [Speaker](if applicable)). Event will be located at [Building], [Room], 
 # and takes place at [Start Time] to [End Time].
 #
-#- title: "Intro to Git Workshop"
-#  speaker: "Lisa Gray"
-#  date: 2015-11-10
-#  time: '18:00'
-#  description: |
-#    This event currently has no description. We are still in the process of administrative processes. Therefore
-#    the date/time may change for this event.
+- title: "Git Workshop"
+  speaker: "Lisa Gray"
+  date: 2015-11-10
+  time: '15:00'
+  description: |
+  ACM is hosting a workshop presented by Lisa Gray. 
+  Event will be located at room 88-09 and takes place at 3:00 pm to 4:30 pm.
+  
+  Git and other version control systems are an essential tool for anybody within Computer Science. 
+  As a student, you can use version control to backup and track your changes to homework. If you 
+  realize you have gone down the wrong path, git makes it easy to turn back time and return to a 
+  previous version of it. Furthermore, in the workforce version control will be the core method used
+  to collaborate with your team on a daily basis. It cannot hurt to have this skill on your resume now!
+
+  This workshop introduces you to the world of version control using git and helps you start exploring.
+
 - title: "Free Professional Headshot Portrait"
   speaker: "Photographer: SHALINNA PEN PHOTOGRAPHY"
-  date: 2015-11-06
-  time: '18:00'
+  date: 2015-11-13
+  time: '13:00'
   description: |
       The Association for Computing Machinery (ACM) will be hosting an event
       at Friday where you can come in and get a professional headshot
