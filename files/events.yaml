@@ -19,21 +19,18 @@
     visualization components and a data-driven approach to
     DOM manipulation.
 
-- title: "D3 Meetup"
-  speaker: "multiple shorter, more focused talks on specific projects and concepts"
+- title: "Pair Programming and Test-Driven Development"
+  speaker: "David Whitlock & Jason Owen"
   date: 2015-11-24
-  time: '18:30'
+  time: '19:00'
   description: |
-    ACM is hosting a D3 meetup. Event will be located at Fourth Avenue Building, room 40-07, 
-    and takes place at 6:30 pm to 8:30 pm.
+    ACM is hosting a pair-programming and TDD workshop. Event will be located at Fourth Avenue Building, room 40-07, 
+    and takes place at 7:00 pm to 9:00 pm.
   
-    D3.js is a JavaScript library for manipulating documents
-    based on data. D3 helps you bring data to life using HTML,
-    SVG, and CSS. D3’s emphasis on web standards gives you
-    the full capabilities of modern browsers without tying
-    yourself to a proprietary framework, combining powerful
-    visualization components and a data-driven approach to
-    DOM manipulation.
+    Come practice Pair Programming and Test-Driven Development with your fellow students. Pair Programming is an Agile
+    methodology in which two developers share a single workstation and work together to solve some problem. Test-Driven
+    Development is a development process that relies on the repetition of a short development cycle driven by writing 
+    tests before any implementation code. Red, Green, Refactor.
 
 - title: "Git Workshop"
   speaker: "Lisa Gray"
