@@ -33,10 +33,10 @@
         <td><a href="https://www.linkedin.com/pub/daniel-eynis/a5/9a3/649">Daniel Eynis</a><!-- - cawhite at pdx.edu--></td>
       </tr><tr>
         <td>Outreach Coordinator</td>
-        <td><a href="https://github.com/alexhugheswise">Alex Wise</a></td>
+        <td>Larry Chiem</td>
       </tr><tr>
         <td>Treasurer</td>
-        <td><a href="https://github.com/restart32">Kiarash Torkian</a></td>
+        <td><a href="https://github.com/Kiarasht">Kiarash Torkian</a></td>
       </tr><tr>
         <td>Secretary</td>
         <td>Scott Phon</td>
@@ -48,7 +48,7 @@
 		<td>Rohan Elukurthy</td>
 	  </tr><tr>
 	    <td>Webmaster</td>
-		<td>Currently Open</td>
+		<td>Karis</td>
 	  </tr>
     </table>
   </div>
