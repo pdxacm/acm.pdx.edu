@@ -30,7 +30,7 @@
         <td><a href="https://www.linkedin.com/pub/daniel-eynis/a5/9a3/649">Daniel Eynis</a></td>
       </tr><tr>
         <td>Vice-Chair</td>
-        <td>Ryan Niebur</td>
+        <td>Adrian Jinbo</td>
       </tr><tr>
         <td>Outreach Coordinator</td>
         <td>Larry Chiem</td>
@@ -39,7 +39,7 @@
         <td><a href="https://github.com/Kiarasht">Kiarash Torkian</a></td>
       </tr><tr>
         <td>Secretary</td>
-        <td>Scott Phon</td>
+        <td><a href="https://www.linkedin.com/in/sconsons-phon-46933572">Scott Phon</a></td>
 	  </tr><tr>
 		<td>Event Coordinator</td>
 		<td>Lisa Gray</td>
@@ -48,7 +48,7 @@
 		<td>Rohan Elukurthy</td>
 	  </tr><tr>
 	    <td>Webmaster</td>
-		<td>Karis</td>
+		<td>Karis Hutcheson</td>
 	  </tr>
     </table>
   </div>
