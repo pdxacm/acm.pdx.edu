@@ -26,11 +26,11 @@
         <td>Advisor</td>
         <td><a href="http://web.cecs.pdx.edu/~bart/">Bart Massey</a><!-- - bart at cs.pdx.edu--></td>
       </tr><tr>
-        <td>Co-chair</td>
-        <td>Ryan Neibur<!-- - mahan2 at pdx.edu--></td>
+        <td>Chair</td>
+        <td><a href="https://www.linkedin.com/pub/daniel-eynis/a5/9a3/649">Daniel Eynis</a></td>
       </tr><tr>
-        <td>Co-chair</td>
-        <td><a href="https://www.linkedin.com/pub/daniel-eynis/a5/9a3/649">Daniel Eynis</a><!-- - cawhite at pdx.edu--></td>
+        <td>Vice-Chair</td>
+        <td>Ryan Niebur</td>
       </tr><tr>
         <td>Outreach Coordinator</td>
         <td>Larry Chiem</td>
