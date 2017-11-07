@@ -43,7 +43,7 @@
   </div>
   <div class="col-md-4">
     <h2>Mailing List</h2>
-    <a href="https://mailhost.cecs.pdx.edu/cgi-bin/mailman/listinfo/acm-members">ACM Mailing List</a>
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfD49MliXqUP7QERKSpbBVT1jDyejtzBGnal9-ZJD4LuHiKNw/viewform">Sign up for ACM Mailing List</a>
   </div>
 
 </div>
