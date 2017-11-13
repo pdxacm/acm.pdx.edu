@@ -1,8 +1,39 @@
 ---
-# ACM is hosting a [Event] (hosted by [Speaker](if applicable)). Event will be located at [Building], [Room], 
+# ACM is hosting a [Event] workshop/speak (hosted by [Speaker](if applicable)). Event will be located at [Building], [Room], 
 # and takes place at [Start Time] to [End Time].
 #
+- title: "Crosswalk: Web innovation for Android/Windows"
+  speaker: "Alexis Menard"
+  date: 2015-1-21
+  time: '15:00'
+  description: |
+    ACM is hosting a web innovation workshop. Event will be located at Fourth Avenue Building, room 88-09, 
+    and takes place at 3:00 pm to 4:00 pm.
 
+    Bio:
+
+    Alexis Menard is a software engineer working at Intel in Oregon as part of the Open Source Technology Center.
+    Here his main focus is on the ever evolving Web Platform, which includes work on W3C standards as well as Blink/Chromium.
+    In the latter projects, he serves as both developer and code reviewer. Alexis is also working on Crosswalk, an HTML5
+    runtime/webview for Android and Windows where he does a bit of everything. Prior to Intel, Alexis worked on QtWebKit
+    and WebKit itself at the Brazilian Nokia research center known as INdT. Before moving to Brazil, Alexis worked out of
+    Norway, mostly on the Qt framework as a part of Nokia (former Trolltech). He is also a former KDE contributor where he
+    contributed mostly to Plasma, the desktop shell of KDE.
+
+    Crosswalk: Unleash the fury of web innovation in your Android/Windows web app today.
+
+    HTML5 has been adopted by many developers for its advantages such as straight-forward integration with cloud services,
+    flexible layout with responsive design, and cutting edge technologies such as WebRTC, WebGL, and Canvas. However, using
+    the latest web standards has been challenging on Android and Windows because the ecosystem is heterogeneous and 
+    fragmented with various versions in use. Deploying on popular but dated Android versions such as 4.0 is often complicated,
+    as the integrated WebView may have performance limitations and is lacking important features. Application authors are then
+    restricted to the smallest common featureset. With Crosswalk, a Chromium-based HTML5 framework developed by Intel, those
+    limitations can be overcome. Crosswalk offers you a way to bundle the Chromium web engine with your app and deploy it across
+    all Android 4.x versions as well as Windows 8 and 10. On top of solving portability issues, Crosswalk adds features
+    (SysApps and Presentation API, SIMD, Manifest support) and optimizations for web app developers. During the presentation
+    we will demonstrate how easy it is to package and deploy your application on Android or Windows and how well existing tools
+    such as Cordova works with Crosswalk. Come and find out how your HTML5 applications can run better than ever on Android or Windows.
+    
 - title: "D3 Meetup"
   speaker: "multiple shorter, more focused talks on specific projects and concepts"
   date: 2015-12-29
