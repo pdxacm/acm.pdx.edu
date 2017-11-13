@@ -35,7 +35,7 @@
   <div class="col-md-4">
     <h2>Slack</h2>
     Join our slack channel at
-    <a href="psuacm.slack.com">psuacm.slack.com</a>
+    <a href="https://psuacm.slack.com/">psuacm.slack.com</a>
     <br>
     <h2>Mailing List</h2>
     <a href="https://docs.google.com/forms/d/e/1FAIpQLSfD49MliXqUP7QERKSpbBVT1jDyejtzBGnal9-ZJD4LuHiKNw/viewform">Sign up for PSU ACM Mailing List</a>
