@@ -27,6 +27,21 @@
         <td><a href="http://web.cecs.pdx.edu/~bart/">Bart Massey</a><!-- - bart at cs.pdx.edu--></td>
       </tr><tr>
         <td>Chair</td>
+        <td>Molly Shove</td>
+      </tr><tr>
+        <td>Vice-Chair</td>
+        <td>Terry Tower</td>
+      </tr><tr>
+        <td>Treasurer</td>
+        <td>Sean Roberts</td>
+      </tr><tr>
+        <td>Secretary</td>
+        <td>Joseph Venetucci</td>
+	  </tr><tr>
+	    <td>Webmaster</td>
+		<td>Tim Handojo</td>
+	  </tr>
+        <!--<td>Chair</td>
         <td><a href="https://www.linkedin.com/pub/daniel-eynis/a5/9a3/649">Daniel Eynis</a></td>
       </tr><tr>
         <td>Vice-Chair</td>
@@ -50,6 +65,7 @@
 	    <td>Webmaster</td>
 		<td>Karis Hutcheson</td>
 	  </tr>
+-->
     </table>
   </div>
   <div class="col-md-8">
@@ -66,7 +82,7 @@
     Portland State University is situated in downtown Portland, Oregon, United States.
     It was founded in 1946 and is the only public university in the state that is located in a major metropolitan city.
     <br /><br />
-    ACM is located in the PSU Fourth Avenue Building, Room 88-01. It's considered in the FAB but is below EB.<br />
+    ACM is located in the PSU Fourth Avenue Building, Room 88-08. It's considered in the FAB but is below EB.<br />
     Portland, Oregon 97201<br />
     (<a href="https://www.pdx.edu/floorplans/buildings/eb">EB</a>)
     (<a href="https://www.google.com/maps/place/Engineering+Bldg,+Portland,+OR+97201/@45.5090477,-122.6809337,459m/data=!3m2!1e3!4b1!4m7!1m4!3m3!1s0x54950a14116590d7:0x63a5638fb5805e92!2s1900+SW+4th+Ave,+Portland,+OR+97201!3b1!3m1!1s0x54950a146a523c6d:0xc394a5380f970370">Google map</a>)

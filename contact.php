@@ -11,23 +11,22 @@
 
 <div class="row">
   <div class="col-md-4">
-    <h2>IRC</h2>
-    Join us at
-    <a href="irc://irc.cat.pdx.edu/#acm"> #acm irc.cat.pdx.edu</a>
-    <br>
-    <a href="http://www.irchelp.org/irchelp/irctutorial.html#intro" class="irc_link">What is IRC?</a>
-    <br>
-    <a class="btn btn-success" href="http://cat.pdx.edu/~thx1138/acm.html">Chat Now</a>
+    <h2>Slack</h2>
+    Join our slack channel at
+    <a href="psuacm.slack.com">psuacm.slack.com</a>
   </div>
 
   <div class="col-md-4">
     <h2>Email</h2>
     <p>
-    <a href="mailto:acm_officers@cs.pdx.edu">acm_officers@cs.pdx.edu</a>
+    <a href="mailto:thepdxacm@gmail.com">thepdxacm@gmail.com</a>
     </p>
     <p>
-      This will forward your message to each of the active officers for this chapter.
+      Email communication is done through this email.
+      <br>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfD49MliXqUP7QERKSpbBVT1jDyejtzBGnal9-ZJD4LuHiKNw/viewform">Sign up for our mailing list</a>
     </p>
+    
   </div>
 
   <div class="col-md-4">
@@ -35,7 +34,7 @@
     <address>
       We currently don't have a mailing address,<br />
       and will get this fixed but can still<br />
-      be reached at FAB 88-01
+      be reached at FAB 88-08
     </address>
   </div>
 </div>

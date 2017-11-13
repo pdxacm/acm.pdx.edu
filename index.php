@@ -15,7 +15,7 @@
 <p>Here's some general info about our organization:</p>
 
 <ul>
-  <li>We meet every Tuesday at 6 PM in FAB 88-01. To get there, enter through the Engineering Building.
+  <li>We meet every Monday at 3:00 PM in FAB 88-08. To get there, enter through the Engineering Building.
     Go down the stairs.
     You will see two elevators.
     Go through the double doors to the left of the elevators.
@@ -28,24 +28,18 @@
   <li>We play board/card games and have PS3 consoles/games on hand that we play with on our game nights.</li>
 </ul>
 <div class="row">
-  <div class="col-md-4">
+  <div class="col-md-8">
     <h2>Upcoming Events</h2>
-    <?php event_sidebar() ?>
-  </div>
+    <ul class="list-unstyled upcoming-events"></ul><iframe src="https://calendar.google.com/calendar/embed?src=thepdxacm%40gmail.com&amp;ctz=America/Los_Angeles" style="border: 0" width="700" height="600" frameborder="0" scrolling="no"></iframe>
+</div>
   <div class="col-md-4">
-    <h2>IRC</h2>
-    Join us at
-    <a href="irc://irc.cat.pdx.edu/#acm"> #acm irc.cat.pdx.edu</a>
+    <h2>Slack</h2>
+    Join our slack channel at
+    <a href="psuacm.slack.com">psuacm.slack.com</a>
     <br>
-    <a href="http://www.irchelp.org/irchelp/irctutorial.html#intro" class="irc_link">What is IRC?</a>
-    <br>
-    <a class="btn btn-success" href="http://cat.pdx.edu/~thx1138/acm.html">Chat Now</a>
-  </div>
-  <div class="col-md-4">
     <h2>Mailing List</h2>
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfD49MliXqUP7QERKSpbBVT1jDyejtzBGnal9-ZJD4LuHiKNw/viewform">Sign up for ACM Mailing List</a>
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfD49MliXqUP7QERKSpbBVT1jDyejtzBGnal9-ZJD4LuHiKNw/viewform">Sign up for PSU ACM Mailing List</a>
   </div>
-
 </div>
 
 
