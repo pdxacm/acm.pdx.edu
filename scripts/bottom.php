@@ -1,7 +1,7 @@
       <hr>
 
       <footer>
-        <p>&copy; 2015 ACM @ PSU</p>
+        <p>&copy; 2017-2018 ACM @ PSU</p>
       </footer>
     </div>
   </body>
