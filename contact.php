@@ -13,7 +13,7 @@
   <div class="col-md-4">
     <h2>Slack</h2>
     Join our slack channel at
-    <a href="psuacm.slack.com">psuacm.slack.com</a>
+    <a href="https://psuacm.slack.com/">psuacm.slack.com</a>
   </div>
 
   <div class="col-md-4">
