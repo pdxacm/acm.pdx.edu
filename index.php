@@ -15,7 +15,7 @@
 <p>Here's some general info about our organization:</p>
 
 <ul>
-  <li>We meet every Monday at 3:00 PM in FAB 88-08. To get there, enter through the Engineering Building.
+  <li>We meet every Monday at 6:30 PM in FAB 88-08. To get there, enter through the Engineering Building.
     Go down the stairs.
     You will see two elevators.
     Go through the double doors to the left of the elevators.
